@@ -3,7 +3,7 @@
 $host = 'sql101.infinityfree.com';
 $db   = 'if0_42166265_antricare';
 $user = 'if0_42166265';
-$pass = 'PASSWORD_VPANEL_ANDA';  // Ganti dengan password Anda!
+$pass = 'Vaniadoang2018';  // Ganti dengan password Anda!
 
 $charset = 'utf8mb4';   
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
