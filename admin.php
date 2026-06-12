@@ -3,23 +3,29 @@ session_start();
 
 // 1. Cek jika TIDAK login
 if (!isset($_SESSION['user_id'])) {
-    // Alihkan ke login (perilaku lama sudah benar)
     $redirect_url = urlencode($_SERVER['REQUEST_URI']);
     header('Location: login.html?redirect_url=' . $redirect_url);
     exit;
 }
 
-// 2. Cek jika BUKAN ADMIN (PENTING!)
+// 2. Cek jika BUKAN ADMIN
 if ($_SESSION['user_role'] !== 'admin') {
-    // Pengguna ini login, tapi sebagai 'user' biasa.
-    // Tendang mereka ke halaman home, karena mereka tidak boleh di sini.
     header('Location: index.html'); 
     exit;
 }
 
-// --- Jika lolos kedua cek di atas, dia adalah ADMIN ---
-include 'db.php'; // (Hanya jika halaman ini perlu $pdo)
-// ... (sisa kode halaman Anda) ...
+include 'db.php';
+
+// Hitung statistik untuk KPI Cards
+$stmt = $pdo->query("SELECT COUNT(*) as total FROM queues");
+$total_pasien = $stmt->fetch()['total'];
+
+$stmt = $pdo->prepare("SELECT COUNT(*) as total FROM queues WHERE DATE(timestamp) = CURDATE()");
+$stmt->execute();
+$antrian_hari_ini = $stmt->fetch()['total'];
+
+$stmt = $pdo->query("SELECT COUNT(DISTINCT poli) as total FROM queues WHERE poli IS NOT NULL AND poli != ''");
+$poli_aktif = $stmt->fetch()['total'];
 ?>
 
 <!DOCTYPE html>
@@ -51,14 +57,38 @@ include 'db.php'; // (Hanya jika halaman ini perlu $pdo)
 </header>
 
 <main class="page-container">
+   <!-- KPI CARDS YANG DIPERBAIKI -->
+<div class="kpi-grid">
+    <div class="kpi-card">
+        <div class="kpi-info">
+            <h4>📊 TOTAL PASIEN</h4>
+            <div class="kpi-number"><?php echo number_format($total_pasien); ?></div>
+        </div>
+        <div class="kpi-icon">👥</div>
+    </div>
+    <div class="kpi-card">
+        <div class="kpi-info">
+            <h4>📋 ANTRIAN HARI INI</h4>
+            <div class="kpi-number"><?php echo number_format($antrian_hari_ini); ?></div>
+        </div>
+        <div class="kpi-icon">🎫</div>
+    </div>
+    <div class="kpi-card">
+        <div class="kpi-info">
+            <h4>🏥 POLI AKTIF</h4>
+            <div class="kpi-number"><?php echo $poli_aktif; ?></div>
+        </div>
+        <div class="kpi-icon">🏛️</div>
+    </div>
+</div>
+
     <section class="admin-section">
         <h1>Tabel Manajemen Antrian</h1>
         <p>Gunakan tombol "Panggil Berikutnya" untuk mengelola alur antrian di setiap poli.</p>
         
         <div id="admin-dashboard" class="admin-dashboard">
             <p>Memuat data antrian...</p>
-            </div>
-
+        </div>
     </section>
 </main>
 

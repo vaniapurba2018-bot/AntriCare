@@ -391,5 +391,131 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 // ... (KODE ANDA SEBELUMNYA TETAP DI SINI) ...
     // (Misalnya di bawah logika togglePasswordIcons)
+// ============================================
+// IMPROVISASI TAMBAHAN
+// ============================================
 
+// --- TOAST NOTIFICATION (Improvisasi) ---
+window.showToast = function(message, type = 'info') {
+    let container = document.querySelector('.toast-container');
+    if (!container) {
+        container = document.createElement('div');
+        container.className = 'toast-container';
+        document.body.appendChild(container);
+    }
+    
+    const toast = document.createElement('div');
+    toast.className = `toast ${type}`;
+    
+    let icon = 'ℹ️';
+    if (type === 'success') icon = '✅';
+    if (type === 'error') icon = '❌';
+    if (type === 'warning') icon = '⚠️';
+    if (type === 'info') icon = 'ℹ️';
+    
+    toast.innerHTML = `
+        <span class="toast-icon">${icon}</span>
+        <span class="toast-message">${message}</span>
+        <button class="toast-close">&times;</button>
+    `;
+    
+    container.appendChild(toast);
+    
+    // Auto remove after 3 seconds
+    setTimeout(() => {
+        if (toast && toast.remove) toast.remove();
+    }, 3000);
+    
+    // Close button
+    const closeBtn = toast.querySelector('.toast-close');
+    if (closeBtn) {
+        closeBtn.addEventListener('click', () => toast.remove());
+    }
+};
+
+// --- LOADING STATE untuk Tombol ---
+const addLoadingToButtons = () => {
+    document.querySelectorAll('form button[type="submit"], form input[type="submit"]').forEach(btn => {
+        if (!btn.hasAttribute('data-loading-listener')) {
+            btn.setAttribute('data-loading-listener', 'true');
+            btn.addEventListener('click', function(e) {
+                if (this.classList.contains('btn-loading')) return;
+                const originalText = this.innerHTML;
+                this.innerHTML = '⏳ Memproses...';
+                this.classList.add('btn-loading');
+                this.disabled = true;
+                
+                setTimeout(() => {
+                    if (this.classList.contains('btn-loading')) {
+                        this.innerHTML = originalText;
+                        this.classList.remove('btn-loading');
+                        this.disabled = false;
+                    }
+                }, 5000);
+            });
+        }
+    });
+};
+
+// --- HAMBURGER MENU ---
+const initHamburgerMenu = () => {
+    const navbar = document.querySelector('.navbar');
+    if (!navbar) return;
+    
+    // Cek apakah tombol hamburger sudah ada
+    let menuToggle = document.querySelector('.menu-toggle');
+    if (!menuToggle) {
+        menuToggle = document.createElement('button');
+        menuToggle.className = 'menu-toggle';
+        menuToggle.setAttribute('aria-label', 'Menu');
+        menuToggle.innerHTML = '<span></span><span></span><span></span>';
+        
+        const navLinks = document.querySelector('.nav-links');
+        const navButtons = document.querySelector('.nav-buttons');
+        
+        if (navLinks && navButtons) {
+            // Sisipkan sebelum nav-buttons
+            navbar.insertBefore(menuToggle, navButtons);
+        } else {
+            navbar.appendChild(menuToggle);
+        }
+    }
+    
+    const navLinks = document.querySelector('.nav-links');
+    if (menuToggle && navLinks) {
+        menuToggle.addEventListener('click', () => {
+            navLinks.classList.toggle('show');
+        });
+        
+        // Tutup menu saat klik di luar
+        document.addEventListener('click', (event) => {
+            if (!navLinks.contains(event.target) && !menuToggle.contains(event.target)) {
+                navLinks.classList.remove('show');
+            }
+        });
+    }
+};
+
+// --- INIT IMPROVISASI ---
+document.addEventListener('DOMContentLoaded', () => {
+    initHamburgerMenu();
+    addLoadingToButtons();
+    
+    // Override alert lama dengan toast (opsional)
+    window.originalAlert = window.alert;
+    window.alert = function(message) {
+        showToast(message, 'info');
+    };
+});
+
+// Panggil improvisasi setelah DOM ready (tanpa konflik dengan kode existing)
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+        initHamburgerMenu();
+        addLoadingToButtons();
+    });
+} else {
+    initHamburgerMenu();
+    addLoadingToButtons();
+}
 }); // <-- INI ADALAH KURUNG PENUTUP TERAKHIR DARI document.addEventListener
