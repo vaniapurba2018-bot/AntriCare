@@ -136,29 +136,6 @@ $poli_aktif_lap = $stmt->fetch()['total'];
 ?>
 
 <!-- KPI CARDS (letakkan setelah <main class="page-container">) -->
-<div class="kpi-grid">
-    <div class="kpi-card">
-        <div class="kpi-info">
-            <h4>TOTAL PASIEN</h4>
-            <div class="kpi-number"><?php echo number_format($total_pasien_lap); ?></div>
-        </div>
-        <div class="kpi-icon">👥</div>
-    </div>
-    <div class="kpi-card">
-        <div class="kpi-info">
-            <h4>ANTRIAN HARI INI</h4>
-            <div class="kpi-number"><?php echo number_format($antrian_hari_ini_lap); ?></div>
-        </div>
-        <div class="kpi-icon">📋</div>
-    </div>
-    <div class="kpi-card">
-        <div class="kpi-info">
-            <h4>POLI AKTIF</h4>
-            <div class="kpi-number"><?php echo $poli_aktif_lap; ?></div>
-        </div>
-        <div class="kpi-icon">🏥</div>
-    </div>
-</div>
 
     <form method="GET" action="laporan.php" style="display: flex; gap: 10px; align-items: center; justify-content: flex-end; margin-bottom: 10px;">
         <span style="font-size: 14px;">Filter Tanggal:</span>

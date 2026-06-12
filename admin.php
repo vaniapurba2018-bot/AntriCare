@@ -57,31 +57,7 @@ $poli_aktif = $stmt->fetch()['total'];
 </header>
 
 <main class="page-container">
-   <!-- KPI CARDS YANG DIPERBAIKI -->
-<div class="kpi-grid">
-    <div class="kpi-card">
-        <div class="kpi-info">
-            <h4>📊 TOTAL PASIEN</h4>
-            <div class="kpi-number"><?php echo number_format($total_pasien); ?></div>
-        </div>
-        <div class="kpi-icon">👥</div>
-    </div>
-    <div class="kpi-card">
-        <div class="kpi-info">
-            <h4>📋 ANTRIAN HARI INI</h4>
-            <div class="kpi-number"><?php echo number_format($antrian_hari_ini); ?></div>
-        </div>
-        <div class="kpi-icon">🎫</div>
-    </div>
-    <div class="kpi-card">
-        <div class="kpi-info">
-            <h4>🏥 POLI AKTIF</h4>
-            <div class="kpi-number"><?php echo $poli_aktif; ?></div>
-        </div>
-        <div class="kpi-icon">🏛️</div>
-    </div>
-</div>
-
+    <!-- KPI CARDS -->
     <section class="admin-section">
         <h1>Tabel Manajemen Antrian</h1>
         <p>Gunakan tombol "Panggil Berikutnya" untuk mengelola alur antrian di setiap poli.</p>
