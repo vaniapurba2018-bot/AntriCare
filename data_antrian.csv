@@ -1,0 +1,2001 @@
+id,poli,nomor_antrian,nama_pasien,nik,status,timestamp,dokter
+1,Poli Umum,POLI-804,"Drs. Rahayu Siregar, S.Sos",9558734209564832,done,2025-05-16 13:00:00,dr. Andi
+2,Poli Gizi,POLI-077,Lidya Sudiati,7581194915052381,done,2025-02-18 18:00:00,dr. Eka
+3,Poli KIA,POLI-340,Akarsana Sihombing,3616663270853299,done,2025-01-11 11:00:00,dr. Fajar
+4,Poli Gigi,POLI-860,Puspa Anggraini,4372621734948815,done,2025-03-26 17:00:00,dr. Dina
+5,Poli Umum,POLI-431,"R.A. Ika Zulkarnain, M.TI.",2249436154282528,done,2025-03-26 16:00:00,dr. Budi
+6,Poli KIA,POLI-530,Nasrullah Widodo,4701778853968642,done,2025-05-29 08:00:00,dr. Citra
+7,Poli Gigi,POLI-366,Dt. Cecep Nugroho,8320555281618036,done,2025-02-20 10:00:00,dr. Eka
+8,Poli Umum,POLI-021,Dian Wahyuni,5364751709427795,done,2025-02-19 18:00:00,dr. Eka
+9,Poli Gigi,POLI-785,Ella Samosir,7396008303880482,done,2025-02-27 08:00:00,dr. Dina
+10,Poli Lansia,POLI-484,Tina Anggraini,0029315974074044,serving,2025-05-07 13:00:00,dr. Andi
+11,Poli Gizi,POLI-239,"Dirja Maryadi, S.Pt",7010713436419595,serving,2025-03-24 16:00:00,dr. Andi
+12,Poli Lansia,POLI-508,drg. Widya Yulianti,3929895013769135,waiting,2025-05-20 17:00:00,dr. Fajar
+13,Poli KB,POLI-452,Maras Sihotang,7161157049256674,done,2025-01-27 12:00:00,dr. Fajar
+14,Poli Lansia,POLI-032,Ifa Mansur,6008098584194791,done,2025-01-26 14:00:00,dr. Citra
+15,Poli Lansia,POLI-568,Puti Nilam Sirait,9663598341615470,waiting,2025-03-08 15:00:00,dr. Citra
+16,Poli Umum,POLI-599,Hj. Rini Iswahyudi,5378214737335619,waiting,2025-02-15 14:00:00,dr. Eka
+17,Poli Lansia,POLI-906,Adiarja Marbun,5851624586816532,done,2025-03-13 16:00:00,dr. Eka
+18,Poli KIA,POLI-573,Kayun Waskita,2016104717582673,serving,2025-04-10 08:00:00,dr. Citra
+19,Poli KIA,POLI-150,Putri Adriansyah,5237613913217053,done,2025-02-11 12:00:00,dr. Budi
+20,Poli Umum,POLI-087,Gantar Saefullah,8535612246317731,serving,2025-03-29 14:00:00,dr. Fajar
+21,Poli Lansia,POLI-883,drg. Zamira Fujiati,8273500839723888,done,2025-01-01 08:00:00,dr. Budi
+22,Poli Lansia,POLI-424,Najwa Budiman,1320401368696537,done,2025-05-11 13:00:00,dr. Eka
+23,Poli Lansia,POLI-371,KH. Gatra Padmasari,1970665932655835,waiting,2025-03-16 09:00:00,dr. Dina
+24,Poli Lansia,POLI-721,Kasiran Uwais,8583968132458710,done,2025-04-20 15:00:00,dr. Fajar
+25,Poli Gizi,POLI-817,Tgk. Karna Narpati,4204682283534591,serving,2025-03-17 08:00:00,dr. Fajar
+26,Poli Lansia,POLI-550,Jais Purnawati,5446961354386170,done,2025-05-04 17:00:00,dr. Andi
+27,Poli Umum,POLI-644,"Hari Halim, S.Sos",1329239031980081,done,2025-04-23 11:00:00,dr. Fajar
+28,Poli Lansia,POLI-042,Pia Mandala,8999977607614700,done,2025-03-23 09:00:00,dr. Budi
+29,Poli Gigi,POLI-693,"Farhunnisa Haryanto, M.TI.",2318728282325966,waiting,2025-04-01 18:00:00,dr. Dina
+30,Poli Gizi,POLI-771,Gamblang Pradipta,6450615704210738,done,2025-03-17 11:00:00,dr. Budi
+31,Poli Lansia,POLI-308,Drs. Mahfud Rahayu,7252923437768403,done,2025-05-16 11:00:00,dr. Fajar
+32,Poli Gizi,POLI-775,"Gada Laksmiwati, S.I.Kom",4311718218281037,done,2025-01-17 17:00:00,dr. Eka
+33,Poli Lansia,POLI-454,"Uda Habibi, M.M.",9843969547199103,done,2025-03-26 08:00:00,dr. Citra
+34,Poli KB,POLI-522,"Faizah Santoso, M.Pd",9804020704948628,waiting,2025-03-19 11:00:00,dr. Andi
+35,Poli KB,POLI-953,"Kiandra Siregar, M.TI.",1520268893046921,done,2025-02-12 08:00:00,dr. Andi
+36,Poli Umum,POLI-227,Danu Wasita,1507118754382692,done,2025-05-16 16:00:00,dr. Budi
+37,Poli Umum,POLI-056,Dt. Hari Wulandari,2703526920130232,done,2025-01-07 18:00:00,dr. Andi
+38,Poli Umum,POLI-021,Putri Usada,1087582959418029,serving,2025-02-18 18:00:00,dr. Andi
+39,Poli Umum,POLI-990,dr. Umaya Tampubolon,9809944625326598,done,2025-05-17 13:00:00,dr. Citra
+40,Poli KB,POLI-106,Ani Maryati,7379740857372095,serving,2025-04-14 15:00:00,dr. Andi
+41,Poli KB,POLI-742,Wulan Hakim,4381965799589892,done,2025-01-04 18:00:00,dr. Andi
+42,Poli Gigi,POLI-317,Wulan Adriansyah,6552870046962752,waiting,2025-05-26 09:00:00,dr. Budi
+43,Poli KIA,POLI-190,"Drs. Endah Manullang, S.E.",4172144589781217,done,2025-04-17 14:00:00,dr. Eka
+44,Poli KB,POLI-509,Sutan Koko Safitri,2102841275228648,done,2025-04-15 10:00:00,dr. Citra
+45,Poli Gizi,POLI-349,Vera Uwais,0616654427563190,done,2025-05-23 12:00:00,dr. Citra
+46,Poli Gigi,POLI-417,Tgk. Irma Sirait,5142772132742111,done,2025-05-29 15:00:00,dr. Eka
+47,Poli Umum,POLI-548,drg. Cagak Najmudin,5674909123691241,done,2025-02-15 08:00:00,dr. Eka
+48,Poli Gigi,POLI-100,"dr. Hasna Hutagalung, M.Kom.",2812599889996658,waiting,2025-05-09 16:00:00,dr. Citra
+49,Poli KB,POLI-065,"Dr. Malika Waluyo, M.Ak",4023537254551672,done,2025-01-02 08:00:00,dr. Budi
+50,Poli Gigi,POLI-449,R. Gadang Rahayu,1171339285364463,waiting,2025-05-14 16:00:00,dr. Eka
+51,Poli Lansia,POLI-503,Ayu Hartati,7744686887123918,done,2025-04-29 09:00:00,dr. Dina
+52,Poli Gigi,POLI-510,"Gara Nuraini, M.Farm",3235846094652482,done,2025-03-27 15:00:00,dr. Budi
+53,Poli KIA,POLI-535,Pia Hidayat,5561238434857812,serving,2025-01-08 14:00:00,dr. Eka
+54,Poli Gigi,POLI-068,Olivia Siregar,0969296200232663,waiting,2025-04-29 10:00:00,dr. Andi
+55,Poli KIA,POLI-780,Karma Yulianti,1805951107018989,done,2025-02-22 13:00:00,dr. Budi
+56,Poli Gizi,POLI-634,drg. Wulan Simbolon,6845135828887814,done,2025-05-28 11:00:00,dr. Dina
+57,Poli Gigi,POLI-176,KH. Makara Adriansyah,3390895807819216,done,2025-03-07 08:00:00,dr. Citra
+58,Poli Lansia,POLI-162,Ida Uwais,6593758094627334,done,2025-01-10 08:00:00,dr. Citra
+59,Poli Gizi,POLI-180,"Sutan Dariati Adriansyah, M.Kom.",9131665522636916,serving,2025-05-26 13:00:00,dr. Citra
+60,Poli Gigi,POLI-221,"Pandu Laksmiwati, M.Pd",8843827378995782,serving,2025-04-25 18:00:00,dr. Dina
+61,Poli Umum,POLI-378,"Dr. Kiandra Hardiansyah, S.Psi",4819152372580636,done,2025-05-19 18:00:00,dr. Fajar
+62,Poli KIA,POLI-062,"Yono Maulana, M.Kom.",8408349395075916,serving,2025-01-31 16:00:00,dr. Dina
+63,Poli KB,POLI-572,Eva Nugroho,4378886597644905,done,2025-03-16 10:00:00,dr. Fajar
+64,Poli Umum,POLI-692,"Paiman Puspita, S.E.I",1763347003751592,done,2025-04-04 10:00:00,dr. Budi
+65,Poli KIA,POLI-971,Bakianto Dabukke,3410783571391522,serving,2025-05-23 08:00:00,dr. Dina
+66,Poli Gigi,POLI-226,Ozy Maheswara,8628075755983417,waiting,2025-02-13 15:00:00,dr. Citra
+67,Poli Gizi,POLI-971,Damar Kusumo,9713271315405952,done,2025-05-22 16:00:00,dr. Dina
+68,Poli Gigi,POLI-599,"Drs. Puti Yulianti, M.TI.",3223559617527309,done,2025-01-26 17:00:00,dr. Citra
+69,Poli Lansia,POLI-987,Ibrani Gunarto,0967909985568088,done,2025-05-07 15:00:00,dr. Fajar
+70,Poli Umum,POLI-537,Lanjar Suwarno,4839032345544891,done,2025-01-29 18:00:00,dr. Dina
+71,Poli Umum,POLI-613,Kamila Hardiansyah,8695988956499092,waiting,2025-03-17 15:00:00,dr. Citra
+72,Poli Gizi,POLI-550,Hasim Megantara,2353215808249169,done,2025-03-28 08:00:00,dr. Fajar
+73,Poli Gizi,POLI-638,"Restu Sihombing, S.E.",6957083156519830,serving,2025-04-03 09:00:00,dr. Budi
+74,Poli Umum,POLI-470,Mariadi Widiastuti,9727044617840916,done,2025-02-01 16:00:00,dr. Andi
+75,Poli KB,POLI-568,Citra Lestari,6280553936683872,done,2025-03-15 14:00:00,dr. Eka
+76,Poli KB,POLI-562,Salwa Kusmawati,2353588808997089,serving,2025-04-27 18:00:00,dr. Dina
+77,Poli Lansia,POLI-211,"Elma Nugroho, S.E.I",1666104252106951,done,2025-05-24 16:00:00,dr. Eka
+78,Poli Umum,POLI-513,Jarwa Saefullah,4456647577344403,serving,2025-04-28 16:00:00,dr. Dina
+79,Poli KIA,POLI-525,Unjani Siregar,0505106728418645,done,2025-02-09 09:00:00,dr. Dina
+80,Poli KB,POLI-266,"Zahra Wacana, S.Pd",8598280168127154,done,2025-05-04 15:00:00,dr. Andi
+81,Poli Gizi,POLI-941,Balijan Winarno,2770342177700264,waiting,2025-04-13 11:00:00,dr. Dina
+82,Poli Lansia,POLI-774,"Jelita Permata, S.Sos",2735213780614835,done,2025-02-14 12:00:00,dr. Andi
+83,Poli Gizi,POLI-964,H. Slamet Pangestu,8799604870098842,waiting,2025-02-16 16:00:00,dr. Eka
+84,Poli Lansia,POLI-254,"Hj. Nova Hutapea, M.Ak",1427658878804897,serving,2025-04-24 11:00:00,dr. Eka
+85,Poli Umum,POLI-280,Bagas Kusumo,1325693581584109,done,2025-01-22 08:00:00,dr. Fajar
+86,Poli Gigi,POLI-998,Rahmi Zulkarnain,5510494167166443,done,2025-03-17 17:00:00,dr. Andi
+87,Poli KB,POLI-839,Asirwanda Nashiruddin,7978838779637936,waiting,2025-04-21 13:00:00,dr. Dina
+88,Poli KB,POLI-339,"Cut Ratih Iswahyudi, S.H.",2906515999758010,waiting,2025-04-06 10:00:00,dr. Dina
+89,Poli Umum,POLI-930,Harjaya Wacana,2844683045749517,done,2025-04-23 12:00:00,dr. Andi
+90,Poli Gizi,POLI-460,Zelda Irawan,6271517008606297,waiting,2025-03-22 17:00:00,dr. Budi
+91,Poli KIA,POLI-522,Galur Irawan,1048843371024670,serving,2025-05-17 16:00:00,dr. Andi
+92,Poli Gizi,POLI-364,Olivia Maheswara,7434074842968999,done,2025-01-31 08:00:00,dr. Budi
+93,Poli Gigi,POLI-408,Upik Halim,9667142154139276,done,2025-04-02 13:00:00,dr. Budi
+94,Poli Lansia,POLI-629,R. Ina Wahyudin,2631558915167210,done,2025-02-19 11:00:00,dr. Dina
+95,Poli Gizi,POLI-533,"Hana Sinaga, S.Sos",1346326023440449,done,2025-05-21 09:00:00,dr. Andi
+96,Poli Lansia,POLI-247,Nasim Gunawan,9331193931214248,done,2025-05-10 10:00:00,dr. Budi
+97,Poli Gigi,POLI-562,Ratna Yolanda,1760414927878602,waiting,2025-05-14 14:00:00,dr. Budi
+98,Poli Lansia,POLI-461,"Dr. Rafi Sihombing, S.Psi",1102639351362647,done,2025-02-20 15:00:00,dr. Budi
+99,Poli Gizi,POLI-646,drg. Martaka Wahyuni,0980946398156338,waiting,2025-03-21 18:00:00,dr. Fajar
+100,Poli KIA,POLI-051,Bakijan Wasita,4751067279008114,done,2025-05-08 16:00:00,dr. Eka
+101,Poli KIA,POLI-589,"drg. Cornelia Sudiati, S.Pt",9055686819351064,done,2025-03-30 18:00:00,dr. Fajar
+102,Poli Gizi,POLI-339,Tania Suryatmi,3652303122960895,done,2025-01-25 18:00:00,dr. Dina
+103,Poli KIA,POLI-450,Jinawi Mulyani,6378157772018270,done,2025-02-13 16:00:00,dr. Dina
+104,Poli KIA,POLI-081,"Cut Ellis Nasyiah, S.Ked",8134422558825774,done,2025-03-10 16:00:00,dr. Fajar
+105,Poli Lansia,POLI-710,"Kasiyah Firmansyah, S.H.",3414148914971310,done,2025-01-03 17:00:00,dr. Dina
+106,Poli Gizi,POLI-860,Putu Tampubolon,1015940704908469,done,2025-04-05 12:00:00,dr. Fajar
+107,Poli KIA,POLI-989,Cinthia Sihombing,2073336389938601,done,2025-01-14 08:00:00,dr. Andi
+108,Poli Gigi,POLI-863,"Gamblang Mulyani, S.Ked",7158218431945767,done,2025-03-11 08:00:00,dr. Eka
+109,Poli KB,POLI-697,Tomi Tamba,6150528541438020,done,2025-05-25 18:00:00,dr. Budi
+110,Poli Gigi,POLI-485,Banara Wacana,7667271514053622,serving,2025-05-09 16:00:00,dr. Eka
+111,Poli Gigi,POLI-168,T. Gamanto Ardianto,0152670087532910,done,2025-02-17 16:00:00,dr. Budi
+112,Poli KB,POLI-198,Harjasa Safitri,2273808837809577,done,2025-03-16 09:00:00,dr. Fajar
+113,Poli Gizi,POLI-246,"Tgk. Ella Farida, S.H.",3271795889676200,waiting,2025-02-04 09:00:00,dr. Andi
+114,Poli KB,POLI-493,Ciaobella Purwanti,0865310346229746,done,2025-05-10 13:00:00,dr. Budi
+115,Poli KB,POLI-869,Lukita Winarno,2109514760132914,done,2025-04-06 12:00:00,dr. Andi
+116,Poli Gigi,POLI-829,Putri Firmansyah,2094882756783523,done,2025-05-15 15:00:00,dr. Andi
+117,Poli Gigi,POLI-736,Tania Wulandari,2595242230008372,done,2025-01-17 16:00:00,dr. Eka
+118,Poli KIA,POLI-464,Dadi Saptono,5539479384240123,done,2025-01-13 17:00:00,dr. Fajar
+119,Poli Gizi,POLI-052,Titin Handayani,0948861157621458,done,2025-01-18 16:00:00,dr. Dina
+120,Poli Umum,POLI-828,Kezia Nurdiyanti,4829953202318496,done,2025-05-30 08:00:00,dr. Dina
+121,Poli Gigi,POLI-382,Ir. Titin Narpati,7072684658475609,done,2025-03-16 13:00:00,dr. Dina
+122,Poli KB,POLI-248,Darimin Usamah,1811090731529905,serving,2025-04-09 15:00:00,dr. Dina
+123,Poli Gigi,POLI-121,Hj. Siska Lailasari,4728903093276525,waiting,2025-01-26 12:00:00,dr. Eka
+124,Poli Gizi,POLI-691,"dr. Hamima Halimah, S.Gz",1349031960392450,done,2025-03-26 13:00:00,dr. Citra
+125,Poli Gizi,POLI-479,"Respati Prastuti, S.Pd",5421025352692815,serving,2025-05-21 10:00:00,dr. Andi
+126,Poli Lansia,POLI-596,"Dariati Permata, M.Kom.",5976920776159357,waiting,2025-04-30 13:00:00,dr. Fajar
+127,Poli KB,POLI-774,"Hj. Anastasia Adriansyah, M.Ak",8308086037068635,done,2025-04-21 08:00:00,dr. Eka
+128,Poli Gizi,POLI-155,"Hasim Hariyah, M.M.",7002114002621828,done,2025-04-16 11:00:00,dr. Citra
+129,Poli Gizi,POLI-124,Bagya Fujiati,3218384100457278,done,2025-05-02 11:00:00,dr. Budi
+130,Poli KB,POLI-427,Ir. Budi Nashiruddin,9313804094280486,serving,2025-05-21 15:00:00,dr. Fajar
+131,Poli Gigi,POLI-551,Nugraha Jailani,8218219117780828,done,2025-03-06 14:00:00,dr. Andi
+132,Poli Gigi,POLI-315,"Ana Prakasa, S.H.",6741320739024273,done,2025-05-13 11:00:00,dr. Andi
+133,Poli KIA,POLI-239,"Dr. Daniswara Suartini, S.Pd",7782202680427782,done,2025-05-22 11:00:00,dr. Andi
+134,Poli KIA,POLI-881,Lurhur Oktaviani,1428115679480278,waiting,2025-03-14 14:00:00,dr. Eka
+135,Poli Lansia,POLI-096,Makara Sirait,9180868922433799,waiting,2025-03-02 18:00:00,dr. Eka
+136,Poli Gigi,POLI-596,R. Yunita Januar,1668182619724584,done,2025-01-21 09:00:00,dr. Eka
+137,Poli Lansia,POLI-924,Tasnim Farida,1623804186495105,done,2025-05-07 14:00:00,dr. Dina
+138,Poli Gigi,POLI-392,"Sutan Dasa Samosir, S.Pt",9818897277128531,done,2025-03-21 17:00:00,dr. Andi
+139,Poli KB,POLI-261,"Sutan Bahuraksa Firgantoro, S.E.I",5602411784905792,done,2025-01-27 14:00:00,dr. Budi
+140,Poli Gigi,POLI-923,Betania Samosir,4977519878525503,done,2025-01-10 11:00:00,dr. Andi
+141,Poli Gigi,POLI-338,"Drs. Jessica Hutagalung, S.Farm",3430262151033159,waiting,2025-02-21 11:00:00,dr. Dina
+142,Poli Umum,POLI-095,Sutan Unggul Andriani,4517837470034390,done,2025-03-10 14:00:00,dr. Citra
+143,Poli KIA,POLI-876,Vanesa Mansur,3627637544184579,done,2025-03-05 12:00:00,dr. Budi
+144,Poli Gizi,POLI-839,Belinda Susanti,7812255880918989,done,2025-01-01 14:00:00,dr. Fajar
+145,Poli KB,POLI-884,Samiah Iswahyudi,6887079119419747,done,2025-02-06 11:00:00,dr. Dina
+146,Poli Lansia,POLI-819,Rini Rahayu,6719365411038320,waiting,2025-03-13 11:00:00,dr. Fajar
+147,Poli KB,POLI-151,Prasetyo Wijaya,9935550739480179,done,2025-04-12 18:00:00,dr. Budi
+148,Poli Gigi,POLI-634,Rahman Lestari,3336823951784373,serving,2025-05-08 17:00:00,dr. Budi
+149,Poli KB,POLI-678,Paulin Firmansyah,1302797227146832,done,2025-03-19 10:00:00,dr. Fajar
+150,Poli Umum,POLI-719,Gasti Widiastuti,2781528959424103,done,2025-02-09 11:00:00,dr. Budi
+151,Poli KIA,POLI-417,Tasdik Novitasari,4874781473451818,done,2025-02-19 10:00:00,dr. Budi
+152,Poli KB,POLI-526,Cinthia Prastuti,9008757107273470,done,2025-02-11 18:00:00,dr. Dina
+153,Poli KIA,POLI-150,Lanjar Wijaya,0720021520951793,done,2025-02-06 09:00:00,dr. Eka
+154,Poli Umum,POLI-711,Hartaka Lazuardi,4524548245104091,done,2025-04-13 17:00:00,dr. Citra
+155,Poli KB,POLI-450,"Eva Sihombing, S.Ked",5186006827980298,done,2025-05-08 14:00:00,dr. Dina
+156,Poli Umum,POLI-643,Hj. Ulya Tampubolon,4618840424351911,done,2025-04-07 18:00:00,dr. Andi
+157,Poli Gizi,POLI-843,Rahmat Budiman,6350677038811949,done,2025-04-11 17:00:00,dr. Eka
+158,Poli Umum,POLI-439,Puti Ratna Manullang,1573841918967774,done,2025-04-05 09:00:00,dr. Dina
+159,Poli Umum,POLI-931,Tgk. Indah Padmasari,0813319729658923,done,2025-05-14 12:00:00,dr. Dina
+160,Poli Gigi,POLI-493,Dina Wahyudin,0860861347613180,serving,2025-04-16 12:00:00,dr. Fajar
+161,Poli KB,POLI-881,Rika Anggriawan,6915071605191950,done,2025-04-30 10:00:00,dr. Dina
+162,Poli KB,POLI-851,Opung Firmansyah,6132567775277355,serving,2025-04-16 11:00:00,dr. Eka
+163,Poli Umum,POLI-229,Devi Rajasa,6065628203535595,done,2025-05-26 11:00:00,dr. Andi
+164,Poli Gigi,POLI-835,"Paris Haryanti, S.H.",9003518006772198,done,2025-02-28 11:00:00,dr. Budi
+165,Poli Gigi,POLI-920,Asmianto Tamba,7521996308103207,waiting,2025-04-27 08:00:00,dr. Eka
+166,Poli Umum,POLI-903,Pangestu Sirait,2935649129898753,done,2025-01-27 12:00:00,dr. Citra
+167,Poli Gigi,POLI-944,Vera Nugroho,3409613830101713,done,2025-03-08 17:00:00,dr. Citra
+168,Poli Umum,POLI-405,Ghaliyati Andriani,3521526109062545,done,2025-01-06 08:00:00,dr. Budi
+169,Poli KB,POLI-914,Uda Oktaviani,2833637502891046,done,2025-03-18 09:00:00,dr. Citra
+170,Poli Lansia,POLI-273,"Puti Gasti Firmansyah, M.Pd",3758521836058331,done,2025-02-01 11:00:00,dr. Fajar
+171,Poli KIA,POLI-802,Ajimat Mardhiyah,2654671274973849,waiting,2025-04-09 15:00:00,dr. Andi
+172,Poli Gigi,POLI-763,Makara Mustofa,1427882753224362,done,2025-05-14 13:00:00,dr. Budi
+173,Poli KIA,POLI-239,Galih Wasita,7671924117220535,done,2025-03-24 15:00:00,dr. Eka
+174,Poli Lansia,POLI-884,Prakosa Rahmawati,1459165198555274,waiting,2025-05-18 15:00:00,dr. Citra
+175,Poli KB,POLI-658,Safina Pratama,2621340981922183,done,2025-05-26 10:00:00,dr. Dina
+176,Poli Lansia,POLI-744,Febi Sihombing,9674712296652145,done,2025-02-16 17:00:00,dr. Budi
+177,Poli Gizi,POLI-263,"Nurul Prasetyo, S.H.",3273963197923941,done,2025-03-09 08:00:00,dr. Budi
+178,Poli Gizi,POLI-160,"Cut Yunita Zulaika, M.Kom.",5231933704127419,waiting,2025-04-03 11:00:00,dr. Fajar
+179,Poli KIA,POLI-760,Samiah Kuswandari,0425970620867534,waiting,2025-02-18 18:00:00,dr. Dina
+180,Poli Gigi,POLI-233,Ophelia Winarno,1673722284535065,done,2025-03-06 08:00:00,dr. Budi
+181,Poli Lansia,POLI-460,Hasna Marbun,6115418704803854,done,2025-05-27 12:00:00,dr. Budi
+182,Poli Lansia,POLI-831,Adiarja Rajata,9890995737921130,done,2025-02-06 08:00:00,dr. Dina
+183,Poli Lansia,POLI-094,Cut Rina Siregar,4073487067749388,done,2025-03-20 11:00:00,dr. Budi
+184,Poli Gizi,POLI-414,Yunita Gunawan,6946730612558529,done,2025-05-06 16:00:00,dr. Fajar
+185,Poli Gizi,POLI-442,"Drs. Oskar Gunarto, S.IP",0777676326921704,waiting,2025-04-07 15:00:00,dr. Fajar
+186,Poli Lansia,POLI-180,Nyana Narpati,0366733979944751,done,2025-02-28 09:00:00,dr. Fajar
+187,Poli Lansia,POLI-547,Yani Yulianti,6478241390302545,done,2025-03-22 08:00:00,dr. Eka
+188,Poli Gigi,POLI-334,Ella Putra,2478515038494561,done,2025-04-01 08:00:00,dr. Eka
+189,Poli Gizi,POLI-361,Nova Januar,3819649871684361,done,2025-01-19 12:00:00,dr. Budi
+190,Poli Gigi,POLI-008,Ayu Rahimah,9777995535601064,done,2025-05-21 17:00:00,dr. Citra
+191,Poli KB,POLI-428,Drs. Akarsana Thamrin,6462913737436416,done,2025-03-06 16:00:00,dr. Andi
+192,Poli Umum,POLI-155,Hardi Gunarto,8002330911172314,serving,2025-03-02 15:00:00,dr. Fajar
+193,Poli KB,POLI-101,Raina Kuswoyo,5197546601890043,done,2025-05-29 15:00:00,dr. Andi
+194,Poli Gigi,POLI-519,"KH. Jaeman Simbolon, S.Ked",3329216418787686,waiting,2025-05-03 16:00:00,dr. Eka
+195,Poli KB,POLI-828,Anom Saputra,7298003128390283,waiting,2025-04-18 11:00:00,dr. Fajar
+196,Poli KB,POLI-090,"Tgk. Dewi Wastuti, S.Ked",3603055330567338,done,2025-01-16 14:00:00,dr. Citra
+197,Poli Gizi,POLI-015,Bagya Oktaviani,0943634022110338,done,2025-03-08 15:00:00,dr. Dina
+198,Poli KIA,POLI-413,"Ida Uwais, S.E.I",8559830822186404,done,2025-05-04 09:00:00,dr. Andi
+199,Poli Lansia,POLI-176,Galiono Natsir,5822003450892781,done,2025-03-04 16:00:00,dr. Dina
+200,Poli KB,POLI-080,R.M. Panca Yuniar,5308347449591647,done,2025-01-21 08:00:00,dr. Andi
+201,Poli Gizi,POLI-147,R. Kasiyah Nurdiyanti,9943067649998335,serving,2025-03-07 12:00:00,dr. Fajar
+202,Poli KB,POLI-209,Padma Laksita,8035136972904433,done,2025-05-28 08:00:00,dr. Eka
+203,Poli Gizi,POLI-357,"Dr. Ratih Utami, S.I.Kom",3704238815647063,done,2025-03-22 09:00:00,dr. Andi
+204,Poli Gigi,POLI-256,"R. Rahayu Sudiati, M.Ak",4979308128182340,done,2025-01-10 12:00:00,dr. Eka
+205,Poli Umum,POLI-313,Kamila Yulianti,8768489255288196,done,2025-05-09 13:00:00,dr. Dina
+206,Poli Gizi,POLI-206,Opung Lazuardi,2242807787518339,done,2025-05-20 09:00:00,dr. Fajar
+207,Poli Gigi,POLI-953,Hafshah Permata,7607336946619117,waiting,2025-05-31 16:00:00,dr. Budi
+208,Poli Gizi,POLI-107,Gilda Rahmawati,1304718863993967,done,2025-03-26 18:00:00,dr. Dina
+209,Poli Gigi,POLI-338,Gandi Tarihoran,3847225150948427,done,2025-05-04 14:00:00,dr. Andi
+210,Poli Gizi,POLI-451,Violet Uyainah,9052571509871604,waiting,2025-01-15 11:00:00,dr. Citra
+211,Poli Umum,POLI-807,Legawa Latupono,5387175096569346,done,2025-05-19 11:00:00,dr. Eka
+212,Poli Umum,POLI-121,Drs. Bajragin Ramadan,2953712468547686,done,2025-05-06 09:00:00,dr. Dina
+213,Poli Gizi,POLI-405,Lili Samosir,2409930691866381,waiting,2025-01-16 08:00:00,dr. Andi
+214,Poli KIA,POLI-764,Yulia Samosir,8859890372860839,done,2025-03-14 12:00:00,dr. Budi
+215,Poli Gigi,POLI-426,"Ade Pangestu, M.TI.",0738055106860772,waiting,2025-03-25 14:00:00,dr. Fajar
+216,Poli Gigi,POLI-391,Arsipatra Rahmawati,2261691406450784,done,2025-01-19 16:00:00,dr. Eka
+217,Poli KIA,POLI-356,"R. Rahmi Wahyudin, S.T.",8972712977873445,done,2025-03-10 09:00:00,dr. Fajar
+218,Poli KB,POLI-564,Rahayu Widodo,2501397328418567,done,2025-05-01 15:00:00,dr. Eka
+219,Poli Lansia,POLI-044,Balangga Nashiruddin,8809233156116294,done,2025-03-15 12:00:00,dr. Andi
+220,Poli KIA,POLI-389,"Ellis Ramadan, S.Psi",6084079191192498,waiting,2025-01-13 15:00:00,dr. Citra
+221,Poli Umum,POLI-018,Dono Winarno,9757744630715274,done,2025-03-30 09:00:00,dr. Eka
+222,Poli Gigi,POLI-088,Taufan Mulyani,1276504224752539,done,2025-02-03 11:00:00,dr. Fajar
+223,Poli Umum,POLI-912,Karya Tamba,7814259466424707,done,2025-03-23 13:00:00,dr. Fajar
+224,Poli Gizi,POLI-891,Laksana Waluyo,9509697409401014,done,2025-05-21 13:00:00,dr. Andi
+225,Poli KB,POLI-551,"Agnes Firgantoro, S.E.",7404461621300736,done,2025-02-19 18:00:00,dr. Andi
+226,Poli Gigi,POLI-036,"Jamalia Samosir, S.T.",7094342079859782,waiting,2025-02-04 11:00:00,dr. Eka
+227,Poli Gigi,POLI-130,Luwar Puspasari,8874889806722102,waiting,2025-03-02 15:00:00,dr. Budi
+228,Poli Gigi,POLI-567,Pangestu Sitompul,5220367325869160,done,2025-01-25 14:00:00,dr. Andi
+229,Poli KIA,POLI-734,Mulya Budiyanto,7875666965228904,serving,2025-02-16 12:00:00,dr. Citra
+230,Poli Gizi,POLI-381,"Drs. Farah Siregar, S.Psi",4372688632618490,done,2025-03-29 18:00:00,dr. Dina
+231,Poli Gizi,POLI-724,"Tgk. Wani Yolanda, S.Farm",6735796275984910,waiting,2025-04-30 11:00:00,dr. Dina
+232,Poli Gigi,POLI-051,"Endah Marbun, M.Kom.",0096661266783711,done,2025-05-09 08:00:00,dr. Fajar
+233,Poli Umum,POLI-880,Dariati Marbun,9094017538810717,waiting,2025-05-04 12:00:00,dr. Citra
+234,Poli Umum,POLI-083,Yuliana Maheswara,8925671969044980,done,2025-03-28 08:00:00,dr. Andi
+235,Poli KB,POLI-030,"R.A. Latika Widiastuti, M.Kom.",1764129704275015,waiting,2025-05-29 16:00:00,dr. Budi
+236,Poli KB,POLI-479,Johan Budiman,3693514407155817,serving,2025-02-02 09:00:00,dr. Dina
+237,Poli Umum,POLI-175,"Bakianto Hastuti, M.TI.",0626920240419042,done,2025-02-07 15:00:00,dr. Dina
+238,Poli Umum,POLI-481,H. Hadi Siregar,9897490297769358,done,2025-03-17 08:00:00,dr. Citra
+239,Poli KB,POLI-468,Kani Nainggolan,5290922322927508,done,2025-04-09 17:00:00,dr. Eka
+240,Poli Gizi,POLI-782,"Gasti Situmorang, S.Kom",2073693809157731,done,2025-01-11 11:00:00,dr. Eka
+241,Poli Gizi,POLI-793,Aswani Haryanti,6822657690693955,done,2025-02-17 10:00:00,dr. Dina
+242,Poli Gizi,POLI-180,Icha Pranowo,7089338245134968,done,2025-05-08 09:00:00,dr. Andi
+243,Poli Lansia,POLI-116,Nasim Wahyuni,8951142546525797,waiting,2025-02-03 13:00:00,dr. Dina
+244,Poli Lansia,POLI-080,Ophelia Permadi,1018045389245055,done,2025-05-16 13:00:00,dr. Andi
+245,Poli Gizi,POLI-387,Hardi Sihotang,2984391736784080,waiting,2025-05-20 15:00:00,dr. Eka
+246,Poli Gizi,POLI-849,"Prabowo Melani, S.Pd",0097676817090672,done,2025-02-13 16:00:00,dr. Dina
+247,Poli KIA,POLI-218,Maida Aryani,2929735330197236,done,2025-02-14 08:00:00,dr. Budi
+248,Poli Gigi,POLI-395,Azalea Mardhiyah,2802590552436624,done,2025-01-25 15:00:00,dr. Citra
+249,Poli Gizi,POLI-749,"Oliva Thamrin, S.Sos",3848613626922309,done,2025-04-11 18:00:00,dr. Budi
+250,Poli Gizi,POLI-585,"Drs. Legawa Anggraini, M.Kom.",0845570772337403,done,2025-02-15 10:00:00,dr. Andi
+251,Poli KIA,POLI-718,"Ulva Hutasoit, S.T.",5783089177033930,done,2025-03-04 08:00:00,dr. Andi
+252,Poli Gizi,POLI-044,Michelle Prasetya,6125880696928521,done,2025-03-26 12:00:00,dr. Andi
+253,Poli KB,POLI-836,Melinda Astuti,0427745277010608,done,2025-05-11 13:00:00,dr. Citra
+254,Poli Gizi,POLI-651,"Devi Utama, M.TI.",8693281376545946,waiting,2025-05-21 15:00:00,dr. Dina
+255,Poli Lansia,POLI-486,Ade Sinaga,6574254331692922,done,2025-01-28 18:00:00,dr. Citra
+256,Poli Lansia,POLI-463,Ratih Gunarto,7225286559181526,done,2025-01-30 12:00:00,dr. Eka
+257,Poli KB,POLI-612,Natalia Wacana,7106787747180089,waiting,2025-03-02 08:00:00,dr. Citra
+258,Poli Gizi,POLI-108,Malika Prastuti,5708189813106584,done,2025-04-27 10:00:00,dr. Dina
+259,Poli Gizi,POLI-661,Jamalia Prasetya,8874471260650078,done,2025-03-07 18:00:00,dr. Dina
+260,Poli Umum,POLI-970,Tgk. Raisa Prayoga,6663046154874587,waiting,2025-05-31 15:00:00,dr. Dina
+261,Poli Gigi,POLI-514,"dr. Restu Wibowo, M.M.",5303130352085720,done,2025-05-02 17:00:00,dr. Budi
+262,Poli Gigi,POLI-534,Bajragin Uyainah,5735607876744584,waiting,2025-05-08 10:00:00,dr. Andi
+263,Poli Umum,POLI-148,Julia Rajasa,9787796238310808,done,2025-05-05 17:00:00,dr. Dina
+264,Poli KIA,POLI-761,"Dimas Damanik, S.E.",4089862046952908,done,2025-02-15 16:00:00,dr. Citra
+265,Poli Umum,POLI-380,Praba Utami,0209942336273623,done,2025-01-16 09:00:00,dr. Eka
+266,Poli Gizi,POLI-144,Okta Marbun,6427585117832788,done,2025-02-17 09:00:00,dr. Eka
+267,Poli KIA,POLI-642,"Cut Najwa Adriansyah, S.Sos",0768152570807592,waiting,2025-04-23 16:00:00,dr. Andi
+268,Poli Gigi,POLI-351,Kemal Purnawati,5337137929652611,done,2025-02-11 12:00:00,dr. Budi
+269,Poli KB,POLI-891,Prima Palastri,9442022248338985,done,2025-01-21 12:00:00,dr. Fajar
+270,Poli Lansia,POLI-928,Hj. Paulin Melani,4160722824953535,serving,2025-05-18 08:00:00,dr. Andi
+271,Poli Gigi,POLI-070,"Asirwanda Suwarno, S.Pt",8287220295841847,done,2025-02-14 16:00:00,dr. Citra
+272,Poli Gigi,POLI-707,"dr. Asirwada Siregar, S.E.",5971637576335720,waiting,2025-01-10 14:00:00,dr. Citra
+273,Poli KB,POLI-757,Mursinin Pradana,9455017061530964,done,2025-05-26 15:00:00,dr. Fajar
+274,Poli Gigi,POLI-845,"Prabowo Hutagalung, S.Sos",7254029075129455,done,2025-02-17 14:00:00,dr. Dina
+275,Poli Gizi,POLI-098,"Janet Wahyuni, M.M.",1004998695573291,waiting,2025-04-18 09:00:00,dr. Andi
+276,Poli Gizi,POLI-887,Silvia Maryadi,4530704413502312,done,2025-04-04 17:00:00,dr. Citra
+277,Poli Gizi,POLI-474,Halima Saragih,6329885575491652,waiting,2025-04-29 15:00:00,dr. Andi
+278,Poli Lansia,POLI-437,Jagaraga Prasasta,6723278831810790,done,2025-01-12 14:00:00,dr. Citra
+279,Poli Lansia,POLI-657,Panca Yulianti,3954971903306920,serving,2025-04-04 16:00:00,dr. Budi
+280,Poli Lansia,POLI-855,Kasiyah Mahendra,9346202337384002,done,2025-02-25 11:00:00,dr. Budi
+281,Poli KIA,POLI-857,"Gawati Namaga, S.I.Kom",9861386236623177,done,2025-05-05 15:00:00,dr. Citra
+282,Poli Umum,POLI-432,Asmadi Wijayanti,5376494990107414,waiting,2025-02-20 17:00:00,dr. Budi
+283,Poli Gigi,POLI-114,Maman Halimah,1710536722213122,done,2025-05-25 11:00:00,dr. Dina
+284,Poli KB,POLI-890,Ajeng Hidayanto,1844423234941194,serving,2025-01-19 10:00:00,dr. Eka
+285,Poli KB,POLI-029,Dt. Opung Widiastuti,5613209055591572,done,2025-05-22 18:00:00,dr. Dina
+286,Poli KB,POLI-969,"Ir. Sakura Winarsih, S.Pt",3431501609623644,done,2025-02-05 12:00:00,dr. Andi
+287,Poli KIA,POLI-451,Darijan Kuswandari,9442786264903702,done,2025-03-03 13:00:00,dr. Citra
+288,Poli Gizi,POLI-985,Danuja Mayasari,8032894263151345,serving,2025-01-04 18:00:00,dr. Budi
+289,Poli Gigi,POLI-085,"Padma Kusmawati, M.Farm",2971413782118239,done,2025-01-26 15:00:00,dr. Andi
+290,Poli Umum,POLI-108,"Ir. Mala Maulana, S.H.",0999097424417014,done,2025-03-10 15:00:00,dr. Andi
+291,Poli KIA,POLI-582,Ratih Puspasari,2533702572788672,waiting,2025-01-03 15:00:00,dr. Eka
+292,Poli Umum,POLI-308,Dewi Wulandari,6879414152364007,done,2025-03-14 08:00:00,dr. Budi
+293,Poli Umum,POLI-937,Melinda Padmasari,6327769432547291,done,2025-03-29 09:00:00,dr. Eka
+294,Poli Lansia,POLI-672,Oskar Narpati,0599710849981521,done,2025-04-06 15:00:00,dr. Fajar
+295,Poli Lansia,POLI-838,"dr. Eka Marpaung, M.Farm",5604017784184505,done,2025-04-18 16:00:00,dr. Citra
+296,Poli KB,POLI-283,Cut Safina Susanti,7893866193323766,serving,2025-05-31 18:00:00,dr. Budi
+297,Poli KIA,POLI-038,"Yuliana Damanik, S.Pt",5161270017719055,serving,2025-02-14 08:00:00,dr. Andi
+298,Poli KB,POLI-043,Vivi Sirait,4433310179970859,done,2025-05-13 12:00:00,dr. Andi
+299,Poli Umum,POLI-024,Sabrina Fujiati,1472783052670910,serving,2025-04-16 09:00:00,dr. Dina
+300,Poli KIA,POLI-335,"Puti Bella Padmasari, S.IP",0143106379776035,done,2025-03-14 15:00:00,dr. Fajar
+301,Poli Umum,POLI-228,Puti Olivia Jailani,9951395596831393,done,2025-04-26 08:00:00,dr. Andi
+302,Poli Umum,POLI-729,drg. Prabowo Mulyani,3882117845789112,done,2025-05-12 13:00:00,dr. Andi
+303,Poli KB,POLI-996,Galak Samosir,2981081497474489,done,2025-02-06 15:00:00,dr. Dina
+304,Poli Gigi,POLI-631,"dr. Dimaz Maulana, S.I.Kom",2479762719277192,waiting,2025-02-27 11:00:00,dr. Budi
+305,Poli KIA,POLI-829,Rini Rahayu,9004109029723424,done,2025-04-02 10:00:00,dr. Fajar
+306,Poli Lansia,POLI-763,"Ir. Waluyo Pranowo, M.Kom.",1957577303671746,waiting,2025-04-19 15:00:00,dr. Andi
+307,Poli KIA,POLI-513,Balamantri Megantara,0352735136785372,done,2025-05-09 13:00:00,dr. Citra
+308,Poli KB,POLI-711,Elma Dabukke,9770621513253848,done,2025-04-11 18:00:00,dr. Budi
+309,Poli KIA,POLI-164,Mulyono Uwais,5697017512322533,waiting,2025-01-06 15:00:00,dr. Eka
+310,Poli Umum,POLI-409,Dr. Fitriani Tampubolon,6264247488438930,done,2025-04-05 10:00:00,dr. Dina
+311,Poli KIA,POLI-387,drg. Nasim Santoso,3067365269455054,serving,2025-05-05 17:00:00,dr. Dina
+312,Poli KB,POLI-710,Shakila Hartati,7661004936257928,waiting,2025-03-01 15:00:00,dr. Dina
+313,Poli Gizi,POLI-059,Tgk. Vanya Prayoga,9534861352916026,done,2025-03-02 15:00:00,dr. Dina
+314,Poli KIA,POLI-251,Zulfa Namaga,8420854678314115,done,2025-01-19 10:00:00,dr. Budi
+315,Poli Gizi,POLI-833,H. Karna Zulkarnain,4862086878562409,serving,2025-02-02 18:00:00,dr. Dina
+316,Poli KIA,POLI-991,"Yoga Gunarto, S.Farm",9285325918914511,done,2025-04-26 08:00:00,dr. Eka
+317,Poli Gigi,POLI-018,Jindra Nashiruddin,4204018875398194,waiting,2025-02-02 15:00:00,dr. Eka
+318,Poli KIA,POLI-352,Usman Firgantoro,6776446669393227,done,2025-03-11 14:00:00,dr. Citra
+319,Poli KIA,POLI-760,"Tgk. Gilang Kusumo, S.Farm",6006995554309530,done,2025-05-07 11:00:00,dr. Budi
+320,Poli KIA,POLI-460,Martani Siregar,5601427273702956,waiting,2025-02-03 14:00:00,dr. Andi
+321,Poli KB,POLI-182,"H. Rafi Zulkarnain, S.Kom",2530106577735906,done,2025-02-11 11:00:00,dr. Dina
+322,Poli KB,POLI-589,Elma Sinaga,9633972736316875,waiting,2025-01-19 16:00:00,dr. Budi
+323,Poli Umum,POLI-096,Clara Saragih,7468298686525783,done,2025-02-27 17:00:00,dr. Dina
+324,Poli Lansia,POLI-054,Laila Pratama,8786754539249479,done,2025-01-27 11:00:00,dr. Eka
+325,Poli Lansia,POLI-912,"Ajiono Dongoran, S.T.",1125835204455689,done,2025-01-20 17:00:00,dr. Dina
+326,Poli KIA,POLI-679,Lintang Wahyudin,7578837629216921,serving,2025-01-29 09:00:00,dr. Fajar
+327,Poli Gigi,POLI-334,"Gandi Suwarno, M.Pd",7768258112315779,serving,2025-05-02 18:00:00,dr. Eka
+328,Poli Umum,POLI-270,Puji Ardianto,5354233135373543,done,2025-05-18 16:00:00,dr. Fajar
+329,Poli Umum,POLI-236,Wawan Nainggolan,3084534833881608,waiting,2025-03-06 14:00:00,dr. Andi
+330,Poli KIA,POLI-928,Indah Palastri,9281378903440989,done,2025-01-27 08:00:00,dr. Fajar
+331,Poli Umum,POLI-021,Dt. Jayeng Hasanah,1960353140126168,done,2025-04-13 17:00:00,dr. Dina
+332,Poli Gizi,POLI-318,"Indah Sudiati, S.E.I",2820872928877799,done,2025-04-14 16:00:00,dr. Citra
+333,Poli Gigi,POLI-469,"Cut Kasiyah Uyainah, M.Ak",7385694507828771,done,2025-04-13 13:00:00,dr. Eka
+334,Poli KIA,POLI-868,"drg. Niyaga Pranowo, S.Psi",8343186452328652,done,2025-03-29 13:00:00,dr. Dina
+335,Poli Gigi,POLI-070,Umar Novitasari,2800094888336607,done,2025-01-26 14:00:00,dr. Andi
+336,Poli KIA,POLI-810,Sabar Zulkarnain,8986216358240195,done,2025-03-16 15:00:00,dr. Fajar
+337,Poli Gigi,POLI-723,"Narji Yulianti, M.Farm",5017846223015146,waiting,2025-02-20 17:00:00,dr. Eka
+338,Poli Umum,POLI-634,"Nugraha Putra, M.Kom.",3573752584849195,done,2025-05-24 09:00:00,dr. Fajar
+339,Poli Gigi,POLI-630,Ade Maryati,5811264563911989,done,2025-01-17 09:00:00,dr. Citra
+340,Poli Gizi,POLI-797,"Ir. Eva Agustina, S.Pt",3595751650955671,waiting,2025-01-14 11:00:00,dr. Andi
+341,Poli Gizi,POLI-128,Viktor Riyanti,9398039704403582,waiting,2025-01-25 16:00:00,dr. Dina
+342,Poli Gigi,POLI-048,Puti Hasna Tampubolon,7359167797076611,done,2025-03-18 17:00:00,dr. Dina
+343,Poli KIA,POLI-219,Jaeman Agustina,8824279156928358,done,2025-01-20 15:00:00,dr. Andi
+344,Poli Gizi,POLI-990,Ayu Manullang,3760427839652826,done,2025-02-04 08:00:00,dr. Andi
+345,Poli Gigi,POLI-776,Gandi Hastuti,2774145425907140,waiting,2025-03-14 12:00:00,dr. Citra
+346,Poli Gizi,POLI-128,"Sutan Prakosa Purnawati, S.E.I",2060363577966926,done,2025-01-13 12:00:00,dr. Andi
+347,Poli Gizi,POLI-334,"Vivi Dongoran, S.E.",4026180007157018,done,2025-04-03 13:00:00,dr. Citra
+348,Poli Gigi,POLI-002,"Drs. Hesti Mandasari, M.Pd",4310151782058547,done,2025-01-21 12:00:00,dr. Budi
+349,Poli Gigi,POLI-318,R.A. Zizi Putra,5952713175120756,done,2025-02-08 12:00:00,dr. Fajar
+350,Poli KIA,POLI-959,Alika Saputra,1100875312691985,done,2025-02-16 12:00:00,dr. Andi
+351,Poli KB,POLI-258,"Dt. Ajimin Waluyo, S.Pd",7001103977541622,done,2025-01-06 13:00:00,dr. Citra
+352,Poli Gigi,POLI-913,"Kasiran Nuraini, M.Kom.",0225352138128680,done,2025-03-12 12:00:00,dr. Dina
+353,Poli Umum,POLI-556,Tari Saefullah,2399817091982508,done,2025-04-16 17:00:00,dr. Fajar
+354,Poli Lansia,POLI-107,Rendy Maryati,7046147353815129,waiting,2025-04-13 14:00:00,dr. Andi
+355,Poli KIA,POLI-609,"Hj. Safina Ardianto, S.Kom",0970488234282238,waiting,2025-05-21 16:00:00,dr. Budi
+356,Poli KB,POLI-926,"Okta Wasita, S.Sos",2725583775406061,done,2025-01-01 11:00:00,dr. Citra
+357,Poli Gigi,POLI-681,Warta Sudiati,1961123036126099,done,2025-01-10 08:00:00,dr. Eka
+358,Poli Umum,POLI-133,Adhiarja Utami,9292340903868563,done,2025-04-06 12:00:00,dr. Fajar
+359,Poli Umum,POLI-626,Darmaji Hastuti,7029911236267804,done,2025-04-07 08:00:00,dr. Andi
+360,Poli KB,POLI-571,"drg. Chelsea Haryanto, S.Pd",5117815947397930,done,2025-04-20 10:00:00,dr. Eka
+361,Poli Gigi,POLI-925,Harja Wibisono,3245184776783671,done,2025-05-21 14:00:00,dr. Citra
+362,Poli Lansia,POLI-816,R. Gamanto Andriani,9447262060393836,done,2025-01-15 17:00:00,dr. Andi
+363,Poli Gigi,POLI-266,"dr. Dina Padmasari, S.E.",2564176647405062,serving,2025-04-18 17:00:00,dr. Dina
+364,Poli KB,POLI-876,Safina Hidayanto,6538550592148852,serving,2025-01-09 15:00:00,dr. Citra
+365,Poli Gizi,POLI-228,Zulfa Nasyidah,9004447623768818,done,2025-02-18 10:00:00,dr. Andi
+366,Poli Lansia,POLI-452,"H. Purwa Yuniar, S.Psi",5771428361740363,serving,2025-02-12 09:00:00,dr. Citra
+367,Poli KB,POLI-816,"Ida Pertiwi, S.Farm",8080744045434329,done,2025-05-19 09:00:00,dr. Fajar
+368,Poli Gizi,POLI-495,Eka Tarihoran,1611036776670093,waiting,2025-01-04 15:00:00,dr. Eka
+369,Poli Gizi,POLI-024,Uchita Hassanah,9548180500365920,done,2025-02-01 17:00:00,dr. Fajar
+370,Poli KB,POLI-120,Fitria Sihombing,4071581524185809,done,2025-05-24 11:00:00,dr. Budi
+371,Poli Gizi,POLI-430,"Salman Pranowo, S.T.",1581897371952854,done,2025-03-01 08:00:00,dr. Eka
+372,Poli KB,POLI-894,"drg. Lutfan Pradana, S.Gz",3127246807702126,serving,2025-05-31 10:00:00,dr. Dina
+373,Poli Umum,POLI-633,Indah Hartati,8612686176141290,done,2025-04-29 09:00:00,dr. Budi
+374,Poli Lansia,POLI-746,"Ir. Joko Wahyudin, S.H.",3621932675907743,done,2025-04-03 15:00:00,dr. Eka
+375,Poli Gigi,POLI-940,Sari Lazuardi,6076902513154654,done,2025-03-08 16:00:00,dr. Fajar
+376,Poli Gigi,POLI-311,Hj. Padma Handayani,0769764557097835,done,2025-05-02 13:00:00,dr. Eka
+377,Poli Umum,POLI-745,"Radit Lailasari, S.E.I",0367497257525607,done,2025-03-14 15:00:00,dr. Dina
+378,Poli Gizi,POLI-760,Erik Suryatmi,7965255523971916,done,2025-01-29 12:00:00,dr. Citra
+379,Poli Umum,POLI-155,Tiara Latupono,0810959592353365,serving,2025-04-14 15:00:00,dr. Citra
+380,Poli KB,POLI-918,"Drs. Devi Wahyudin, S.Ked",4601420155335934,waiting,2025-01-12 12:00:00,dr. Citra
+381,Poli Lansia,POLI-813,Raina Lailasari,5844746543607311,done,2025-03-10 16:00:00,dr. Budi
+382,Poli Umum,POLI-044,Dodo Budiman,1053018491691594,waiting,2025-02-27 13:00:00,dr. Andi
+383,Poli KIA,POLI-579,Artanto Hardiansyah,7200823408393132,done,2025-03-28 14:00:00,dr. Andi
+384,Poli Umum,POLI-894,"Cut Intan Sinaga, S.Ked",6004522453216345,waiting,2025-01-04 18:00:00,dr. Eka
+385,Poli Lansia,POLI-838,"dr. Padma Rahmawati, S.Psi",4630205020938745,done,2025-01-06 08:00:00,dr. Budi
+386,Poli KB,POLI-935,Garang Lazuardi,6053131359938938,serving,2025-03-28 08:00:00,dr. Budi
+387,Poli KIA,POLI-680,R. Argono Simanjuntak,0417613219020467,done,2025-04-01 16:00:00,dr. Citra
+388,Poli Gizi,POLI-272,"Tgk. Malika Lestari, S.Farm",7078995232457039,done,2025-02-21 10:00:00,dr. Budi
+389,Poli Gizi,POLI-925,Putri Hutapea,5801390578373601,done,2025-04-29 18:00:00,dr. Citra
+390,Poli Gizi,POLI-263,Raden Winarno,0838574107597487,serving,2025-01-05 15:00:00,dr. Budi
+391,Poli Gizi,POLI-181,Dadi Mandala,9440741813927189,done,2025-03-23 10:00:00,dr. Fajar
+392,Poli KIA,POLI-641,Gara Sitompul,3906610679084598,done,2025-05-20 15:00:00,dr. Citra
+393,Poli Umum,POLI-596,"R. Ika Nuraini, S.Sos",3072180028898135,done,2025-04-12 16:00:00,dr. Budi
+394,Poli KIA,POLI-276,Vanesa Yolanda,1868568232915669,done,2025-02-14 11:00:00,dr. Fajar
+395,Poli Umum,POLI-524,R. Sakti Pudjiastuti,0978085840848880,done,2025-01-06 17:00:00,dr. Budi
+396,Poli KIA,POLI-108,Nabila Maryati,4817281620853050,done,2025-05-18 16:00:00,dr. Dina
+397,Poli Lansia,POLI-934,"Drs. Salwa Mahendra, S.E.I",9780166857262264,waiting,2025-05-13 09:00:00,dr. Andi
+398,Poli Lansia,POLI-264,Cinthia Sirait,5623406989178475,done,2025-04-26 14:00:00,dr. Citra
+399,Poli Gigi,POLI-271,Bambang Sitorus,6256683748424177,waiting,2025-01-20 12:00:00,dr. Budi
+400,Poli KIA,POLI-979,"Ridwan Aryani, M.M.",9522526873252072,done,2025-02-16 15:00:00,dr. Citra
+401,Poli Lansia,POLI-314,"Sakura Prasetya, S.IP",7214456030680948,done,2025-01-06 18:00:00,dr. Dina
+402,Poli KB,POLI-996,R. Ulva Najmudin,7362541151392332,waiting,2025-05-16 15:00:00,dr. Budi
+403,Poli Lansia,POLI-440,Vanesa Iswahyudi,1765981131504705,done,2025-04-20 18:00:00,dr. Dina
+404,Poli Umum,POLI-238,Damu Usada,6178666220383669,done,2025-01-05 09:00:00,dr. Budi
+405,Poli KIA,POLI-825,Ibun Andriani,8068875620505309,done,2025-04-01 14:00:00,dr. Dina
+406,Poli Gigi,POLI-887,R. Tri Lailasari,5394908168054602,done,2025-04-26 13:00:00,dr. Fajar
+407,Poli KIA,POLI-109,Cawisadi Zulaika,2448388844734148,done,2025-01-22 10:00:00,dr. Eka
+408,Poli Lansia,POLI-653,Cahyono Anggriawan,0637713499774017,done,2025-03-17 17:00:00,dr. Andi
+409,Poli KIA,POLI-979,"Oliva Prasetyo, S.E.",3780421728710794,done,2025-03-24 11:00:00,dr. Citra
+410,Poli Gizi,POLI-167,"Reksa Haryanto, S.Pd",1018092628795660,done,2025-03-13 18:00:00,dr. Citra
+411,Poli Umum,POLI-498,"Hesti Rahayu, S.Sos",6227443363682989,waiting,2025-03-27 15:00:00,dr. Andi
+412,Poli Umum,POLI-694,"Raden Fujiati, S.Kom",1652968472797326,done,2025-05-30 12:00:00,dr. Budi
+413,Poli Gizi,POLI-082,drg. Ajiman Irawan,6200368094981440,serving,2025-01-23 14:00:00,dr. Fajar
+414,Poli Gigi,POLI-641,Tgk. Raisa Hidayat,5084325009256037,done,2025-03-31 09:00:00,dr. Eka
+415,Poli Gizi,POLI-286,Natalia Riyanti,4964928442534625,done,2025-05-19 09:00:00,dr. Budi
+416,Poli Gigi,POLI-546,"Tgk. Cagak Pradana, S.E.I",4284514025678607,waiting,2025-05-13 10:00:00,dr. Dina
+417,Poli Gigi,POLI-594,"Aris Irawan, S.IP",5080865944909777,done,2025-02-09 15:00:00,dr. Eka
+418,Poli Umum,POLI-926,Kala Salahudin,9930601693229265,waiting,2025-03-26 08:00:00,dr. Budi
+419,Poli Umum,POLI-341,Jabal Uyainah,2590915026978305,done,2025-01-21 11:00:00,dr. Fajar
+420,Poli Umum,POLI-548,Citra Hakim,5224807712658852,waiting,2025-05-30 12:00:00,dr. Eka
+421,Poli Gizi,POLI-323,Dimaz Putra,9706405379859576,serving,2025-04-29 15:00:00,dr. Andi
+422,Poli Gigi,POLI-108,Lega Ardianto,1488902164127859,done,2025-05-08 09:00:00,dr. Budi
+423,Poli Gigi,POLI-006,Suci Kuswandari,7204168491717301,done,2025-01-22 18:00:00,dr. Citra
+424,Poli Gizi,POLI-683,Bambang Nasyidah,5583399018674553,done,2025-03-08 08:00:00,dr. Dina
+425,Poli Umum,POLI-161,Intan Saputra,0295635919845541,done,2025-02-19 12:00:00,dr. Dina
+426,Poli KIA,POLI-927,Gamblang Lazuardi,6440382896406380,done,2025-04-15 16:00:00,dr. Fajar
+427,Poli Lansia,POLI-968,"Marsudi Purnawati, M.Pd",1409583700742669,done,2025-03-17 08:00:00,dr. Eka
+428,Poli Gizi,POLI-620,Cawisadi Astuti,6894290408221840,waiting,2025-03-21 14:00:00,dr. Eka
+429,Poli Lansia,POLI-308,Elma Saputra,9243316814078331,done,2025-05-19 12:00:00,dr. Eka
+430,Poli Gigi,POLI-792,Yuni Prastuti,6003109763298850,done,2025-02-25 17:00:00,dr. Andi
+431,Poli KIA,POLI-495,T. Ajiman Megantara,4439296856972968,waiting,2025-05-30 16:00:00,dr. Andi
+432,Poli Gigi,POLI-481,H. Cahyono Setiawan,4482056340749942,waiting,2025-01-08 14:00:00,dr. Eka
+433,Poli KB,POLI-342,Ibrani Hasanah,7745300870586242,waiting,2025-04-15 12:00:00,dr. Andi
+434,Poli Gizi,POLI-559,"Puti Namaga, M.Ak",9076028982911486,done,2025-03-27 17:00:00,dr. Budi
+435,Poli Gizi,POLI-331,"Ir. Vanya Nurdiyanti, M.TI.",7934544353702992,done,2025-02-20 18:00:00,dr. Budi
+436,Poli Gigi,POLI-215,Tgk. Ajimin Natsir,4299206437595505,done,2025-01-18 09:00:00,dr. Andi
+437,Poli Lansia,POLI-929,R. Raihan Kusumo,7104913208864086,done,2025-04-17 10:00:00,dr. Budi
+438,Poli KIA,POLI-233,Hj. Gawati Kusumo,4598640385868225,waiting,2025-05-03 14:00:00,dr. Fajar
+439,Poli Lansia,POLI-609,Najwa Hariyah,5294120740318638,done,2025-02-26 10:00:00,dr. Citra
+440,Poli Gizi,POLI-939,Banawa Natsir,5344993466253503,done,2025-04-10 12:00:00,dr. Budi
+441,Poli Gizi,POLI-871,"H. Gadang Wasita, M.TI.",1826656266264226,done,2025-03-05 12:00:00,dr. Andi
+442,Poli KIA,POLI-385,Lala Dabukke,0555349914324682,serving,2025-03-02 11:00:00,dr. Andi
+443,Poli KB,POLI-511,Lukman Marpaung,1454370904183899,done,2025-05-28 15:00:00,dr. Budi
+444,Poli Umum,POLI-127,Hana Usamah,4592196600864223,serving,2025-05-31 16:00:00,dr. Citra
+445,Poli Gizi,POLI-799,"Sutan Satya Wacana, S.Ked",0272255396093797,done,2025-04-29 10:00:00,dr. Eka
+446,Poli Umum,POLI-812,"Agnes Hutasoit, S.I.Kom",9072368636725741,waiting,2025-01-11 15:00:00,dr. Citra
+447,Poli KB,POLI-226,Cahyono Wijaya,1417773054042852,done,2025-01-06 17:00:00,dr. Andi
+448,Poli KB,POLI-902,"Puti Mila Adriansyah, M.Farm",0059058421331474,done,2025-05-29 11:00:00,dr. Budi
+449,Poli Lansia,POLI-066,Kezia Sirait,7976475307164730,waiting,2025-03-24 12:00:00,dr. Dina
+450,Poli KB,POLI-821,Ir. Kezia Anggraini,9620814477157489,done,2025-01-19 11:00:00,dr. Eka
+451,Poli KB,POLI-697,Ikhsan Palastri,8469647378653657,serving,2025-01-25 18:00:00,dr. Budi
+452,Poli Umum,POLI-190,Tirta Permata,1052439217706631,done,2025-01-20 17:00:00,dr. Dina
+453,Poli Gigi,POLI-631,Rahayu Yulianti,6541604072335587,done,2025-02-05 18:00:00,dr. Citra
+454,Poli KB,POLI-671,Nabila Palastri,6055571436254658,done,2025-03-22 14:00:00,dr. Fajar
+455,Poli Gizi,POLI-436,"Cawuk Gunawan, S.Pt",1532852033812343,done,2025-01-18 16:00:00,dr. Citra
+456,Poli KIA,POLI-768,"Dt. Nalar Gunawan, S.H.",7161547822767353,done,2025-01-27 12:00:00,dr. Citra
+457,Poli Gigi,POLI-268,Jayeng Damanik,7354098827406152,waiting,2025-05-12 18:00:00,dr. Citra
+458,Poli Gigi,POLI-123,"Teddy Hassanah, S.T.",0865821784457772,waiting,2025-03-03 13:00:00,dr. Citra
+459,Poli Gizi,POLI-760,Nabila Laksita,7129703336484647,done,2025-03-16 13:00:00,dr. Eka
+460,Poli KIA,POLI-752,Iriana Saptono,9734710288845147,done,2025-05-18 14:00:00,dr. Andi
+461,Poli Gizi,POLI-060,Ir. Muni Siregar,5835560435143470,done,2025-01-04 08:00:00,dr. Dina
+462,Poli KB,POLI-341,"Kamidin Pratama, S.T.",3164850828134006,done,2025-04-14 12:00:00,dr. Citra
+463,Poli KIA,POLI-163,Septi Nainggolan,2072360367185027,done,2025-03-18 08:00:00,dr. Andi
+464,Poli Umum,POLI-563,"Mutia Pradipta, S.I.Kom",6114027957457078,waiting,2025-03-06 18:00:00,dr. Dina
+465,Poli Gigi,POLI-116,Chelsea Januar,7305792509738981,serving,2025-05-20 18:00:00,dr. Fajar
+466,Poli KIA,POLI-447,Oni Lestari,6716545617872390,done,2025-03-15 13:00:00,dr. Citra
+467,Poli KB,POLI-433,"T. Kasim Pertiwi, M.Kom.",9882456741315990,serving,2025-01-09 16:00:00,dr. Budi
+468,Poli Lansia,POLI-290,Wani Hardiansyah,8957538981632512,waiting,2025-02-21 13:00:00,dr. Citra
+469,Poli KIA,POLI-902,Drs. Limar Habibi,6461736749705856,done,2025-01-29 11:00:00,dr. Citra
+470,Poli Lansia,POLI-268,Violet Susanti,9068482762083181,done,2025-01-04 13:00:00,dr. Citra
+471,Poli KB,POLI-155,Gabriella Hutagalung,0419958947853301,done,2025-02-20 12:00:00,dr. Budi
+472,Poli Lansia,POLI-536,Dinda Wacana,8096669391722932,done,2025-05-16 14:00:00,dr. Dina
+473,Poli Lansia,POLI-554,Dr. Jumadi Hariyah,8569831385312933,done,2025-04-21 09:00:00,dr. Fajar
+474,Poli Gigi,POLI-982,"Ridwan Rahmawati, S.Farm",7908318233001177,waiting,2025-02-13 14:00:00,dr. Citra
+475,Poli KB,POLI-975,Maria Pratiwi,4261186471134674,waiting,2025-04-09 08:00:00,dr. Citra
+476,Poli Gizi,POLI-108,"Dr. Aurora Wahyudin, S.E.I",4535363304205267,done,2025-02-07 10:00:00,dr. Andi
+477,Poli KIA,POLI-855,Ir. Tasnim Simbolon,6726392227755711,done,2025-04-25 08:00:00,dr. Eka
+478,Poli Umum,POLI-561,Dirja Latupono,5465587871908582,serving,2025-03-30 14:00:00,dr. Fajar
+479,Poli Gigi,POLI-704,Yuliana Sirait,9946922747393718,done,2025-02-16 12:00:00,dr. Dina
+480,Poli KB,POLI-500,"Dr. Mahmud Napitupulu, S.IP",2873324791299147,serving,2025-05-02 14:00:00,dr. Fajar
+481,Poli Umum,POLI-642,Gada Purnawati,6899711575110296,done,2025-02-22 15:00:00,dr. Eka
+482,Poli Gigi,POLI-208,Asirwada Yolanda,6832271748558528,done,2025-01-11 17:00:00,dr. Dina
+483,Poli Gizi,POLI-450,Zahra Hastuti,0141725649244987,done,2025-05-21 18:00:00,dr. Fajar
+484,Poli KIA,POLI-335,Himawan Lazuardi,8775030172826055,waiting,2025-01-05 15:00:00,dr. Budi
+485,Poli KB,POLI-038,"Umay Pangestu, M.TI.",3508370464613046,done,2025-04-14 10:00:00,dr. Fajar
+486,Poli KB,POLI-023,KH. Bagya Prayoga,5805365823159646,waiting,2025-01-01 12:00:00,dr. Dina
+487,Poli KIA,POLI-204,"Jamil Damanik, S.H.",4458310029037092,done,2025-01-19 12:00:00,dr. Andi
+488,Poli Gigi,POLI-972,"Cagak Novitasari, S.H.",3656797048892698,done,2025-03-04 16:00:00,dr. Fajar
+489,Poli Lansia,POLI-992,Belinda Marpaung,4644513030321574,waiting,2025-04-08 11:00:00,dr. Fajar
+490,Poli KB,POLI-563,"H. Pardi Maheswara, S.Pt",4919187532230199,done,2025-03-21 12:00:00,dr. Eka
+491,Poli Umum,POLI-813,Lega Nashiruddin,0306118207425281,waiting,2025-05-01 08:00:00,dr. Budi
+492,Poli Lansia,POLI-299,Elma Gunawan,1054843810096814,done,2025-03-17 14:00:00,dr. Dina
+493,Poli Gigi,POLI-816,Maryanto Maryati,9431512981494048,done,2025-01-02 18:00:00,dr. Dina
+494,Poli KIA,POLI-106,H. Yahya Sirait,5956078447570185,serving,2025-04-17 17:00:00,dr. Andi
+495,Poli Lansia,POLI-136,Perkasa Rahayu,2317575956566876,done,2025-03-21 13:00:00,dr. Eka
+496,Poli Umum,POLI-634,Kenes Adriansyah,5264040780546448,done,2025-05-03 13:00:00,dr. Budi
+497,Poli KIA,POLI-589,"Padma Uwais, M.Kom.",8457328290239687,done,2025-04-11 18:00:00,dr. Budi
+498,Poli Umum,POLI-617,Pandu Firmansyah,8498789542971148,done,2025-03-26 16:00:00,dr. Andi
+499,Poli Gizi,POLI-739,"Vicky Prabowo, S.I.Kom",6970655629950059,serving,2025-02-16 14:00:00,dr. Eka
+500,Poli KIA,POLI-684,"Tgk. Ibrani Pratama, S.Kom",8351255843014926,done,2025-05-03 10:00:00,dr. Eka
+501,Poli Gizi,POLI-828,Wani Mangunsong,7995252827011364,done,2025-01-06 12:00:00,dr. Citra
+502,Poli Umum,POLI-618,Eman Wijaya,1237201915754453,done,2025-02-04 08:00:00,dr. Eka
+503,Poli Gigi,POLI-147,Emil Mahendra,5382648185499193,done,2025-04-17 17:00:00,dr. Budi
+504,Poli Gigi,POLI-606,Galih Pangestu,0810220702973312,done,2025-02-21 13:00:00,dr. Fajar
+505,Poli KIA,POLI-484,"Mulya Pratama, M.TI.",0901607545848004,done,2025-05-21 12:00:00,dr. Fajar
+506,Poli Gizi,POLI-094,"Fitria Anggraini, M.M.",7550660346917060,done,2025-04-10 15:00:00,dr. Citra
+507,Poli Lansia,POLI-887,Hana Siregar,1392441711295460,waiting,2025-03-27 18:00:00,dr. Fajar
+508,Poli Lansia,POLI-394,drg. Betania Siregar,5379933500771421,done,2025-01-26 16:00:00,dr. Eka
+509,Poli KB,POLI-155,dr. Wulan Nasyiah,5674332848568713,done,2025-01-02 11:00:00,dr. Andi
+510,Poli Gigi,POLI-608,"Rusman Nainggolan, M.Kom.",0616783573272637,done,2025-03-04 12:00:00,dr. Budi
+511,Poli Gizi,POLI-073,Fitriani Narpati,6439856268521974,done,2025-02-03 11:00:00,dr. Eka
+512,Poli Gizi,POLI-176,"H. Hasan Halim, S.Farm",1706809338832634,done,2025-03-15 12:00:00,dr. Citra
+513,Poli Gigi,POLI-921,Jessica Kurniawan,6156504599171096,waiting,2025-01-28 14:00:00,dr. Andi
+514,Poli Umum,POLI-163,R. Anastasia Aryani,1169188200264045,serving,2025-01-16 11:00:00,dr. Citra
+515,Poli Gigi,POLI-288,"dr. Ellis Wastuti, S.Pd",3393411020290288,waiting,2025-04-15 10:00:00,dr. Dina
+516,Poli KB,POLI-330,Aswani Uyainah,3800191109456796,waiting,2025-05-16 15:00:00,dr. Fajar
+517,Poli Gizi,POLI-408,"KH. Mursita Anggriawan, S.Pt",7919715723468639,done,2025-02-01 10:00:00,dr. Budi
+518,Poli Lansia,POLI-904,Kezia Sihotang,0815842268810000,done,2025-05-17 18:00:00,dr. Fajar
+519,Poli KB,POLI-427,Kalim Aryani,0962576190100279,waiting,2025-01-02 11:00:00,dr. Dina
+520,Poli KIA,POLI-561,Cut Salsabila Aryani,2585458304661159,done,2025-05-13 17:00:00,dr. Fajar
+521,Poli Gizi,POLI-519,T. Kajen Suryatmi,4835346015391164,done,2025-03-20 09:00:00,dr. Budi
+522,Poli Gigi,POLI-485,Jane Rajasa,1458694275888246,serving,2025-04-21 14:00:00,dr. Dina
+523,Poli KIA,POLI-533,"Dt. Salman Budiyanto, S.Kom",3113490817490314,serving,2025-03-23 13:00:00,dr. Citra
+524,Poli Umum,POLI-819,Muhammad Utama,3059057140459033,serving,2025-03-31 16:00:00,dr. Fajar
+525,Poli Lansia,POLI-128,Radit Napitupulu,2002056929486006,done,2025-01-30 09:00:00,dr. Fajar
+526,Poli Gigi,POLI-002,Aditya Suartini,4837970351100073,waiting,2025-01-22 09:00:00,dr. Budi
+527,Poli Gigi,POLI-923,Reza Astuti,2391834421131279,done,2025-03-25 13:00:00,dr. Budi
+528,Poli Gizi,POLI-695,Ir. Jefri Prakasa,9706850779157007,done,2025-04-10 08:00:00,dr. Fajar
+529,Poli Lansia,POLI-924,Icha Hutasoit,5386886060558378,done,2025-04-21 16:00:00,dr. Eka
+530,Poli Umum,POLI-724,"Jagapati Najmudin, S.Sos",8039494719330739,done,2025-03-14 14:00:00,dr. Eka
+531,Poli Umum,POLI-894,"Farhunnisa Prasetyo, M.M.",1922193417157442,done,2025-03-09 10:00:00,dr. Andi
+532,Poli Gizi,POLI-706,dr. Eluh Putra,2932899941786968,serving,2025-01-17 13:00:00,dr. Fajar
+533,Poli Gigi,POLI-772,"Cemeti Lestari, S.E.",2916972104081842,done,2025-03-28 13:00:00,dr. Dina
+534,Poli KIA,POLI-987,Cahyadi Sudiati,5205177229699258,waiting,2025-02-08 15:00:00,dr. Fajar
+535,Poli KB,POLI-286,"Karen Putra, M.TI.",6636394599820455,serving,2025-05-29 08:00:00,dr. Budi
+536,Poli KIA,POLI-792,Gaiman Mandala,9209704624684607,serving,2025-01-13 15:00:00,dr. Budi
+537,Poli KIA,POLI-278,Cut Nadia Narpati,6240329871832998,done,2025-01-25 12:00:00,dr. Fajar
+538,Poli Gizi,POLI-175,"Hj. Iriana Prayoga, S.Sos",6475887902205857,done,2025-02-11 16:00:00,dr. Citra
+539,Poli KIA,POLI-441,Karen Simbolon,2662875480229100,done,2025-03-17 18:00:00,dr. Budi
+540,Poli Gigi,POLI-421,Zalindra Usamah,9800445041148175,waiting,2025-04-29 11:00:00,dr. Eka
+541,Poli KIA,POLI-298,"Drs. Gasti Mardhiyah, S.E.I",5007359479397024,done,2025-05-07 18:00:00,dr. Dina
+542,Poli Lansia,POLI-218,Dt. Wahyu Najmudin,9690682154476441,waiting,2025-05-13 15:00:00,dr. Eka
+543,Poli Umum,POLI-508,"Dr. Purwanto Setiawan, M.TI.",5099399084848837,done,2025-05-09 10:00:00,dr. Dina
+544,Poli Gigi,POLI-133,Sadina Yuniar,8562702268046923,done,2025-04-20 11:00:00,dr. Dina
+545,Poli KB,POLI-485,Mahdi Mangunsong,3780578322368747,done,2025-01-22 14:00:00,dr. Andi
+546,Poli Umum,POLI-102,"drg. Kasiyah Zulkarnain, S.Farm",9714109792581556,done,2025-05-19 16:00:00,dr. Citra
+547,Poli KB,POLI-855,"Dt. Balangga Nababan, S.Psi",0697811938329496,done,2025-05-27 09:00:00,dr. Budi
+548,Poli Gigi,POLI-071,"Dono Mahendra, S.Farm",8976975048483203,done,2025-02-06 18:00:00,dr. Budi
+549,Poli KIA,POLI-164,Umay Gunarto,8969188106633555,done,2025-03-16 11:00:00,dr. Eka
+550,Poli Lansia,POLI-310,Leo Saptono,8589647730440341,done,2025-01-31 17:00:00,dr. Citra
+551,Poli Lansia,POLI-814,Uli Andriani,1788677995497434,done,2025-02-02 10:00:00,dr. Eka
+552,Poli Gizi,POLI-384,Kacung Astuti,6730155904046261,done,2025-04-24 17:00:00,dr. Fajar
+553,Poli KB,POLI-470,Drs. Wadi Salahudin,1999873261762430,waiting,2025-03-31 08:00:00,dr. Dina
+554,Poli Gigi,POLI-849,"drg. Gatra Halim, M.M.",7334494315598519,done,2025-04-15 13:00:00,dr. Eka
+555,Poli KIA,POLI-245,"Hartana Sitorus, S.Gz",5012771809845774,serving,2025-01-08 09:00:00,dr. Andi
+556,Poli Umum,POLI-588,"Eluh Situmorang, S.E.I",1803582761522803,serving,2025-01-13 16:00:00,dr. Dina
+557,Poli Gizi,POLI-886,Gantar Sihombing,9349300509436510,done,2025-01-20 13:00:00,dr. Fajar
+558,Poli KB,POLI-606,Indra Susanti,3309315640552711,waiting,2025-04-04 09:00:00,dr. Eka
+559,Poli Gigi,POLI-768,Gandi Oktaviani,8147320257702735,done,2025-05-20 15:00:00,dr. Citra
+560,Poli KB,POLI-772,Bakianto Saragih,6152010693243861,done,2025-04-29 12:00:00,dr. Fajar
+561,Poli KIA,POLI-495,Ajeng Rajasa,8128160725186558,done,2025-03-11 15:00:00,dr. Citra
+562,Poli KB,POLI-374,"Lukman Hasanah, S.I.Kom",0298689180206569,waiting,2025-01-11 08:00:00,dr. Fajar
+563,Poli Gigi,POLI-602,Eka Padmasari,2960593699316754,done,2025-01-10 12:00:00,dr. Eka
+564,Poli Gizi,POLI-704,Aurora Yuliarti,7169109643501254,done,2025-02-21 14:00:00,dr. Andi
+565,Poli Gizi,POLI-338,Hani Nababan,8108813403328605,waiting,2025-05-03 09:00:00,dr. Andi
+566,Poli Umum,POLI-429,"Elisa Budiyanto, M.Farm",9676008109807121,done,2025-03-11 15:00:00,dr. Budi
+567,Poli Gigi,POLI-428,R. Jasmin Anggraini,6481667180034777,done,2025-03-27 14:00:00,dr. Dina
+568,Poli KIA,POLI-130,Kamila Nuraini,5630415040619702,waiting,2025-01-19 11:00:00,dr. Fajar
+569,Poli KIA,POLI-309,Jagaraga Siregar,2951367051027056,done,2025-03-24 18:00:00,dr. Eka
+570,Poli Lansia,POLI-400,R.M. Muhammad Simbolon,9593267584270474,done,2025-03-14 13:00:00,dr. Citra
+571,Poli KIA,POLI-756,Ghaliyati Mulyani,4686962798613374,done,2025-05-07 17:00:00,dr. Eka
+572,Poli KB,POLI-354,Sutan Timbul Santoso,1816465846041663,waiting,2025-05-15 14:00:00,dr. Andi
+573,Poli Lansia,POLI-763,"R. Laras Situmorang, S.Sos",1972088690049414,waiting,2025-01-10 12:00:00,dr. Dina
+574,Poli Gigi,POLI-571,Kawaca Wasita,2504859798464791,done,2025-05-13 18:00:00,dr. Citra
+575,Poli Lansia,POLI-118,"R. Jail Pangestu, S.Pt",0623928376266780,done,2025-05-18 16:00:00,dr. Fajar
+576,Poli Lansia,POLI-188,Saadat Kurniawan,3859606720961243,done,2025-04-17 14:00:00,dr. Citra
+577,Poli Gigi,POLI-894,Lukman Farida,9523334168757881,serving,2025-03-21 15:00:00,dr. Budi
+578,Poli KB,POLI-920,Ina Najmudin,2375008339816627,done,2025-03-09 12:00:00,dr. Fajar
+579,Poli Gizi,POLI-531,Hasan Simbolon,1710769294831193,done,2025-05-26 11:00:00,dr. Citra
+580,Poli Lansia,POLI-547,Rahmi Mustofa,5718983123196616,waiting,2025-01-25 18:00:00,dr. Fajar
+581,Poli KIA,POLI-356,Ikhsan Situmorang,5558664134678432,done,2025-01-24 10:00:00,dr. Fajar
+582,Poli KB,POLI-371,Rosman Haryanti,4548676128392055,waiting,2025-04-15 17:00:00,dr. Eka
+583,Poli KIA,POLI-302,Artanto Napitupulu,9816261641790342,waiting,2025-04-26 08:00:00,dr. Eka
+584,Poli Gigi,POLI-849,Amalia Wastuti,4565631413473613,done,2025-01-27 11:00:00,dr. Eka
+585,Poli Lansia,POLI-393,"Ir. Melinda Nasyidah, S.E.",6022145991266340,serving,2025-05-17 12:00:00,dr. Budi
+586,Poli Gigi,POLI-228,Karta Halimah,2290754463764125,done,2025-04-03 11:00:00,dr. Budi
+587,Poli KIA,POLI-848,Umar Waluyo,7736418544281963,done,2025-01-18 15:00:00,dr. Eka
+588,Poli KIA,POLI-739,"Saiful Uwais, M.M.",6421131644783174,serving,2025-02-23 16:00:00,dr. Fajar
+589,Poli Lansia,POLI-033,Banara Suryatmi,4575391407249525,done,2025-01-27 08:00:00,dr. Eka
+590,Poli Gizi,POLI-237,Ir. Wira Nurdiyanti,8414972154006354,done,2025-03-24 16:00:00,dr. Fajar
+591,Poli Gigi,POLI-665,Wulan Kuswoyo,7007753337781474,waiting,2025-01-25 08:00:00,dr. Fajar
+592,Poli KB,POLI-040,"Imam Kusmawati, M.TI.",0667636733748147,serving,2025-01-20 13:00:00,dr. Budi
+593,Poli Gizi,POLI-954,"H. Wakiman Megantara, M.M.",6067024872470078,done,2025-01-24 17:00:00,dr. Andi
+594,Poli Gigi,POLI-357,"Syahrini Hutagalung, S.E.I",7606793377570651,done,2025-02-09 17:00:00,dr. Eka
+595,Poli Gigi,POLI-256,Umaya Zulkarnain,6076177900062804,serving,2025-02-05 12:00:00,dr. Fajar
+596,Poli Gizi,POLI-196,Pia Firmansyah,3036415516216912,waiting,2025-02-06 16:00:00,dr. Budi
+597,Poli Gizi,POLI-541,"Alambana Siregar, M.Pd",4211572520626759,done,2025-01-11 16:00:00,dr. Eka
+598,Poli KIA,POLI-317,"Ir. Bakti Palastri, S.H.",7858531383425801,done,2025-04-22 09:00:00,dr. Dina
+599,Poli Umum,POLI-282,Olivia Marbun,1461328128251616,done,2025-03-16 09:00:00,dr. Andi
+600,Poli Lansia,POLI-952,R. Ratih Prayoga,4051114848586276,done,2025-04-30 09:00:00,dr. Citra
+601,Poli Lansia,POLI-699,Tasnim Habibi,4117988064317914,waiting,2025-03-18 11:00:00,dr. Dina
+602,Poli Gigi,POLI-460,"drg. Tomi Najmudin, S.E.",0819443577451570,done,2025-02-13 14:00:00,dr. Eka
+603,Poli Gigi,POLI-374,Anita Samosir,0286676321084477,waiting,2025-03-30 13:00:00,dr. Dina
+604,Poli Gigi,POLI-134,Cahya Haryanto,2890466904718164,done,2025-02-12 12:00:00,dr. Citra
+605,Poli KB,POLI-071,"Tgk. Bagus Hariyah, S.Sos",2201041254336477,done,2025-04-06 11:00:00,dr. Andi
+606,Poli Lansia,POLI-184,Drs. Zelda Zulkarnain,8045768214438399,done,2025-03-08 12:00:00,dr. Eka
+607,Poli Gizi,POLI-095,Halima Situmorang,1164874161461739,waiting,2025-02-12 18:00:00,dr. Fajar
+608,Poli Umum,POLI-783,"drg. Balapati Situmorang, M.TI.",1743637863563403,serving,2025-05-04 16:00:00,dr. Fajar
+609,Poli KB,POLI-266,Unggul Putra,0780305034779268,done,2025-01-12 12:00:00,dr. Budi
+610,Poli Umum,POLI-285,Halima Puspita,1576214613190455,serving,2025-03-17 18:00:00,dr. Andi
+611,Poli Lansia,POLI-449,"Fitriani Manullang, M.Farm",9365448115773668,done,2025-02-04 15:00:00,dr. Andi
+612,Poli Umum,POLI-486,Aditya Habibi,0279842923319462,waiting,2025-02-21 13:00:00,dr. Fajar
+613,Poli KB,POLI-493,Bala Pertiwi,4942158773540801,done,2025-01-27 11:00:00,dr. Andi
+614,Poli KB,POLI-918,Ghani Manullang,6030230622191856,waiting,2025-02-17 08:00:00,dr. Fajar
+615,Poli KIA,POLI-295,"Usyi Riyanti, M.TI.",4020808075558800,waiting,2025-02-21 08:00:00,dr. Budi
+616,Poli KB,POLI-014,Dadi Hakim,9430591330572981,done,2025-04-02 12:00:00,dr. Citra
+617,Poli Lansia,POLI-423,"Karsana Wijayanti, M.TI.",2443924816822568,done,2025-04-23 11:00:00,dr. Dina
+618,Poli KB,POLI-565,"R.A. Zizi Pratama, S.Farm",5227895165028210,serving,2025-05-08 16:00:00,dr. Dina
+619,Poli KIA,POLI-991,Ciaobella Mardhiyah,8552656789844497,done,2025-01-10 09:00:00,dr. Citra
+620,Poli KIA,POLI-688,Nugraha Habibi,2920252714697368,serving,2025-03-15 10:00:00,dr. Citra
+621,Poli Gigi,POLI-931,Puput Nurdiyanti,9771876126792479,done,2025-03-01 15:00:00,dr. Citra
+622,Poli Gigi,POLI-811,"Sakura Narpati, M.M.",9413816844591228,done,2025-03-27 10:00:00,dr. Fajar
+623,Poli KIA,POLI-004,Ella Permata,3378578012820472,waiting,2025-02-25 17:00:00,dr. Citra
+624,Poli KIA,POLI-273,"Sutan Galak Waskita, S.Pd",7167187203678219,done,2025-04-03 16:00:00,dr. Dina
+625,Poli KIA,POLI-686,Widya Samosir,7402025957568342,done,2025-03-31 18:00:00,dr. Andi
+626,Poli Gizi,POLI-610,Cakrajiya Waluyo,4364251588881905,done,2025-05-21 09:00:00,dr. Fajar
+627,Poli Umum,POLI-979,Dodo Nashiruddin,2548248169096854,done,2025-01-03 12:00:00,dr. Andi
+628,Poli Gigi,POLI-051,Calista Nurdiyanti,1936371157258113,done,2025-03-15 08:00:00,dr. Eka
+629,Poli Umum,POLI-251,"Empluk Safitri, S.Psi",8696689517428966,done,2025-03-22 14:00:00,dr. Budi
+630,Poli Gigi,POLI-728,Aswani Lazuardi,9191459979526736,done,2025-02-11 11:00:00,dr. Budi
+631,Poli Gigi,POLI-314,Shakila Mahendra,6054558736858069,done,2025-02-15 10:00:00,dr. Budi
+632,Poli Gizi,POLI-581,"Yulia Nurdiyanti, S.Gz",6939555347206423,serving,2025-04-10 14:00:00,dr. Dina
+633,Poli Lansia,POLI-133,Luwar Rahmawati,9523063877353987,done,2025-01-27 12:00:00,dr. Fajar
+634,Poli Gigi,POLI-791,Sabrina Gunarto,4226408594781799,done,2025-04-29 15:00:00,dr. Citra
+635,Poli Gigi,POLI-064,Diah Kusmawati,9226871342999347,done,2025-04-01 10:00:00,dr. Citra
+636,Poli Lansia,POLI-518,"R.M. Banawa Pradipta, S.Pd",2706117389134996,serving,2025-04-21 09:00:00,dr. Fajar
+637,Poli Gigi,POLI-074,Kiandra Tampubolon,3356619820631483,serving,2025-01-08 08:00:00,dr. Fajar
+638,Poli Umum,POLI-902,Perkasa Namaga,5085204532240756,done,2025-03-08 16:00:00,dr. Fajar
+639,Poli KB,POLI-071,Tgk. Nurul Anggriawan,8387695376858203,done,2025-05-26 15:00:00,dr. Dina
+640,Poli Gizi,POLI-086,Dalima Halimah,3643260765541823,done,2025-01-30 12:00:00,dr. Budi
+641,Poli Gizi,POLI-228,Catur Maheswara,6257375483132739,done,2025-03-03 16:00:00,dr. Dina
+642,Poli Lansia,POLI-514,T. Kunthara Pangestu,2933757627514975,done,2025-03-08 13:00:00,dr. Fajar
+643,Poli Gigi,POLI-334,Fitriani Purnawati,6884814403481954,done,2025-01-08 18:00:00,dr. Eka
+644,Poli Gizi,POLI-724,Naradi Rajasa,0359848583274152,done,2025-03-16 13:00:00,dr. Citra
+645,Poli Gizi,POLI-660,KH. Warta Wijaya,2413153463940006,done,2025-02-13 17:00:00,dr. Budi
+646,Poli Umum,POLI-477,Kania Hartati,1217730166865100,done,2025-03-02 09:00:00,dr. Dina
+647,Poli KB,POLI-873,Drs. Ratih Hidayanto,7584603005725504,done,2025-01-10 12:00:00,dr. Eka
+648,Poli Umum,POLI-950,"Novi Rajasa, S.Kom",1668240915710648,done,2025-04-19 11:00:00,dr. Budi
+649,Poli KB,POLI-161,Maman Pratama,2229199440114122,done,2025-05-19 11:00:00,dr. Dina
+650,Poli KB,POLI-864,Alika Halimah,9895841446802345,done,2025-01-31 17:00:00,dr. Citra
+651,Poli Gizi,POLI-976,Lanjar Januar,5934624900412753,done,2025-02-21 10:00:00,dr. Fajar
+652,Poli Gizi,POLI-761,Atmaja Hastuti,5688127550889475,done,2025-03-20 16:00:00,dr. Eka
+653,Poli KIA,POLI-029,Darman Pratiwi,1773616747522584,done,2025-02-15 11:00:00,dr. Andi
+654,Poli Lansia,POLI-798,Jabal Samosir,0865933021555014,serving,2025-03-31 09:00:00,dr. Andi
+655,Poli Lansia,POLI-407,"Padma Siregar, S.H.",5500058461809607,waiting,2025-05-14 17:00:00,dr. Eka
+656,Poli Gigi,POLI-925,Mulya Hutapea,1584180194112312,done,2025-02-20 11:00:00,dr. Citra
+657,Poli Gizi,POLI-060,Devi Saputra,3553524686222226,serving,2025-04-25 13:00:00,dr. Dina
+658,Poli Lansia,POLI-467,Rahman Hidayanto,3635282498702795,done,2025-01-25 08:00:00,dr. Citra
+659,Poli KIA,POLI-379,Kacung Zulkarnain,7295236732744248,done,2025-05-03 08:00:00,dr. Citra
+660,Poli KIA,POLI-634,Salsabila Sitorus,1662090268774386,waiting,2025-01-31 17:00:00,dr. Eka
+661,Poli KIA,POLI-399,Luwar Megantara,9619517330895237,done,2025-04-26 10:00:00,dr. Fajar
+662,Poli Umum,POLI-477,"Dr. Nasrullah Firmansyah, M.M.",1718587393306239,done,2025-03-31 09:00:00,dr. Citra
+663,Poli Umum,POLI-110,Citra Halim,2042247052218333,serving,2025-03-14 15:00:00,dr. Fajar
+664,Poli Umum,POLI-441,"Warta Firmansyah, S.T.",3676952388547438,waiting,2025-04-19 18:00:00,dr. Fajar
+665,Poli KIA,POLI-339,Estiono Usada,6196445913187528,done,2025-02-23 09:00:00,dr. Citra
+666,Poli Umum,POLI-941,"T. Dono Widiastuti, S.E.I",4601012852042204,done,2025-04-29 14:00:00,dr. Fajar
+667,Poli KB,POLI-249,"Jessica Prasetya, S.H.",6351079961243196,waiting,2025-03-13 15:00:00,dr. Citra
+668,Poli Gizi,POLI-331,Slamet Saputra,7862359913945463,done,2025-05-26 14:00:00,dr. Budi
+669,Poli Lansia,POLI-340,Makara Najmudin,1929104769022555,done,2025-01-08 09:00:00,dr. Budi
+670,Poli Gigi,POLI-493,Hj. Aisyah Hutasoit,1877324940825855,serving,2025-03-12 16:00:00,dr. Andi
+671,Poli Lansia,POLI-159,Drs. Kawaya Maryati,1435347162041234,done,2025-04-20 11:00:00,dr. Budi
+672,Poli Gizi,POLI-016,Vanya Waluyo,9924382942262266,done,2025-03-19 15:00:00,dr. Citra
+673,Poli KIA,POLI-343,Dewi Hutasoit,6239862394416813,done,2025-05-19 11:00:00,dr. Budi
+674,Poli Lansia,POLI-767,Galiono Uyainah,5997111160704863,waiting,2025-03-01 12:00:00,dr. Budi
+675,Poli Umum,POLI-743,R. Prima Hastuti,8882942100072554,serving,2025-03-09 15:00:00,dr. Budi
+676,Poli KIA,POLI-104,"Drajat Pradana, S.T.",9259893912693582,done,2025-04-20 15:00:00,dr. Dina
+677,Poli Umum,POLI-377,Cemeti Winarno,6319377653684888,waiting,2025-04-06 15:00:00,dr. Fajar
+678,Poli KB,POLI-819,Hasna Pradana,5869144031678507,done,2025-05-09 08:00:00,dr. Eka
+679,Poli KB,POLI-720,"Lasmono Winarno, S.T.",8693365830365758,done,2025-04-28 16:00:00,dr. Andi
+680,Poli Lansia,POLI-140,"Eka Wahyuni, S.Kom",0882500122158112,done,2025-03-22 12:00:00,dr. Citra
+681,Poli Gigi,POLI-516,drg. Eva Prastuti,0263742395128979,done,2025-03-16 12:00:00,dr. Andi
+682,Poli KB,POLI-393,Sutan Bagya Rahimah,7060990840259817,done,2025-04-27 16:00:00,dr. Andi
+683,Poli Lansia,POLI-347,"Lukman Ramadan, S.IP",4160639259556390,done,2025-02-22 14:00:00,dr. Andi
+684,Poli KB,POLI-714,Uchita Saragih,4560475518740291,waiting,2025-01-20 11:00:00,dr. Andi
+685,Poli Lansia,POLI-166,Tgk. Hendra Fujiati,6692396752824450,done,2025-02-10 13:00:00,dr. Dina
+686,Poli KIA,POLI-854,Garda Marpaung,2592249580887283,done,2025-03-03 13:00:00,dr. Dina
+687,Poli Umum,POLI-144,Patricia Lailasari,1679124867829758,done,2025-02-14 15:00:00,dr. Andi
+688,Poli Lansia,POLI-955,Karimah Andriani,6833063276254107,serving,2025-05-08 12:00:00,dr. Andi
+689,Poli Gizi,POLI-025,"Sutan Karya Nuraini, S.H.",1673395954040976,done,2025-02-08 16:00:00,dr. Fajar
+690,Poli Gizi,POLI-882,Sidiq Sitompul,4367089609700976,done,2025-03-26 09:00:00,dr. Fajar
+691,Poli KB,POLI-168,Kusuma Waskita,1401379915150592,done,2025-04-30 09:00:00,dr. Fajar
+692,Poli KIA,POLI-981,dr. Margana Dongoran,7109232742296316,done,2025-01-27 11:00:00,dr. Citra
+693,Poli KB,POLI-095,Juli Sitompul,6806582255640603,done,2025-03-28 16:00:00,dr. Eka
+694,Poli Gigi,POLI-636,Uda Simbolon,8445228947947144,done,2025-02-04 15:00:00,dr. Andi
+695,Poli Gigi,POLI-761,"dr. Jail Gunawan, M.Pd",4652547220971740,waiting,2025-04-23 17:00:00,dr. Andi
+696,Poli Gizi,POLI-313,"dr. Karman Wulandari, S.E.I",8481045823276463,serving,2025-01-25 12:00:00,dr. Dina
+697,Poli Umum,POLI-687,Paramita Kuswandari,5102787968526639,done,2025-03-15 18:00:00,dr. Fajar
+698,Poli Gigi,POLI-400,Rudi Ramadan,1357665791742003,done,2025-05-08 11:00:00,dr. Budi
+699,Poli Umum,POLI-797,R. Ibun Irawan,4232272941205815,serving,2025-04-07 17:00:00,dr. Andi
+700,Poli KIA,POLI-633,Balijan Namaga,0688894908480889,done,2025-05-18 14:00:00,dr. Budi
+701,Poli Umum,POLI-319,"Ir. Rama Marpaung, M.Kom.",8241280399574388,serving,2025-02-15 15:00:00,dr. Citra
+702,Poli Lansia,POLI-209,"T. Laksana Wastuti, S.Kom",0209363886937683,done,2025-05-08 08:00:00,dr. Andi
+703,Poli Umum,POLI-016,Faizah Jailani,1786210021505044,waiting,2025-02-03 18:00:00,dr. Dina
+704,Poli Umum,POLI-711,Jane Mulyani,9538280640313266,waiting,2025-05-04 14:00:00,dr. Dina
+705,Poli KB,POLI-638,Kemal Nurdiyanti,4111064899191193,waiting,2025-04-11 11:00:00,dr. Dina
+706,Poli Gigi,POLI-645,Halima Haryanti,8499913852587625,done,2025-02-18 11:00:00,dr. Andi
+707,Poli Gizi,POLI-322,Paulin Haryanto,4413635861671861,done,2025-04-29 09:00:00,dr. Eka
+708,Poli Gigi,POLI-171,Satya Hutagalung,1315084193967437,done,2025-05-06 14:00:00,dr. Citra
+709,Poli Gizi,POLI-695,Zulfa Hutasoit,0976348952781856,done,2025-03-30 09:00:00,dr. Eka
+710,Poli KIA,POLI-505,Tgk. Darman Astuti,8088867075672546,serving,2025-02-07 16:00:00,dr. Dina
+711,Poli Umum,POLI-420,Restu Mandasari,5704984615807123,done,2025-04-29 12:00:00,dr. Andi
+712,Poli KB,POLI-825,R.A. Rahmi Hakim,8642496012183107,done,2025-01-25 18:00:00,dr. Eka
+713,Poli KB,POLI-075,Ir. Najwa Nasyidah,7791747004997877,waiting,2025-01-22 10:00:00,dr. Eka
+714,Poli Gizi,POLI-674,"Cut Kezia Mandasari, S.E.",2611172189676636,done,2025-05-06 13:00:00,dr. Fajar
+715,Poli KB,POLI-357,Gilda Palastri,4737148057717586,done,2025-03-15 14:00:00,dr. Budi
+716,Poli Lansia,POLI-612,Bakiono Prabowo,2906035883114645,done,2025-03-26 09:00:00,dr. Andi
+717,Poli Lansia,POLI-041,"dr. Oman Rahayu, M.Pd",0579337247177653,serving,2025-01-19 10:00:00,dr. Andi
+718,Poli Gizi,POLI-908,Dr. Dodo Mangunsong,4766975998051599,waiting,2025-04-04 15:00:00,dr. Andi
+719,Poli KIA,POLI-224,R.A. Mila Usamah,9017816770519314,serving,2025-04-07 14:00:00,dr. Andi
+720,Poli Lansia,POLI-091,Kamaria Setiawan,5707573985204378,done,2025-03-11 10:00:00,dr. Fajar
+721,Poli Gizi,POLI-139,Nasab Jailani,7901943129004732,done,2025-05-03 11:00:00,dr. Citra
+722,Poli KIA,POLI-392,"Wardaya Namaga, S.E.I",9077175713470057,done,2025-03-20 11:00:00,dr. Fajar
+723,Poli Gizi,POLI-810,"Cut Zulaikha Adriansyah, S.E.",9595102806408752,done,2025-02-27 17:00:00,dr. Dina
+724,Poli Gizi,POLI-942,"Ir. Janet Melani, M.Ak",0371796762024718,serving,2025-03-04 18:00:00,dr. Andi
+725,Poli Gizi,POLI-980,Uli Pertiwi,2640368501413068,waiting,2025-05-28 16:00:00,dr. Citra
+726,Poli KB,POLI-504,"Sutan Digdaya Nashiruddin, M.Kom.",4729006363185872,done,2025-04-23 13:00:00,dr. Fajar
+727,Poli Umum,POLI-213,Yuni Sirait,0100217633839282,done,2025-01-25 14:00:00,dr. Citra
+728,Poli KIA,POLI-409,Rahmi Pangestu,0606057973153055,waiting,2025-05-17 17:00:00,dr. Dina
+729,Poli Umum,POLI-149,Marsudi Sudiati,2857955451849448,done,2025-02-25 17:00:00,dr. Andi
+730,Poli KIA,POLI-047,Drs. Kariman Latupono,7774705791940082,done,2025-02-23 11:00:00,dr. Dina
+731,Poli Gigi,POLI-862,"R.M. Kemba Saefullah, M.Kom.",8502480635087184,waiting,2025-03-27 09:00:00,dr. Budi
+732,Poli Lansia,POLI-834,"Paris Pangestu, S.Sos",8345366213431124,serving,2025-05-20 18:00:00,dr. Fajar
+733,Poli Umum,POLI-480,Gabriella Haryanti,8876799751790327,done,2025-02-11 15:00:00,dr. Andi
+734,Poli KB,POLI-599,Prakosa Mayasari,8975408071883452,done,2025-04-20 12:00:00,dr. Dina
+735,Poli KB,POLI-259,Ir. Harjasa Oktaviani,7580940082409462,done,2025-03-13 15:00:00,dr. Dina
+736,Poli KB,POLI-075,dr. Tiara Kusumo,2889117440944716,waiting,2025-02-03 18:00:00,dr. Budi
+737,Poli KIA,POLI-028,Mulyanto Adriansyah,1278606471631274,done,2025-05-05 12:00:00,dr. Budi
+738,Poli Gigi,POLI-581,"Bala Kusmawati, M.Ak",8506635261482909,done,2025-05-20 18:00:00,dr. Budi
+739,Poli KIA,POLI-654,dr. Gangsar Siregar,0877625435204928,done,2025-05-19 10:00:00,dr. Eka
+740,Poli Umum,POLI-385,R. Cindy Hakim,0871221488293499,done,2025-01-05 15:00:00,dr. Andi
+741,Poli KIA,POLI-179,Narji Waskita,9883589223344641,waiting,2025-03-25 14:00:00,dr. Dina
+742,Poli KB,POLI-006,Puti Raina Mulyani,5799072010023411,waiting,2025-01-28 13:00:00,dr. Budi
+743,Poli Lansia,POLI-189,"Surya Aryani, S.Gz",0744389910174734,done,2025-05-27 10:00:00,dr. Dina
+744,Poli KB,POLI-165,Titi Dongoran,1881271444431777,waiting,2025-01-06 11:00:00,dr. Fajar
+745,Poli Gizi,POLI-910,Sutan Galang Saragih,0380137481390929,done,2025-03-25 10:00:00,dr. Andi
+746,Poli KB,POLI-568,R. Kemba Sihotang,1794431619546379,done,2025-04-10 17:00:00,dr. Budi
+747,Poli Umum,POLI-653,"Karimah Rahmawati, S.T.",1746128403878293,done,2025-04-22 12:00:00,dr. Andi
+748,Poli Umum,POLI-789,dr. Anastasia Saptono,7315458013578230,done,2025-03-19 15:00:00,dr. Citra
+749,Poli KB,POLI-888,Dalima Susanti,1712794152188596,waiting,2025-04-04 09:00:00,dr. Citra
+750,Poli Gigi,POLI-338,Laras Natsir,6933842026684697,done,2025-04-23 12:00:00,dr. Budi
+751,Poli Gizi,POLI-832,Ir. Mala Susanti,5935005362138522,done,2025-03-18 16:00:00,dr. Eka
+752,Poli KB,POLI-512,Kiandra Wulandari,9128472262525737,waiting,2025-04-04 16:00:00,dr. Fajar
+753,Poli KB,POLI-382,"Drs. Titi Hastuti, S.Psi",1516358592870304,done,2025-05-29 13:00:00,dr. Eka
+754,Poli Lansia,POLI-989,Aslijan Sitompul,1328049026456644,done,2025-01-28 10:00:00,dr. Citra
+755,Poli Lansia,POLI-183,Sari Susanti,3390073661480557,done,2025-05-27 09:00:00,dr. Citra
+756,Poli Lansia,POLI-611,T. Latif Wijaya,4848792497634995,done,2025-03-12 08:00:00,dr. Citra
+757,Poli Lansia,POLI-304,"drg. Indah Gunarto, S.Ked",0771582884512614,waiting,2025-02-16 08:00:00,dr. Eka
+758,Poli Gigi,POLI-557,"Hj. Ade Santoso, M.M.",6793656460399032,done,2025-03-24 09:00:00,dr. Eka
+759,Poli Lansia,POLI-021,Tgk. Wulan Suryatmi,8581133482791392,done,2025-03-21 14:00:00,dr. Eka
+760,Poli Umum,POLI-272,Marwata Oktaviani,7203042222711096,done,2025-04-30 13:00:00,dr. Citra
+761,Poli Gizi,POLI-312,Ibun Pradana,4016715424386599,waiting,2025-05-21 11:00:00,dr. Fajar
+762,Poli Gizi,POLI-020,Keisha Budiyanto,0154243996314063,waiting,2025-01-06 09:00:00,dr. Citra
+763,Poli Umum,POLI-627,"Cut Silvia Palastri, S.Sos",5649187249023940,waiting,2025-02-11 18:00:00,dr. Citra
+764,Poli Umum,POLI-847,Julia Saptono,7900312336105806,done,2025-03-02 12:00:00,dr. Andi
+765,Poli Gigi,POLI-842,"Karman Tamba, S.E.I",1160372396004195,done,2025-04-17 14:00:00,dr. Andi
+766,Poli KIA,POLI-813,Yuni Wibowo,3996596716869337,done,2025-02-02 13:00:00,dr. Eka
+767,Poli KIA,POLI-257,Melinda Maheswara,6095246876980092,done,2025-04-15 17:00:00,dr. Citra
+768,Poli KB,POLI-211,Asmuni Saragih,7881018330376895,done,2025-05-14 09:00:00,dr. Dina
+769,Poli KIA,POLI-299,Ir. Zelda Prasasta,4039354795610912,serving,2025-01-22 14:00:00,dr. Eka
+770,Poli Gizi,POLI-505,Salwa Mandala,0801996910135594,done,2025-02-07 13:00:00,dr. Eka
+771,Poli KB,POLI-176,Cengkal Pudjiastuti,2384166014014034,done,2025-02-25 14:00:00,dr. Andi
+772,Poli Lansia,POLI-879,"Unggul Lazuardi, S.Pd",3152846793474894,done,2025-02-18 18:00:00,dr. Dina
+773,Poli Gigi,POLI-911,Dodo Halim,4201759271816764,done,2025-03-27 13:00:00,dr. Citra
+774,Poli Gigi,POLI-756,Gandi Sinaga,0748623554922551,done,2025-04-06 11:00:00,dr. Eka
+775,Poli Umum,POLI-625,Mahmud Irawan,4108500958244194,done,2025-01-30 13:00:00,dr. Dina
+776,Poli KIA,POLI-540,Ghaliyati Purnawati,9396256976840630,done,2025-04-06 09:00:00,dr. Citra
+777,Poli KIA,POLI-089,Dt. Aswani Habibi,4609839108169848,done,2025-01-24 09:00:00,dr. Eka
+778,Poli Gizi,POLI-685,Sutan Cecep Napitupulu,4805530818021981,done,2025-01-26 16:00:00,dr. Dina
+779,Poli KIA,POLI-502,drg. Eli Waskita,1310215097020133,done,2025-02-22 11:00:00,dr. Andi
+780,Poli Umum,POLI-496,Drs. Jessica Latupono,1292714466489385,waiting,2025-03-05 09:00:00,dr. Andi
+781,Poli KIA,POLI-544,Lalita Adriansyah,0932445720824151,done,2025-03-18 15:00:00,dr. Dina
+782,Poli Gizi,POLI-657,"Raisa Prakasa, S.Kom",9291454953330317,serving,2025-04-03 16:00:00,dr. Budi
+783,Poli KB,POLI-647,Mustofa Halim,9971886109349996,serving,2025-01-21 15:00:00,dr. Dina
+784,Poli Gizi,POLI-583,Drs. Kemba Samosir,0821226932581029,waiting,2025-04-08 18:00:00,dr. Dina
+785,Poli Lansia,POLI-783,Vanya Najmudin,1107394408585353,done,2025-03-29 10:00:00,dr. Budi
+786,Poli Lansia,POLI-865,Gilda Maryadi,7328020772766568,done,2025-05-02 15:00:00,dr. Andi
+787,Poli Umum,POLI-018,Humaira Widiastuti,8094584771806965,done,2025-04-26 17:00:00,dr. Fajar
+788,Poli Umum,POLI-116,Mustofa Gunawan,5108587607704638,serving,2025-02-06 10:00:00,dr. Dina
+789,Poli KB,POLI-268,Unjani Wijayanti,3851784659787437,waiting,2025-01-18 13:00:00,dr. Budi
+790,Poli Gizi,POLI-228,"Ulva Utami, S.H.",7181426430917406,done,2025-02-16 16:00:00,dr. Dina
+791,Poli KIA,POLI-769,Cut Cornelia Hutagalung,7401622960784399,waiting,2025-04-08 18:00:00,dr. Budi
+792,Poli Umum,POLI-099,Dimaz Prasetyo,8176888604673366,waiting,2025-02-11 17:00:00,dr. Dina
+793,Poli Umum,POLI-636,Kamila Mulyani,8828696209448075,done,2025-01-15 15:00:00,dr. Citra
+794,Poli KIA,POLI-130,Teguh Narpati,4565659334937863,done,2025-04-03 13:00:00,dr. Dina
+795,Poli Lansia,POLI-500,Dt. Embuh Sitorus,2631016560392238,done,2025-01-14 15:00:00,dr. Dina
+796,Poli Gizi,POLI-553,"dr. Faizah Wastuti, S.Sos",7871638208606237,done,2025-02-18 18:00:00,dr. Dina
+797,Poli Lansia,POLI-308,Rina Nababan,7352919828137160,done,2025-03-16 15:00:00,dr. Dina
+798,Poli Lansia,POLI-800,Rusman Kuswoyo,9704238558311762,done,2025-02-20 16:00:00,dr. Eka
+799,Poli Gigi,POLI-917,Puji Nugroho,5908492474115394,done,2025-03-31 09:00:00,dr. Fajar
+800,Poli Gizi,POLI-056,Kawaca Maheswara,0687652960218330,waiting,2025-04-13 14:00:00,dr. Citra
+801,Poli Gizi,POLI-338,"Dr. Narji Sitompul, S.Pd",9014850960380128,done,2025-03-16 15:00:00,dr. Andi
+802,Poli KB,POLI-071,"Drs. Baktiono Lailasari, S.T.",3010643313678121,waiting,2025-05-14 16:00:00,dr. Andi
+803,Poli KB,POLI-739,"Mulyono Suryatmi, S.Ked",8842327321603072,done,2025-01-22 14:00:00,dr. Dina
+804,Poli Gizi,POLI-555,"drg. Hana Pangestu, S.I.Kom",7682066802636232,done,2025-05-19 11:00:00,dr. Eka
+805,Poli Umum,POLI-474,drg. Kiandra Yuliarti,4376312425320439,done,2025-04-07 12:00:00,dr. Dina
+806,Poli KB,POLI-035,Padmi Permata,6606509009422158,done,2025-05-07 14:00:00,dr. Andi
+807,Poli KIA,POLI-231,Latif Nainggolan,9910305090229567,waiting,2025-03-02 18:00:00,dr. Citra
+808,Poli KIA,POLI-903,"Puti Anastasia Zulaika, S.IP",2739490506815293,done,2025-03-26 18:00:00,dr. Budi
+809,Poli Gigi,POLI-143,drg. Zulaikha Waskita,2106105855933191,done,2025-05-02 17:00:00,dr. Dina
+810,Poli Lansia,POLI-270,Farah Palastri,2303936802532964,waiting,2025-01-27 09:00:00,dr. Dina
+811,Poli Umum,POLI-137,Cakrabuana Damanik,6632389430266413,done,2025-05-23 10:00:00,dr. Fajar
+812,Poli Gigi,POLI-388,Indra Wacana,6897203283440888,done,2025-01-26 08:00:00,dr. Eka
+813,Poli KIA,POLI-233,"H. Laswi Hariyah, S.E.I",6383880527870583,done,2025-02-23 09:00:00,dr. Dina
+814,Poli Umum,POLI-939,Parman Hakim,1988883984334067,done,2025-04-30 12:00:00,dr. Budi
+815,Poli KB,POLI-420,"Sutan Teddy Halimah, M.TI.",8540297932111228,done,2025-03-26 13:00:00,dr. Citra
+816,Poli Gigi,POLI-909,"R.A. Betania Prasasta, M.TI.",3352400416025848,done,2025-01-21 13:00:00,dr. Fajar
+817,Poli Lansia,POLI-067,Rachel Setiawan,1664182268937832,done,2025-03-22 08:00:00,dr. Andi
+818,Poli Lansia,POLI-178,Empluk Lazuardi,6568722578099749,done,2025-01-24 15:00:00,dr. Budi
+819,Poli KIA,POLI-757,"H. Yoga Manullang, M.Pd",5566505565293348,serving,2025-05-12 13:00:00,dr. Andi
+820,Poli Lansia,POLI-148,"drg. Safina Safitri, M.Pd",7176545008302027,done,2025-03-19 10:00:00,dr. Budi
+821,Poli KIA,POLI-120,"Gilang Mandasari, M.Farm",6358519870383836,done,2025-03-02 09:00:00,dr. Andi
+822,Poli Umum,POLI-596,T. Elon Kusumo,1584872243892373,done,2025-03-12 11:00:00,dr. Dina
+823,Poli Gizi,POLI-670,Laila Mandala,4096494375086850,done,2025-02-10 14:00:00,dr. Eka
+824,Poli Lansia,POLI-049,"Luthfi Marpaung, M.Ak",1952526646209853,done,2025-01-20 09:00:00,dr. Eka
+825,Poli KIA,POLI-358,Genta Hidayanto,5777859393352415,done,2025-01-16 09:00:00,dr. Budi
+826,Poli Umum,POLI-144,Jail Dabukke,7809578361089893,done,2025-03-17 13:00:00,dr. Fajar
+827,Poli Lansia,POLI-986,Kajen Palastri,8746037843478263,done,2025-05-26 14:00:00,dr. Fajar
+828,Poli KIA,POLI-766,"T. Dagel Wibowo, S.I.Kom",6417353349261290,done,2025-03-13 17:00:00,dr. Citra
+829,Poli KIA,POLI-694,"Drs. Karna Mustofa, M.Ak",0895535592331930,done,2025-03-15 11:00:00,dr. Fajar
+830,Poli Gigi,POLI-545,Puspa Nugroho,2339449473441410,done,2025-02-10 15:00:00,dr. Budi
+831,Poli Lansia,POLI-558,"Karma Utama, S.Pt",5456197738614675,done,2025-03-22 18:00:00,dr. Dina
+832,Poli Umum,POLI-403,"Tgk. Amalia Gunawan, M.Pd",4254084949572475,done,2025-03-22 12:00:00,dr. Fajar
+833,Poli Gigi,POLI-645,Galak Andriani,2939023380817891,done,2025-02-20 12:00:00,dr. Dina
+834,Poli KB,POLI-230,drg. Caturangga Permadi,6951625038871942,done,2025-02-12 11:00:00,dr. Andi
+835,Poli KB,POLI-609,Balamantri Maryadi,5527725779714222,done,2025-02-19 16:00:00,dr. Budi
+836,Poli Gizi,POLI-795,"Tgk. Jaya Natsir, M.M.",2080824947124418,done,2025-03-04 18:00:00,dr. Budi
+837,Poli KB,POLI-792,Dina Wacana,4118473219102019,waiting,2025-01-11 10:00:00,dr. Eka
+838,Poli Umum,POLI-721,Bakiadi Rajasa,7074467016865940,waiting,2025-01-25 15:00:00,dr. Andi
+839,Poli Gizi,POLI-634,Aurora Ardianto,0848265205041156,done,2025-04-12 12:00:00,dr. Eka
+840,Poli KB,POLI-138,Ajimin Tarihoran,9444912795598939,done,2025-04-08 16:00:00,dr. Citra
+841,Poli KIA,POLI-956,Dinda Wulandari,9723987584845325,waiting,2025-03-01 11:00:00,dr. Fajar
+842,Poli Lansia,POLI-824,Martani Andriani,4017251430279462,waiting,2025-03-26 09:00:00,dr. Eka
+843,Poli Gigi,POLI-479,Jessica Prayoga,4535127239568878,done,2025-04-08 14:00:00,dr. Dina
+844,Poli Lansia,POLI-033,Anastasia Waskita,2203865431217716,done,2025-03-16 15:00:00,dr. Dina
+845,Poli Umum,POLI-201,dr. Agus Usamah,6585287116991943,done,2025-05-30 18:00:00,dr. Andi
+846,Poli Lansia,POLI-610,"Tgk. Irwan Mandala, S.T.",7862325925985951,done,2025-01-23 14:00:00,dr. Fajar
+847,Poli Gizi,POLI-928,Eka Sinaga,3798171051796591,serving,2025-03-13 18:00:00,dr. Eka
+848,Poli Gizi,POLI-338,Tiara Situmorang,1642940979756238,done,2025-04-04 14:00:00,dr. Dina
+849,Poli Gizi,POLI-125,"drg. Rafid Siregar, S.Sos",2955330968038850,waiting,2025-04-23 15:00:00,dr. Citra
+850,Poli KIA,POLI-075,Uda Uwais,9220571313786613,done,2025-03-31 08:00:00,dr. Andi
+851,Poli Gizi,POLI-595,Indah Prakasa,0403111463639651,done,2025-02-15 14:00:00,dr. Dina
+852,Poli Umum,POLI-764,Ir. Julia Zulaika,3647584294091154,serving,2025-05-09 13:00:00,dr. Andi
+853,Poli KIA,POLI-922,Shania Saragih,3026105599687049,done,2025-05-18 18:00:00,dr. Dina
+854,Poli Umum,POLI-565,Wasis Hidayat,5594120512005688,done,2025-01-12 15:00:00,dr. Citra
+855,Poli Lansia,POLI-765,Heru Rajata,6517470848446921,waiting,2025-03-08 13:00:00,dr. Eka
+856,Poli Gizi,POLI-492,Lanang Nurdiyanti,4364809252831674,done,2025-01-03 16:00:00,dr. Citra
+857,Poli KIA,POLI-295,Wakiman Adriansyah,3047671628913652,done,2025-02-25 14:00:00,dr. Andi
+858,Poli Umum,POLI-152,Karsa Mayasari,5245794803261722,done,2025-05-23 15:00:00,dr. Eka
+859,Poli KIA,POLI-493,Malika Prastuti,2886870799513476,done,2025-01-24 15:00:00,dr. Dina
+860,Poli KB,POLI-381,Cahyo Setiawan,5249534396901971,done,2025-03-31 12:00:00,dr. Budi
+861,Poli Gizi,POLI-475,Irfan Suwarno,9678205615665765,done,2025-03-07 11:00:00,dr. Dina
+862,Poli KIA,POLI-212,Maman Firmansyah,0004578572209447,done,2025-01-03 09:00:00,dr. Budi
+863,Poli Umum,POLI-414,"R.A. Lidya Novitasari, S.T.",0423254312745046,waiting,2025-03-01 10:00:00,dr. Citra
+864,Poli KIA,POLI-905,Dimas Hassanah,3971618583921516,done,2025-02-06 10:00:00,dr. Fajar
+865,Poli Umum,POLI-576,Tania Uwais,9564055541215828,serving,2025-03-04 08:00:00,dr. Andi
+866,Poli KB,POLI-354,Rika Hastuti,5256582192296068,done,2025-05-02 17:00:00,dr. Dina
+867,Poli Gigi,POLI-863,Wirda Handayani,6176050490362408,done,2025-04-13 14:00:00,dr. Eka
+868,Poli Umum,POLI-100,"Violet Pangestu, S.IP",7371591173545083,done,2025-01-21 15:00:00,dr. Eka
+869,Poli Gizi,POLI-919,Tira Hariyah,4695753044205064,waiting,2025-01-10 14:00:00,dr. Budi
+870,Poli Umum,POLI-795,"dr. Cornelia Wahyuni, S.Sos",2503029113727926,done,2025-05-22 18:00:00,dr. Citra
+871,Poli KB,POLI-269,"drg. Olivia Ardianto, S.Farm",4695813600444533,done,2025-04-20 18:00:00,dr. Andi
+872,Poli Umum,POLI-208,Yuliana Pangestu,7532269567848657,done,2025-02-05 12:00:00,dr. Citra
+873,Poli KB,POLI-585,Prasetyo Rajasa,2039065347570488,done,2025-02-12 16:00:00,dr. Andi
+874,Poli Gizi,POLI-999,Lalita Lailasari,2357462329172954,done,2025-05-21 11:00:00,dr. Dina
+875,Poli Umum,POLI-884,Gaduh Halim,4528060715846734,waiting,2025-03-11 12:00:00,dr. Eka
+876,Poli Lansia,POLI-911,Dartono Wasita,9285553760781996,done,2025-02-17 09:00:00,dr. Fajar
+877,Poli Gigi,POLI-915,Janet Sitompul,7520528130106528,done,2025-01-28 18:00:00,dr. Fajar
+878,Poli KIA,POLI-028,Zahra Rajata,2289570350881180,done,2025-02-11 13:00:00,dr. Fajar
+879,Poli Gigi,POLI-081,Mitra Sihotang,5219289315946409,done,2025-02-04 13:00:00,dr. Fajar
+880,Poli Umum,POLI-051,"Tgk. Akarsana Saputra, S.Sos",5973001059309960,waiting,2025-01-03 14:00:00,dr. Fajar
+881,Poli Gizi,POLI-951,Halim Winarno,8999306660902835,done,2025-03-01 17:00:00,dr. Budi
+882,Poli KB,POLI-715,Jail Simbolon,1704579751837214,done,2025-04-02 14:00:00,dr. Budi
+883,Poli KIA,POLI-863,Martani Suryatmi,2931038598623145,done,2025-02-09 14:00:00,dr. Fajar
+884,Poli Lansia,POLI-402,"Xanana Pertiwi, M.Farm",9216813603488104,done,2025-05-25 16:00:00,dr. Budi
+885,Poli KB,POLI-451,Gabriella Wacana,7778314917912359,waiting,2025-02-15 16:00:00,dr. Andi
+886,Poli Lansia,POLI-002,Maryanto Wulandari,1658625439784520,done,2025-01-10 14:00:00,dr. Dina
+887,Poli KB,POLI-156,Gasti Prasetyo,1265221978959452,done,2025-01-03 17:00:00,dr. Citra
+888,Poli Lansia,POLI-705,Aisyah Hastuti,9872174370434201,done,2025-05-02 09:00:00,dr. Fajar
+889,Poli KB,POLI-242,Shakila Pradipta,4600480334537215,done,2025-02-25 10:00:00,dr. Citra
+890,Poli KB,POLI-475,Hendra Riyanti,0675250784793789,done,2025-03-27 16:00:00,dr. Andi
+891,Poli Gizi,POLI-376,Oni Marpaung,7766287753969466,done,2025-01-30 16:00:00,dr. Fajar
+892,Poli Lansia,POLI-786,Zaenab Sinaga,4902406921150164,waiting,2025-02-17 14:00:00,dr. Dina
+893,Poli Lansia,POLI-405,Cakrabuana Sitompul,7832991153130088,serving,2025-03-06 17:00:00,dr. Eka
+894,Poli Gigi,POLI-239,Omar Halimah,8971615706028702,done,2025-04-22 10:00:00,dr. Andi
+895,Poli KIA,POLI-615,Farah Damanik,1329823322197747,done,2025-05-16 13:00:00,dr. Citra
+896,Poli Umum,POLI-263,Tari Lestari,1491655895015622,waiting,2025-05-25 09:00:00,dr. Citra
+897,Poli Gigi,POLI-606,T. Galuh Prasasta,4395091984556768,serving,2025-05-26 18:00:00,dr. Citra
+898,Poli Gigi,POLI-121,Caket Tampubolon,2017877701397843,waiting,2025-05-22 09:00:00,dr. Andi
+899,Poli KIA,POLI-874,Dian Damanik,8897447305737064,done,2025-02-23 09:00:00,dr. Fajar
+900,Poli KIA,POLI-663,Cut Uchita Pratama,8904980661071620,done,2025-03-02 09:00:00,dr. Eka
+901,Poli Gizi,POLI-102,Fathonah Wijayanti,4250481124714530,done,2025-01-20 13:00:00,dr. Eka
+902,Poli Umum,POLI-581,drg. Yance Ardianto,4726913294151716,waiting,2025-04-10 17:00:00,dr. Andi
+903,Poli Umum,POLI-858,"Luluh Nugroho, S.E.I",2361544591907734,done,2025-04-11 08:00:00,dr. Budi
+904,Poli KIA,POLI-884,Balijan Irawan,8278860768564097,waiting,2025-04-04 08:00:00,dr. Eka
+905,Poli Gigi,POLI-010,Ajeng Suartini,1725141792967375,done,2025-04-07 08:00:00,dr. Fajar
+906,Poli Umum,POLI-516,"H. Umaya Lazuardi, S.I.Kom",9055060549351725,done,2025-01-01 15:00:00,dr. Budi
+907,Poli Gizi,POLI-980,"Kartika Waluyo, S.Psi",7630815722562292,done,2025-01-05 15:00:00,dr. Citra
+908,Poli Lansia,POLI-962,H. Bajragin Sirait,6970345506051046,done,2025-05-25 12:00:00,dr. Dina
+909,Poli Gizi,POLI-617,"drg. Vinsen Natsir, M.Farm",9858300538412902,waiting,2025-01-05 09:00:00,dr. Andi
+910,Poli Gigi,POLI-626,dr. Ana Mandasari,5292722445320826,done,2025-04-19 18:00:00,dr. Dina
+911,Poli Gigi,POLI-271,Gading Prastuti,6595338944540131,waiting,2025-03-10 16:00:00,dr. Budi
+912,Poli Umum,POLI-909,Mursinin Megantara,7096446202908996,done,2025-03-17 16:00:00,dr. Eka
+913,Poli KIA,POLI-950,Zizi Tarihoran,8651342501525445,waiting,2025-05-23 12:00:00,dr. Andi
+914,Poli Gigi,POLI-734,T. Marsudi Purwanti,5071206305694159,done,2025-04-25 18:00:00,dr. Citra
+915,Poli Lansia,POLI-561,Sidiq Kusmawati,5088349022057241,serving,2025-03-14 14:00:00,dr. Fajar
+916,Poli Lansia,POLI-956,dr. Drajat Uyainah,0968686047820873,waiting,2025-01-04 11:00:00,dr. Andi
+917,Poli Gigi,POLI-414,"T. Lukita Pudjiastuti, S.Ked",0544720459820947,done,2025-03-22 11:00:00,dr. Citra
+918,Poli KIA,POLI-033,Puspa Rajata,4329659840593464,waiting,2025-03-17 15:00:00,dr. Citra
+919,Poli KB,POLI-990,dr. Paiman Wulandari,5218719786500007,done,2025-01-15 18:00:00,dr. Eka
+920,Poli Gizi,POLI-065,Vanesa Mardhiyah,2102349961489672,waiting,2025-02-04 13:00:00,dr. Budi
+921,Poli Umum,POLI-083,Gasti Sitorus,4322377507268358,waiting,2025-02-19 13:00:00,dr. Budi
+922,Poli Umum,POLI-389,Aisyah Hassanah,8200874290274623,waiting,2025-01-30 08:00:00,dr. Eka
+923,Poli Umum,POLI-440,Kemal Sihotang,5614765674660374,waiting,2025-05-21 14:00:00,dr. Andi
+924,Poli Umum,POLI-528,Artawan Rajasa,8195515262675021,done,2025-01-23 15:00:00,dr. Eka
+925,Poli KB,POLI-515,Erik Nasyidah,5918594815758755,waiting,2025-04-18 09:00:00,dr. Andi
+926,Poli Lansia,POLI-362,"Ir. Mujur Sinaga, S.E.I",8303659241158745,done,2025-03-11 15:00:00,dr. Citra
+927,Poli KB,POLI-204,"Pranawa Safitri, M.M.",0533981977409949,done,2025-04-10 13:00:00,dr. Eka
+928,Poli Gigi,POLI-761,"R. Praba Nasyiah, S.E.",8672384341562141,done,2025-05-26 12:00:00,dr. Andi
+929,Poli Gizi,POLI-199,Clara Pertiwi,9182409348196017,done,2025-05-17 11:00:00,dr. Citra
+930,Poli Umum,POLI-772,Puji Narpati,1656183807972250,waiting,2025-05-18 11:00:00,dr. Andi
+931,Poli KB,POLI-147,"Ir. Febi Mahendra, M.M.",3326188216077720,done,2025-03-12 17:00:00,dr. Dina
+932,Poli Gizi,POLI-115,"H. Estiono Riyanti, M.Ak",6442745587698283,done,2025-04-08 14:00:00,dr. Budi
+933,Poli KIA,POLI-504,Mala Haryanto,2467329298362483,done,2025-03-07 17:00:00,dr. Fajar
+934,Poli KB,POLI-900,"Nardi Zulkarnain, S.T.",7499258300610895,waiting,2025-03-29 11:00:00,dr. Fajar
+935,Poli Gigi,POLI-379,"Ir. Eva Adriansyah, S.Ked",4806985352903102,done,2025-03-25 17:00:00,dr. Dina
+936,Poli Umum,POLI-727,Mala Padmasari,7326124666714867,waiting,2025-05-23 11:00:00,dr. Dina
+937,Poli KB,POLI-547,Sutan Teguh Agustina,1401270197483358,serving,2025-05-15 17:00:00,dr. Fajar
+938,Poli Umum,POLI-063,dr. Rini Dabukke,0290024623985248,done,2025-05-22 12:00:00,dr. Citra
+939,Poli KIA,POLI-434,"Puput Hutagalung, M.M.",5840245674753046,waiting,2025-04-28 10:00:00,dr. Budi
+940,Poli KIA,POLI-921,dr. Cakrawangsa Marpaung,2500644573894233,done,2025-04-21 08:00:00,dr. Fajar
+941,Poli Lansia,POLI-555,dr. Maida Rajata,5588175629630408,done,2025-05-07 16:00:00,dr. Andi
+942,Poli Gigi,POLI-067,"Dr. Silvia Yolanda, S.E.",9927360628964214,waiting,2025-03-24 13:00:00,dr. Eka
+943,Poli Gizi,POLI-428,Qori Setiawan,0204345651540469,done,2025-03-15 12:00:00,dr. Fajar
+944,Poli Lansia,POLI-340,Margana Waluyo,8088535951644897,waiting,2025-04-22 11:00:00,dr. Citra
+945,Poli KIA,POLI-679,Elma Winarno,8213654883083178,serving,2025-02-01 09:00:00,dr. Andi
+946,Poli KIA,POLI-480,"R.M. Limar Palastri, S.Ked",7840073834257867,waiting,2025-02-23 09:00:00,dr. Budi
+947,Poli KB,POLI-578,Bancar Natsir,2168925493918695,serving,2025-01-23 09:00:00,dr. Budi
+948,Poli KB,POLI-269,"Lurhur Mandala, S.Pd",2805008040563934,done,2025-03-04 10:00:00,dr. Dina
+949,Poli Umum,POLI-431,"Ir. Natalia Hidayanto, M.Farm",3022130487712520,done,2025-05-21 13:00:00,dr. Dina
+950,Poli Gizi,POLI-290,Icha Wibowo,0486635465012119,done,2025-01-25 18:00:00,dr. Fajar
+951,Poli Umum,POLI-586,"Drs. Tiara Sudiati, M.Kom.",2866829457411359,done,2025-05-27 14:00:00,dr. Fajar
+952,Poli Umum,POLI-107,"Dr. Clara Maryadi, M.Kom.",9382141080155424,done,2025-01-15 10:00:00,dr. Andi
+953,Poli Lansia,POLI-750,Warji Palastri,1597446316646749,waiting,2025-04-10 17:00:00,dr. Fajar
+954,Poli KIA,POLI-029,Slamet Purwanti,9377572102595309,done,2025-04-08 09:00:00,dr. Fajar
+955,Poli Gizi,POLI-119,Sarah Hassanah,4177516372863211,done,2025-05-02 11:00:00,dr. Citra
+956,Poli KB,POLI-434,Citra Marbun,9943075699000203,done,2025-04-11 15:00:00,dr. Dina
+957,Poli KIA,POLI-468,Jane Pratiwi,7306119866863021,done,2025-01-13 11:00:00,dr. Dina
+958,Poli Gigi,POLI-754,Emil Gunarto,4177885494406259,done,2025-05-14 13:00:00,dr. Budi
+959,Poli Umum,POLI-048,"Hj. Salimah Prakasa, S.Pt",0344996553153098,done,2025-01-06 13:00:00,dr. Eka
+960,Poli Gizi,POLI-448,Cawisadi Wulandari,4807272097765547,done,2025-04-24 08:00:00,dr. Budi
+961,Poli KB,POLI-522,Anom Halimah,3223996693570331,serving,2025-05-07 10:00:00,dr. Dina
+962,Poli Lansia,POLI-872,"Yunita Mayasari, S.H.",4053841239821298,done,2025-05-26 12:00:00,dr. Budi
+963,Poli Gigi,POLI-712,"Drs. Salimah Andriani, S.Pd",3302968485230845,serving,2025-02-01 10:00:00,dr. Citra
+964,Poli KIA,POLI-445,Kamal Maryati,6768569724450301,serving,2025-05-16 16:00:00,dr. Dina
+965,Poli Gigi,POLI-619,"dr. Melinda Irawan, S.Sos",4796152994133140,done,2025-04-21 14:00:00,dr. Eka
+966,Poli KB,POLI-972,"Lasmono Suryono, S.Ked",8343155640378875,waiting,2025-05-06 14:00:00,dr. Fajar
+967,Poli Gizi,POLI-901,"Ilsa Saptono, M.Ak",8032654358046686,serving,2025-03-13 14:00:00,dr. Eka
+968,Poli KIA,POLI-161,dr. Darmanto Saptono,7548574504009549,done,2025-05-15 09:00:00,dr. Eka
+969,Poli KB,POLI-332,Parman Mandasari,9536200718907847,done,2025-05-26 18:00:00,dr. Eka
+970,Poli KIA,POLI-394,Violet Prakasa,4301113579591358,waiting,2025-01-03 13:00:00,dr. Eka
+971,Poli KB,POLI-123,Yuni Mayasari,8693021584177434,done,2025-04-10 08:00:00,dr. Budi
+972,Poli KIA,POLI-701,R. Ani Wastuti,2694728739270707,done,2025-02-20 16:00:00,dr. Budi
+973,Poli Umum,POLI-400,Endah Mulyani,5587917632771938,waiting,2025-03-25 09:00:00,dr. Fajar
+974,Poli Gigi,POLI-309,"Puti Nurdiyanti, S.H.",6500457400970841,done,2025-05-18 09:00:00,dr. Eka
+975,Poli Gizi,POLI-457,Cinthia Rahayu,6696643109056792,done,2025-01-26 16:00:00,dr. Andi
+976,Poli KB,POLI-812,Carla Usada,5464284417366842,serving,2025-04-29 16:00:00,dr. Citra
+977,Poli KB,POLI-587,Clara Rahimah,8113699917872684,done,2025-04-05 12:00:00,dr. Budi
+978,Poli Lansia,POLI-581,Umar Melani,4415900917258420,waiting,2025-02-20 15:00:00,dr. Fajar
+979,Poli KIA,POLI-866,"R. Lidya Nababan, M.M.",6931846692059217,done,2025-04-11 12:00:00,dr. Eka
+980,Poli KIA,POLI-389,Dr. Rahmi Wijayanti,0968022793734857,done,2025-03-06 15:00:00,dr. Budi
+981,Poli KIA,POLI-213,Bagas Wijayanti,9830283097753763,done,2025-03-21 18:00:00,dr. Andi
+982,Poli Gizi,POLI-450,"KH. Kala Adriansyah, M.Kom.",6354823783541338,done,2025-01-08 10:00:00,dr. Fajar
+983,Poli KB,POLI-703,Zulfa Winarsih,1633363180458502,done,2025-05-02 16:00:00,dr. Eka
+984,Poli Umum,POLI-607,Drs. Kawaca Hutapea,8143558053262729,done,2025-03-13 18:00:00,dr. Citra
+985,Poli KIA,POLI-811,"Tgk. Aurora Permadi, S.Pd",6944994454596673,waiting,2025-04-23 12:00:00,dr. Citra
+986,Poli Gizi,POLI-710,Adikara Prasetya,1236347446163819,waiting,2025-03-03 09:00:00,dr. Andi
+987,Poli Umum,POLI-613,Zelaya Sirait,0457493171557477,done,2025-03-07 18:00:00,dr. Andi
+988,Poli KIA,POLI-093,Jarwi Utami,1393624032651893,serving,2025-04-02 14:00:00,dr. Eka
+989,Poli KB,POLI-029,Zelda Hassanah,0738751861094592,serving,2025-01-29 13:00:00,dr. Andi
+990,Poli KB,POLI-963,Asmadi Sihombing,7566839812550200,done,2025-03-21 08:00:00,dr. Andi
+991,Poli KIA,POLI-754,Viman Suartini,4982208447780477,done,2025-03-10 16:00:00,dr. Citra
+992,Poli Gizi,POLI-516,"Warta Suwarno, S.Pd",3817978852137761,done,2025-03-05 18:00:00,dr. Eka
+993,Poli Gigi,POLI-455,"Tgk. Wira Mangunsong, M.Kom.",3197905849611474,serving,2025-01-16 17:00:00,dr. Citra
+994,Poli Lansia,POLI-009,Muhammad Rajasa,5316591804127016,waiting,2025-04-26 14:00:00,dr. Eka
+995,Poli Gizi,POLI-561,"Dt. Saadat Prayoga, S.Gz",3273317179325608,serving,2025-01-03 09:00:00,dr. Citra
+996,Poli KB,POLI-575,"Zizi Hutagalung, M.Ak",4436691054581764,waiting,2025-03-30 18:00:00,dr. Andi
+997,Poli Gizi,POLI-062,"Calista Saragih, S.Pt",1411839294379814,done,2025-04-05 10:00:00,dr. Dina
+998,Poli Gigi,POLI-335,Kenzie Setiawan,7414628384718102,done,2025-02-11 12:00:00,dr. Fajar
+999,Poli KIA,POLI-061,Tira Pudjiastuti,8195804698196219,done,2025-02-26 13:00:00,dr. Fajar
+1000,Poli KIA,POLI-483,Tedi Siregar,3619787370700482,done,2025-03-21 17:00:00,dr. Eka
+1001,Poli KB,POLI-592,Cut Vanesa Wastuti,8330089515886347,done,2025-03-10 11:00:00,dr. Fajar
+1002,Poli Umum,POLI-820,Empluk Winarno,9259273290164999,serving,2025-02-02 10:00:00,dr. Dina
+1003,Poli KIA,POLI-752,Septi Hariyah,4426392135085216,waiting,2025-02-26 13:00:00,dr. Eka
+1004,Poli Lansia,POLI-138,"Puti Hana Suartini, S.Kom",5256383528774012,done,2025-03-04 13:00:00,dr. Eka
+1005,Poli Gizi,POLI-226,"Drs. Harjasa Uwais, S.E.",6262924836165117,serving,2025-04-24 16:00:00,dr. Budi
+1006,Poli KB,POLI-906,Drs. Sidiq Hidayanto,9334788999225318,serving,2025-03-13 11:00:00,dr. Eka
+1007,Poli KIA,POLI-126,Rini Pradipta,8985010534937140,done,2025-02-23 08:00:00,dr. Andi
+1008,Poli Gizi,POLI-961,Sutan Drajat Adriansyah,8361176048011009,done,2025-01-04 18:00:00,dr. Budi
+1009,Poli KB,POLI-179,Drs. Caket Purwanti,0681607581189272,waiting,2025-03-14 10:00:00,dr. Budi
+1010,Poli Gizi,POLI-015,Dalima Prasasta,8347919733821849,done,2025-02-09 08:00:00,dr. Fajar
+1011,Poli KB,POLI-334,Eluh Hutasoit,1958332801632753,done,2025-01-12 18:00:00,dr. Budi
+1012,Poli Umum,POLI-953,Ir. Mutia Wasita,3049759709992235,done,2025-04-19 15:00:00,dr. Andi
+1013,Poli Gigi,POLI-984,Prayoga Wijayanti,0350286324044156,done,2025-05-22 13:00:00,dr. Andi
+1014,Poli Gizi,POLI-837,Bambang Utama,7724225019647853,done,2025-05-07 08:00:00,dr. Eka
+1015,Poli Gizi,POLI-285,Ganda Tamba,6543132058281042,waiting,2025-01-01 17:00:00,dr. Citra
+1016,Poli Lansia,POLI-184,Waluyo Pradana,0840555001408321,done,2025-04-04 16:00:00,dr. Budi
+1017,Poli Gizi,POLI-317,Ida Tampubolon,1247705314140261,serving,2025-05-18 13:00:00,dr. Dina
+1018,Poli Umum,POLI-547,Jindra Hutagalung,9143778156542706,waiting,2025-01-30 08:00:00,dr. Fajar
+1019,Poli KB,POLI-331,Natalia Halimah,3670713964241481,done,2025-04-05 11:00:00,dr. Eka
+1020,Poli KB,POLI-658,Asmianto Ardianto,1134158061104770,done,2025-02-28 09:00:00,dr. Budi
+1021,Poli KB,POLI-032,Queen Suryono,4487872742651454,done,2025-03-12 12:00:00,dr. Fajar
+1022,Poli KB,POLI-910,Drs. Mahmud Nababan,4125169465576496,done,2025-03-05 16:00:00,dr. Eka
+1023,Poli Gigi,POLI-100,Cemeti Susanti,3823770210197713,done,2025-01-18 14:00:00,dr. Fajar
+1024,Poli Gizi,POLI-392,"Narji Najmudin, S.IP",3621153860364589,serving,2025-05-17 15:00:00,dr. Fajar
+1025,Poli KB,POLI-634,Puspa Ramadan,0509006808787901,done,2025-05-10 10:00:00,dr. Dina
+1026,Poli Umum,POLI-423,Hilda Tampubolon,9295002874375453,done,2025-01-19 08:00:00,dr. Dina
+1027,Poli Gigi,POLI-607,"Anastasia Yuliarti, S.H.",5254938940972677,waiting,2025-02-05 16:00:00,dr. Citra
+1028,Poli KIA,POLI-953,Ir. Lega Utami,0621524062082693,waiting,2025-05-14 09:00:00,dr. Citra
+1029,Poli Gizi,POLI-892,dr. Oliva Hasanah,6029424178626479,waiting,2025-01-17 16:00:00,dr. Citra
+1030,Poli Gizi,POLI-314,Jamalia Sihotang,6493057455334292,done,2025-04-01 10:00:00,dr. Andi
+1031,Poli KIA,POLI-782,Michelle Habibi,1920405628190100,done,2025-01-20 18:00:00,dr. Andi
+1032,Poli Gizi,POLI-705,Karen Wastuti,9945725219916355,done,2025-02-15 15:00:00,dr. Dina
+1033,Poli Umum,POLI-230,Hadi Mandala,4579367100901280,done,2025-03-22 17:00:00,dr. Eka
+1034,Poli Umum,POLI-726,Yono Puspita,8607877131740777,serving,2025-02-27 10:00:00,dr. Budi
+1035,Poli Gizi,POLI-606,Nasab Hasanah,0302743791029502,done,2025-04-06 15:00:00,dr. Budi
+1036,Poli Gizi,POLI-285,Drs. Natalia Manullang,1056510968038795,waiting,2025-03-09 13:00:00,dr. Eka
+1037,Poli KIA,POLI-197,"H. Irnanto Tampubolon, M.TI.",0408338807672102,done,2025-01-08 17:00:00,dr. Fajar
+1038,Poli KIA,POLI-657,"Eka Suartini, S.E.",9142361504557554,done,2025-03-30 17:00:00,dr. Andi
+1039,Poli Gigi,POLI-787,Ella Narpati,0230023218153298,done,2025-04-08 09:00:00,dr. Andi
+1040,Poli KB,POLI-114,Zelaya Maryati,3962058390476115,serving,2025-04-09 17:00:00,dr. Andi
+1041,Poli Umum,POLI-329,drg. Hasna Prasasta,5924005764902131,done,2025-02-21 14:00:00,dr. Dina
+1042,Poli Gizi,POLI-663,"Sutan Aslijan Dongoran, S.Pd",7154169299150566,waiting,2025-05-05 09:00:00,dr. Citra
+1043,Poli KIA,POLI-344,"Ir. Nadia Hasanah, S.T.",7749232286754341,waiting,2025-05-19 11:00:00,dr. Eka
+1044,Poli KIA,POLI-657,Dr. Alika Nababan,3922631147620677,waiting,2025-04-13 13:00:00,dr. Budi
+1045,Poli KB,POLI-918,"Lintang Suryono, S.E.I",4867114199252205,waiting,2025-01-11 12:00:00,dr. Eka
+1046,Poli KIA,POLI-182,Harto Mangunsong,3332811746632552,done,2025-03-05 09:00:00,dr. Eka
+1047,Poli KIA,POLI-744,Paulin Mayasari,0385350432957458,done,2025-03-13 14:00:00,dr. Fajar
+1048,Poli KB,POLI-293,Endra Thamrin,0024780728720480,done,2025-02-06 18:00:00,dr. Budi
+1049,Poli KB,POLI-076,Lidya Sihotang,0962415267889693,waiting,2025-02-01 12:00:00,dr. Eka
+1050,Poli Gigi,POLI-354,"Humaira Hutagalung, M.Pd",0837391826808705,waiting,2025-01-28 14:00:00,dr. Eka
+1051,Poli Lansia,POLI-232,Banara Waskita,5256036128914734,done,2025-01-08 09:00:00,dr. Budi
+1052,Poli Gizi,POLI-761,Ian Widodo,1327223793203077,done,2025-03-25 18:00:00,dr. Andi
+1053,Poli Gigi,POLI-280,Cici Sitorus,9507765772031564,waiting,2025-01-02 18:00:00,dr. Dina
+1054,Poli Umum,POLI-156,drg. Gara Palastri,3543487482422726,waiting,2025-03-08 09:00:00,dr. Eka
+1055,Poli Gigi,POLI-858,"Cut Violet Lestari, S.Sos",6746009549398889,waiting,2025-04-04 09:00:00,dr. Citra
+1056,Poli KIA,POLI-773,Halima Prakasa,5960837955146008,done,2025-02-09 09:00:00,dr. Fajar
+1057,Poli Gigi,POLI-488,"Jumari Januar, M.Farm",9701088904490730,done,2025-02-08 09:00:00,dr. Andi
+1058,Poli Gigi,POLI-795,"Endah Maheswara, M.Kom.",7150117724922076,done,2025-02-21 09:00:00,dr. Fajar
+1059,Poli Gizi,POLI-505,"T. Pranawa Setiawan, M.TI.",4002799834210900,done,2025-01-14 13:00:00,dr. Dina
+1060,Poli KIA,POLI-463,dr. Kania Puspita,8286129949366888,done,2025-03-28 12:00:00,dr. Fajar
+1061,Poli Umum,POLI-305,"Janet Mardhiyah, S.E.I",8680132614857796,waiting,2025-04-25 12:00:00,dr. Andi
+1062,Poli Umum,POLI-844,"Jasmani Yuliarti, S.Gz",4765372203443152,waiting,2025-02-06 15:00:00,dr. Citra
+1063,Poli KIA,POLI-211,Zelaya Anggraini,0135410302370674,done,2025-01-24 09:00:00,dr. Eka
+1064,Poli Umum,POLI-991,Hj. Mutia Pangestu,9395556173174712,waiting,2025-04-19 10:00:00,dr. Andi
+1065,Poli KB,POLI-611,Dalimin Putra,0045352440003267,done,2025-05-15 17:00:00,dr. Andi
+1066,Poli KB,POLI-878,Zalindra Habibi,1802413363487450,done,2025-01-01 14:00:00,dr. Eka
+1067,Poli Lansia,POLI-074,Jessica Dabukke,5332607419376389,waiting,2025-02-27 15:00:00,dr. Andi
+1068,Poli Gizi,POLI-136,Ami Rahmawati,4930389558037323,done,2025-04-12 12:00:00,dr. Dina
+1069,Poli KB,POLI-164,"T. Kayun Hastuti, M.Farm",0511600569488865,done,2025-05-13 13:00:00,dr. Dina
+1070,Poli Gizi,POLI-747,Tari Hutapea,7942590730574566,done,2025-01-06 09:00:00,dr. Fajar
+1071,Poli KIA,POLI-387,Bakianto Budiyanto,4985526597987296,waiting,2025-05-13 10:00:00,dr. Dina
+1072,Poli Lansia,POLI-899,"Banara Anggraini, M.TI.",2279405200949810,serving,2025-01-13 09:00:00,dr. Citra
+1073,Poli Gigi,POLI-981,Sutan Wisnu Haryanto,7303347587110272,done,2025-02-21 08:00:00,dr. Dina
+1074,Poli Lansia,POLI-308,Yance Wahyudin,3025699691932182,done,2025-01-07 13:00:00,dr. Eka
+1075,Poli Lansia,POLI-473,Ika Wijaya,6747711285726479,done,2025-04-30 12:00:00,dr. Andi
+1076,Poli Lansia,POLI-932,Raisa Dongoran,3240558104035666,waiting,2025-02-09 15:00:00,dr. Andi
+1077,Poli Gigi,POLI-637,"Jelita Pertiwi, M.Farm",8021546002800921,done,2025-05-27 17:00:00,dr. Dina
+1078,Poli KIA,POLI-258,Wirda Namaga,4132093026914884,done,2025-02-22 14:00:00,dr. Fajar
+1079,Poli Gigi,POLI-736,"Limar Prasasta, M.Farm",6083157975348586,waiting,2025-01-11 11:00:00,dr. Fajar
+1080,Poli KB,POLI-294,R. Mila Putra,3734386801278770,serving,2025-02-25 17:00:00,dr. Budi
+1081,Poli Umum,POLI-754,Hj. Ika Latupono,1524493407706679,waiting,2025-01-14 09:00:00,dr. Fajar
+1082,Poli KB,POLI-335,Edison Lailasari,5019814817988439,done,2025-01-06 10:00:00,dr. Budi
+1083,Poli Gigi,POLI-556,"dr. Genta Agustina, S.Gz",9229189591031508,waiting,2025-03-28 09:00:00,dr. Dina
+1084,Poli Lansia,POLI-341,Balijan Saputra,1730642034231697,done,2025-05-10 15:00:00,dr. Dina
+1085,Poli Umum,POLI-018,Tgk. Ozy Siregar,5658535447444478,done,2025-04-30 12:00:00,dr. Eka
+1086,Poli Umum,POLI-307,Mahdi Novitasari,2162413531915049,serving,2025-05-14 18:00:00,dr. Citra
+1087,Poli Lansia,POLI-568,Kunthara Waskita,8413735400547990,done,2025-01-06 17:00:00,dr. Eka
+1088,Poli Gigi,POLI-840,drg. Ismail Rajata,1858838211809930,done,2025-04-22 16:00:00,dr. Dina
+1089,Poli KIA,POLI-180,Cawisono Padmasari,6287890586889625,done,2025-05-07 11:00:00,dr. Dina
+1090,Poli Gizi,POLI-171,Kusuma Anggraini,2490933544535736,done,2025-02-11 17:00:00,dr. Eka
+1091,Poli Lansia,POLI-179,Febi Hassanah,2330849598332218,done,2025-02-13 16:00:00,dr. Citra
+1092,Poli KIA,POLI-567,Keisha Saptono,1379697029295377,done,2025-02-04 17:00:00,dr. Budi
+1093,Poli Lansia,POLI-701,Lasmono Lailasari,6882363183704461,done,2025-02-10 10:00:00,dr. Andi
+1094,Poli Lansia,POLI-394,"Surya Aryani, S.IP",7887169231580711,waiting,2025-04-14 15:00:00,dr. Budi
+1095,Poli Gizi,POLI-382,"Mitra Adriansyah, S.Gz",5559383284336380,serving,2025-04-02 10:00:00,dr. Eka
+1096,Poli Umum,POLI-948,Dadi Rajasa,6150296962605424,done,2025-04-24 11:00:00,dr. Budi
+1097,Poli Lansia,POLI-466,Kasiyah Maulana,1131798866593639,done,2025-01-02 18:00:00,dr. Fajar
+1098,Poli Gigi,POLI-766,"Dr. Ana Najmudin, S.Psi",2470839361251100,waiting,2025-03-16 09:00:00,dr. Dina
+1099,Poli KIA,POLI-581,Cindy Wasita,5026758288874568,done,2025-04-11 18:00:00,dr. Dina
+1100,Poli KB,POLI-134,"R.M. Naradi Sitompul, S.Ked",1600626676703522,done,2025-03-26 13:00:00,dr. Eka
+1101,Poli KIA,POLI-905,Padma Wijaya,1245194471241539,waiting,2025-04-16 15:00:00,dr. Budi
+1102,Poli Lansia,POLI-372,"R.A. Yuni Gunarto, S.Farm",4223783077939088,waiting,2025-01-03 10:00:00,dr. Fajar
+1103,Poli KIA,POLI-407,Tgk. Carub Prabowo,9329389918911181,done,2025-01-14 15:00:00,dr. Dina
+1104,Poli Lansia,POLI-190,Rachel Nugroho,4956087227688477,serving,2025-04-23 08:00:00,dr. Dina
+1105,Poli KB,POLI-868,Sarah Rajasa,6099694617854531,done,2025-02-11 17:00:00,dr. Dina
+1106,Poli Umum,POLI-447,Tgk. Silvia Pangestu,4900218258474435,done,2025-01-10 08:00:00,dr. Budi
+1107,Poli KB,POLI-390,"Paris Hutagalung, S.Sos",0066445449793199,done,2025-03-25 14:00:00,dr. Dina
+1108,Poli Lansia,POLI-462,"Tgk. Labuh Mangunsong, S.IP",9289998863496741,waiting,2025-03-16 12:00:00,dr. Andi
+1109,Poli Gizi,POLI-119,Adhiarja Farida,4657791479672213,done,2025-03-11 15:00:00,dr. Citra
+1110,Poli Gizi,POLI-963,"Jessica Samosir, S.Pt",7037625780120331,done,2025-01-05 16:00:00,dr. Eka
+1111,Poli Gizi,POLI-659,Lalita Waluyo,6042380733429460,done,2025-05-15 11:00:00,dr. Eka
+1112,Poli Gigi,POLI-424,"Yono Wijayanti, M.Pd",4539196623380436,done,2025-02-10 08:00:00,dr. Eka
+1113,Poli KIA,POLI-049,"Zulfa Simanjuntak, M.Kom.",2059917328200210,done,2025-02-05 08:00:00,dr. Budi
+1114,Poli KB,POLI-864,Mila Wastuti,4048004416526549,serving,2025-03-08 13:00:00,dr. Dina
+1115,Poli Lansia,POLI-598,"Kania Hakim, S.Sos",7157816713162756,waiting,2025-02-12 12:00:00,dr. Budi
+1116,Poli Lansia,POLI-942,Chelsea Nababan,7981934548222742,waiting,2025-04-18 13:00:00,dr. Fajar
+1117,Poli Gigi,POLI-751,Carla Firgantoro,4689773643087870,waiting,2025-03-16 18:00:00,dr. Budi
+1118,Poli KIA,POLI-591,"drg. Zahra Mansur, M.Pd",1253645812125943,done,2025-04-21 10:00:00,dr. Citra
+1119,Poli Gizi,POLI-076,"Dr. Septi Natsir, S.T.",5939916073120002,done,2025-03-01 16:00:00,dr. Budi
+1120,Poli Gigi,POLI-323,Hasna Widiastuti,7714196578985506,done,2025-03-11 14:00:00,dr. Dina
+1121,Poli KB,POLI-702,"Dr. Ellis Purwanti, S.Farm",5488466318015473,done,2025-03-29 18:00:00,dr. Citra
+1122,Poli Gizi,POLI-357,Restu Laksita,0543891241414469,serving,2025-02-20 09:00:00,dr. Eka
+1123,Poli Umum,POLI-474,"Zizi Latupono, M.TI.",9157714265801422,serving,2025-01-16 08:00:00,dr. Budi
+1124,Poli KB,POLI-453,Nugraha Saputra,5339331339024752,done,2025-02-18 11:00:00,dr. Eka
+1125,Poli Lansia,POLI-547,Puti Siregar,1752776468540111,done,2025-05-23 11:00:00,dr. Budi
+1126,Poli Lansia,POLI-567,Wardi Astuti,7759188775319355,done,2025-01-16 13:00:00,dr. Budi
+1127,Poli Gizi,POLI-569,Bambang Kuswandari,4303043905180958,done,2025-03-11 13:00:00,dr. Eka
+1128,Poli Gizi,POLI-640,Ibrani Iswahyudi,3291939675729517,done,2025-03-14 13:00:00,dr. Andi
+1129,Poli Umum,POLI-859,"Yuni Lailasari, M.Ak",0521144792653689,done,2025-03-02 13:00:00,dr. Dina
+1130,Poli Lansia,POLI-047,Pangeran Safitri,4726763066322978,done,2025-03-22 18:00:00,dr. Dina
+1131,Poli Lansia,POLI-136,dr. Warji Pudjiastuti,7189956298930741,serving,2025-01-31 14:00:00,dr. Eka
+1132,Poli Lansia,POLI-812,"Jasmin Palastri, S.Pt",8866969890957676,done,2025-03-22 08:00:00,dr. Eka
+1133,Poli Lansia,POLI-232,Taufan Damanik,0916645954855595,waiting,2025-01-28 17:00:00,dr. Eka
+1134,Poli KIA,POLI-627,R.A. Salwa Suryono,9961926147144767,done,2025-01-23 17:00:00,dr. Citra
+1135,Poli Umum,POLI-014,"Padmi Astuti, S.E.I",1364098088364906,done,2025-02-04 13:00:00,dr. Budi
+1136,Poli KIA,POLI-667,Gading Yuniar,0410010262981512,done,2025-02-23 14:00:00,dr. Eka
+1137,Poli KB,POLI-772,"Panji Mansur, M.Ak",9815098726241439,done,2025-01-10 16:00:00,dr. Budi
+1138,Poli KIA,POLI-073,"Galih Nuraini, M.TI.",7957843283118596,done,2025-04-04 17:00:00,dr. Dina
+1139,Poli Gigi,POLI-996,Bakijan Winarno,0346095492072165,serving,2025-01-03 10:00:00,dr. Eka
+1140,Poli Lansia,POLI-661,Anita Wijayanti,1042987327220384,done,2025-02-02 14:00:00,dr. Budi
+1141,Poli Gigi,POLI-655,Taufan Winarno,0657236176435597,done,2025-04-13 16:00:00,dr. Budi
+1142,Poli Lansia,POLI-562,Argono Pudjiastuti,3994198528810805,waiting,2025-01-29 09:00:00,dr. Fajar
+1143,Poli Lansia,POLI-180,Atmaja Damanik,5018659245601031,done,2025-02-27 18:00:00,dr. Dina
+1144,Poli KB,POLI-152,Betania Prasetya,3365232240818262,done,2025-04-09 16:00:00,dr. Andi
+1145,Poli Gigi,POLI-481,"Estiono Mardhiyah, M.Kom.",0764621566832428,done,2025-01-03 18:00:00,dr. Budi
+1146,Poli Lansia,POLI-652,"Limar Laksmiwati, M.TI.",9259412183157937,done,2025-04-12 17:00:00,dr. Eka
+1147,Poli Gigi,POLI-570,Dt. Arsipatra Wulandari,0266959720048288,waiting,2025-04-10 14:00:00,dr. Budi
+1148,Poli KB,POLI-894,dr. Ika Sirait,7353000677680780,done,2025-01-23 16:00:00,dr. Eka
+1149,Poli Gizi,POLI-404,"Tari Simbolon, S.Pt",0868970715475567,done,2025-04-02 17:00:00,dr. Fajar
+1150,Poli Umum,POLI-324,Uli Melani,5616343714567521,done,2025-03-09 16:00:00,dr. Budi
+1151,Poli Umum,POLI-097,"R.M. Purwanto Susanti, S.Pd",9939202713431640,waiting,2025-01-28 17:00:00,dr. Fajar
+1152,Poli Gigi,POLI-458,Hj. Fitriani Zulaika,0609046901193377,waiting,2025-04-06 08:00:00,dr. Andi
+1153,Poli Lansia,POLI-531,"Dr. Bagiya Purwanti, M.Farm",0476176627072930,serving,2025-03-12 11:00:00,dr. Andi
+1154,Poli Lansia,POLI-634,"Drs. Yani Rahimah, S.T.",2858332476325524,done,2025-05-24 16:00:00,dr. Eka
+1155,Poli Umum,POLI-680,Simon Natsir,1005822793062075,waiting,2025-03-03 10:00:00,dr. Dina
+1156,Poli Gizi,POLI-469,"Genta Namaga, S.Gz",1804206880963813,done,2025-04-08 11:00:00,dr. Citra
+1157,Poli KIA,POLI-696,"T. Mitra Usamah, S.Gz",2984770505445434,done,2025-02-26 10:00:00,dr. Dina
+1158,Poli Umum,POLI-961,Zamira Sirait,3183142937140142,done,2025-01-24 10:00:00,dr. Fajar
+1159,Poli Gigi,POLI-542,Vanesa Uyainah,1046636103504168,waiting,2025-05-21 14:00:00,dr. Fajar
+1160,Poli Gigi,POLI-627,"Sadina Haryanto, M.Farm",2885463593418572,done,2025-01-30 15:00:00,dr. Eka
+1161,Poli Umum,POLI-990,"Agnes Marpaung, M.Kom.",2585992809236849,waiting,2025-01-06 15:00:00,dr. Dina
+1162,Poli Gigi,POLI-873,Reza Rajasa,1723190208362446,done,2025-04-30 08:00:00,dr. Budi
+1163,Poli KB,POLI-682,"Ir. Melinda Utami, S.Farm",3853261643769560,done,2025-02-16 10:00:00,dr. Eka
+1164,Poli Gigi,POLI-341,Saiful Aryani,3356802883718478,serving,2025-02-11 10:00:00,dr. Dina
+1165,Poli KB,POLI-684,"Ir. Wisnu Waskita, M.Farm",9928649048345012,waiting,2025-05-31 14:00:00,dr. Eka
+1166,Poli Gigi,POLI-411,Paramita Permadi,6626024019440942,done,2025-01-03 11:00:00,dr. Citra
+1167,Poli KIA,POLI-131,Eja Tarihoran,4130618695963133,done,2025-05-20 12:00:00,dr. Budi
+1168,Poli Umum,POLI-378,Usyi Prasetya,5055701574025831,waiting,2025-02-08 10:00:00,dr. Dina
+1169,Poli Umum,POLI-876,Nova Laksita,1539637106005671,done,2025-05-18 08:00:00,dr. Dina
+1170,Poli KIA,POLI-648,"Nasab Prasetyo, M.M.",9709555845398570,done,2025-05-22 10:00:00,dr. Citra
+1171,Poli Umum,POLI-310,Septi Haryanti,2618074966954040,waiting,2025-04-27 18:00:00,dr. Budi
+1172,Poli Gigi,POLI-035,Puti Siti Novitasari,5918453061512676,waiting,2025-02-19 11:00:00,dr. Eka
+1173,Poli Gigi,POLI-348,"Manah Sihombing, M.TI.",7693621053465152,done,2025-03-30 10:00:00,dr. Budi
+1174,Poli KIA,POLI-876,R. Genta Prakasa,6710689178309469,done,2025-02-08 14:00:00,dr. Budi
+1175,Poli KIA,POLI-322,Garan Aryani,3086779098663715,serving,2025-05-30 16:00:00,dr. Fajar
+1176,Poli Gigi,POLI-826,Puti Putri Sitompul,0713146828660604,done,2025-03-11 13:00:00,dr. Budi
+1177,Poli Gigi,POLI-798,Wani Suartini,5430434198413728,done,2025-05-02 09:00:00,dr. Andi
+1178,Poli Gigi,POLI-286,"Dono Usamah, S.I.Kom",4525666785592936,done,2025-04-18 11:00:00,dr. Budi
+1179,Poli Gizi,POLI-348,"Puti Wani Januar, M.Pd",7110753706537152,done,2025-02-23 08:00:00,dr. Budi
+1180,Poli Umum,POLI-417,Ir. Intan Hakim,3855944590570425,serving,2025-04-21 18:00:00,dr. Eka
+1181,Poli KB,POLI-773,Kania Gunawan,6981683244261259,done,2025-04-10 14:00:00,dr. Citra
+1182,Poli Gigi,POLI-892,"Candrakanta Mahendra, M.Pd",5713522028370900,waiting,2025-03-19 15:00:00,dr. Fajar
+1183,Poli KB,POLI-234,drg. Humaira Firmansyah,6023331036337706,done,2025-04-03 12:00:00,dr. Dina
+1184,Poli KB,POLI-186,Dian Putra,2900327225350078,done,2025-04-02 08:00:00,dr. Fajar
+1185,Poli KIA,POLI-843,Wulan Megantara,2391060654196837,done,2025-03-04 16:00:00,dr. Andi
+1186,Poli Umum,POLI-793,"Sutan Cecep Mangunsong, S.Psi",5097273584016293,done,2025-02-27 15:00:00,dr. Fajar
+1187,Poli KIA,POLI-608,"Dr. Karsana Permadi, S.E.I",3973540712881751,waiting,2025-02-09 12:00:00,dr. Fajar
+1188,Poli Umum,POLI-256,"drg. Jessica Puspasari, S.Ked",3019961938170424,done,2025-04-12 11:00:00,dr. Eka
+1189,Poli KIA,POLI-627,Edi Winarsih,9047353858051892,done,2025-04-05 09:00:00,dr. Eka
+1190,Poli Gizi,POLI-905,Gawati Oktaviani,6534977758921244,waiting,2025-05-29 14:00:00,dr. Budi
+1191,Poli KB,POLI-799,"Gada Halim, S.Gz",7440254441572576,waiting,2025-02-08 14:00:00,dr. Fajar
+1192,Poli KB,POLI-570,Hesti Kuswoyo,3619978419004533,waiting,2025-01-09 15:00:00,dr. Andi
+1193,Poli Gizi,POLI-548,Uda Nasyidah,2341336037928003,done,2025-03-13 18:00:00,dr. Dina
+1194,Poli Gigi,POLI-001,Pangestu Firmansyah,0248588360796335,done,2025-01-22 18:00:00,dr. Citra
+1195,Poli Lansia,POLI-296,Vanesa Irawan,1778113258739137,serving,2025-03-24 10:00:00,dr. Citra
+1196,Poli Gizi,POLI-743,Endra Dongoran,5065982979597196,done,2025-04-11 12:00:00,dr. Dina
+1197,Poli KIA,POLI-282,Ida Pangestu,1050900290018958,done,2025-01-08 14:00:00,dr. Andi
+1198,Poli KIA,POLI-820,"Margana Purnawati, S.Sos",9455376327508965,done,2025-02-11 09:00:00,dr. Fajar
+1199,Poli Lansia,POLI-767,Dr. Kalim Budiman,8487513900064692,done,2025-04-19 12:00:00,dr. Andi
+1200,Poli KIA,POLI-979,"Drs. Gaduh Pangestu, M.Ak",4613769474552188,done,2025-04-02 11:00:00,dr. Fajar
+1201,Poli KIA,POLI-496,Usyi Uwais,8805760420174404,done,2025-05-07 08:00:00,dr. Citra
+1202,Poli KIA,POLI-923,Gandi Winarsih,5538539490904959,done,2025-04-27 17:00:00,dr. Eka
+1203,Poli Lansia,POLI-968,R. Hardana Usamah,5756373917848305,done,2025-05-04 12:00:00,dr. Budi
+1204,Poli KIA,POLI-004,"Sutan Caraka Namaga, S.Psi",0990886241557637,done,2025-05-26 08:00:00,dr. Budi
+1205,Poli Lansia,POLI-096,Karja Maryadi,1218526385812605,done,2025-02-25 13:00:00,dr. Eka
+1206,Poli KIA,POLI-270,"Citra Haryanto, S.I.Kom",1826665177711084,done,2025-05-04 15:00:00,dr. Eka
+1207,Poli Lansia,POLI-422,Banawa Yuliarti,2059352982551287,done,2025-04-27 12:00:00,dr. Dina
+1208,Poli Umum,POLI-181,Kamal Hariyah,5244800378156359,serving,2025-01-12 16:00:00,dr. Budi
+1209,Poli Lansia,POLI-834,Pardi Maheswara,5705227746588120,done,2025-01-21 13:00:00,dr. Budi
+1210,Poli Lansia,POLI-827,Zelaya Hutapea,7811189683096181,done,2025-05-03 15:00:00,dr. Andi
+1211,Poli Umum,POLI-036,H. Eko Wibowo,3490951761332256,done,2025-01-11 18:00:00,dr. Budi
+1212,Poli Umum,POLI-474,Gangsa Firgantoro,6059973128158405,done,2025-03-13 12:00:00,dr. Eka
+1213,Poli KIA,POLI-866,"Ir. Gaduh Anggraini, S.Sos",7640148757947262,done,2025-04-01 12:00:00,dr. Budi
+1214,Poli KB,POLI-755,Cayadi Wibisono,6996514729618323,done,2025-03-16 18:00:00,dr. Andi
+1215,Poli Gigi,POLI-603,"H. Hasta Ardianto, S.Farm",9061575182256984,serving,2025-04-25 08:00:00,dr. Citra
+1216,Poli KIA,POLI-270,Lantar Sihombing,3125965010037057,done,2025-01-09 14:00:00,dr. Andi
+1217,Poli Gizi,POLI-318,Dr. Shakila Usada,5604062638667094,done,2025-04-29 13:00:00,dr. Budi
+1218,Poli Gigi,POLI-980,dr. Vinsen Maheswara,3148534682776849,waiting,2025-05-05 10:00:00,dr. Fajar
+1219,Poli Umum,POLI-361,"Vera Damanik, S.Pd",9579568774077561,done,2025-05-17 10:00:00,dr. Andi
+1220,Poli Gigi,POLI-528,dr. Ajeng Firgantoro,2281268856662085,waiting,2025-05-15 08:00:00,dr. Budi
+1221,Poli Lansia,POLI-153,Bakianto Prayoga,4937298217146170,done,2025-01-31 16:00:00,dr. Citra
+1222,Poli KIA,POLI-612,"R.M. Wakiman Kuswandari, S.Pd",5923770560932505,done,2025-05-11 09:00:00,dr. Eka
+1223,Poli KB,POLI-203,Indra Prasetyo,7727257800491461,done,2025-04-28 15:00:00,dr. Dina
+1224,Poli KB,POLI-322,Diah Hidayanto,1728580543938699,done,2025-04-22 11:00:00,dr. Budi
+1225,Poli KB,POLI-926,"Hj. Dinda Gunawan, S.Farm",7505059659134035,done,2025-03-17 15:00:00,dr. Andi
+1226,Poli Gizi,POLI-481,Heru Kusmawati,6803583751817533,serving,2025-04-20 09:00:00,dr. Budi
+1227,Poli Gizi,POLI-571,"Perkasa Hutagalung, S.Gz",7147649451120039,done,2025-05-18 08:00:00,dr. Andi
+1228,Poli KIA,POLI-463,R. Alika Rajata,1347669814126121,done,2025-02-08 14:00:00,dr. Fajar
+1229,Poli Gigi,POLI-046,R.A. Victoria Prakasa,8829179745486755,done,2025-05-29 11:00:00,dr. Eka
+1230,Poli KB,POLI-985,Gamani Wacana,2199880261192421,done,2025-05-11 16:00:00,dr. Eka
+1231,Poli Lansia,POLI-347,Elon Tampubolon,8778504350285168,done,2025-04-03 12:00:00,dr. Fajar
+1232,Poli KB,POLI-392,KH. Alambana Natsir,5449232874199650,serving,2025-02-04 18:00:00,dr. Dina
+1233,Poli Gigi,POLI-388,"Hadi Suryono, S.Farm",1860672442640932,done,2025-05-27 10:00:00,dr. Fajar
+1234,Poli KB,POLI-630,"Dr. Calista Irawan, M.Ak",4471405553211427,done,2025-03-04 14:00:00,dr. Dina
+1235,Poli Lansia,POLI-788,Cakrawangsa Budiyanto,5922646107402925,waiting,2025-03-06 17:00:00,dr. Dina
+1236,Poli Gizi,POLI-810,Iriana Hariyah,6940841499874363,done,2025-05-12 14:00:00,dr. Eka
+1237,Poli Lansia,POLI-628,Titi Halimah,1649493763202095,done,2025-03-29 14:00:00,dr. Budi
+1238,Poli Gigi,POLI-951,Darman Nuraini,5265790649672362,done,2025-03-26 08:00:00,dr. Budi
+1239,Poli KB,POLI-398,Winda Winarsih,6973020445159314,done,2025-02-22 18:00:00,dr. Andi
+1240,Poli Gigi,POLI-663,Dr. Reza Maheswara,3737800499672875,done,2025-03-14 08:00:00,dr. Eka
+1241,Poli Gizi,POLI-252,Drs. Garang Nasyidah,3843409984998666,waiting,2025-02-26 11:00:00,dr. Fajar
+1242,Poli Gizi,POLI-003,Vanesa Handayani,5286429253700608,waiting,2025-03-27 10:00:00,dr. Budi
+1243,Poli KIA,POLI-496,Ami Gunawan,1696100409301360,serving,2025-01-17 14:00:00,dr. Budi
+1244,Poli Gizi,POLI-704,Karen Tarihoran,8777554398823539,waiting,2025-05-20 13:00:00,dr. Eka
+1245,Poli Gizi,POLI-114,"Daliman Saragih, S.H.",2345848604020576,done,2025-01-01 14:00:00,dr. Budi
+1246,Poli Umum,POLI-671,Galiono Sinaga,8427046828877816,done,2025-05-29 08:00:00,dr. Dina
+1247,Poli Umum,POLI-597,Restu Widodo,3990660330125585,serving,2025-03-19 15:00:00,dr. Dina
+1248,Poli Gizi,POLI-657,Aurora Tamba,0048433563968028,done,2025-02-05 10:00:00,dr. Andi
+1249,Poli Gizi,POLI-953,Lantar Halimah,9426247329208854,done,2025-02-14 16:00:00,dr. Andi
+1250,Poli KB,POLI-389,Lulut Mahendra,1510619142368031,done,2025-03-26 14:00:00,dr. Eka
+1251,Poli Umum,POLI-309,Syahrini Utama,1174997005428492,done,2025-03-29 18:00:00,dr. Dina
+1252,Poli KB,POLI-974,Aurora Oktaviani,5974619357958377,done,2025-05-04 13:00:00,dr. Andi
+1253,Poli KIA,POLI-165,R.M. Gading Sirait,0261659769665869,done,2025-04-03 13:00:00,dr. Citra
+1254,Poli Umum,POLI-264,Karimah Yuliarti,4552864471603986,done,2025-04-29 15:00:00,dr. Dina
+1255,Poli KIA,POLI-837,Eli Sudiati,0930129714646961,done,2025-02-06 14:00:00,dr. Eka
+1256,Poli KIA,POLI-337,Johan Oktaviani,3440985511835408,done,2025-05-18 15:00:00,dr. Fajar
+1257,Poli Gizi,POLI-634,"Cut Janet Pradana, S.Gz",5102250089697137,done,2025-04-21 18:00:00,dr. Eka
+1258,Poli KB,POLI-277,Gaduh Iswahyudi,9342840359513111,done,2025-01-23 11:00:00,dr. Eka
+1259,Poli Umum,POLI-071,"Hj. Novi Habibi, S.Pt",7761414359420365,done,2025-04-27 09:00:00,dr. Citra
+1260,Poli Gigi,POLI-202,drg. Tami Budiyanto,9608523365664812,done,2025-03-06 16:00:00,dr. Fajar
+1261,Poli Gizi,POLI-079,Puti Andriani,1437797226906624,done,2025-03-08 14:00:00,dr. Citra
+1262,Poli Gizi,POLI-446,Gandewa Wahyuni,0590417227342276,done,2025-03-30 11:00:00,dr. Dina
+1263,Poli KB,POLI-977,Sutan Jayeng Mansur,1337681018072723,done,2025-01-11 10:00:00,dr. Citra
+1264,Poli KB,POLI-523,Ayu Narpati,2291345414835133,done,2025-05-15 13:00:00,dr. Eka
+1265,Poli Gigi,POLI-852,Irfan Susanti,2196590354056227,done,2025-01-04 09:00:00,dr. Fajar
+1266,Poli KIA,POLI-632,Maida Nashiruddin,1975233013960037,done,2025-01-22 09:00:00,dr. Eka
+1267,Poli Lansia,POLI-364,"R. Hardi Novitasari, M.Ak",6188005561861770,done,2025-01-17 12:00:00,dr. Andi
+1268,Poli Lansia,POLI-613,Cengkal Nugroho,5957031761964855,done,2025-01-19 13:00:00,dr. Budi
+1269,Poli KB,POLI-125,Yulia Ramadan,3619060215265646,done,2025-02-09 16:00:00,dr. Andi
+1270,Poli Umum,POLI-034,H. Rahmat Wahyuni,2753643858871103,done,2025-03-31 12:00:00,dr. Budi
+1271,Poli KB,POLI-489,"Jamil Tamba, S.E.I",0155486278330753,waiting,2025-05-20 08:00:00,dr. Dina
+1272,Poli Lansia,POLI-449,Ciaobella Wastuti,3860127352767988,waiting,2025-05-30 11:00:00,dr. Fajar
+1273,Poli KB,POLI-596,Estiono Sihotang,5678557468879466,waiting,2025-04-18 15:00:00,dr. Andi
+1274,Poli Gigi,POLI-839,"Lala Handayani, S.H.",6961167879516733,done,2025-04-06 15:00:00,dr. Citra
+1275,Poli KB,POLI-875,"Tgk. Vanesa Salahudin, M.TI.",9604024260064635,waiting,2025-03-10 15:00:00,dr. Eka
+1276,Poli Gizi,POLI-106,Jaswadi Nashiruddin,0690529276834204,waiting,2025-02-13 09:00:00,dr. Dina
+1277,Poli Gizi,POLI-263,Cinthia Hastuti,7031983457448435,waiting,2025-02-16 13:00:00,dr. Citra
+1278,Poli Gigi,POLI-620,Dr. Taufik Nababan,2329186300409816,done,2025-05-10 08:00:00,dr. Dina
+1279,Poli KB,POLI-469,Adika Mangunsong,6576971773574349,waiting,2025-02-26 12:00:00,dr. Andi
+1280,Poli Gigi,POLI-792,"Drs. Dadi Nugroho, M.Kom.",0913138645686495,serving,2025-04-07 17:00:00,dr. Citra
+1281,Poli Gigi,POLI-823,Drs. Kani Wasita,4419390878793466,done,2025-04-13 09:00:00,dr. Budi
+1282,Poli Lansia,POLI-587,Ani Budiyanto,2525058920459707,waiting,2025-04-28 18:00:00,dr. Citra
+1283,Poli KIA,POLI-220,Diana Pradana,4352780452125429,waiting,2025-03-31 15:00:00,dr. Fajar
+1284,Poli Umum,POLI-334,"Michelle Tampubolon, M.TI.",5247975495792747,done,2025-02-16 12:00:00,dr. Dina
+1285,Poli KIA,POLI-918,Capa Prayoga,8072150388893262,done,2025-04-26 11:00:00,dr. Eka
+1286,Poli Lansia,POLI-034,Zulfa Safitri,9360029087310080,done,2025-01-03 18:00:00,dr. Andi
+1287,Poli Umum,POLI-450,Murti Sudiati,2948154358890293,done,2025-04-22 10:00:00,dr. Citra
+1288,Poli Umum,POLI-098,Enteng Saputra,8047702096234337,serving,2025-04-14 09:00:00,dr. Andi
+1289,Poli KIA,POLI-520,Dasa Anggriawan,5460029220745429,done,2025-03-27 17:00:00,dr. Dina
+1290,Poli KIA,POLI-026,Silvia Rahmawati,6943730703014872,waiting,2025-01-21 11:00:00,dr. Eka
+1291,Poli Lansia,POLI-720,Raina Simanjuntak,8471758349716812,done,2025-04-17 16:00:00,dr. Eka
+1292,Poli Gigi,POLI-100,Teddy Rajata,4149179011099320,done,2025-01-29 10:00:00,dr. Fajar
+1293,Poli Gigi,POLI-230,Salsabila Maulana,3963309624197471,done,2025-04-03 10:00:00,dr. Budi
+1294,Poli Gizi,POLI-780,"R. Kamaria Maulana, S.Sos",3237333200951924,waiting,2025-04-14 15:00:00,dr. Budi
+1295,Poli Gigi,POLI-652,Hartaka Pranowo,1558941293459870,done,2025-05-14 16:00:00,dr. Citra
+1296,Poli Gigi,POLI-391,"Emil Rajata, S.Pd",8878868896141084,done,2025-05-19 18:00:00,dr. Dina
+1297,Poli KB,POLI-955,Irfan Natsir,5040847316384570,done,2025-03-21 18:00:00,dr. Citra
+1298,Poli Lansia,POLI-282,"Jasmin Purnawati, S.E.I",8437424290508255,done,2025-02-20 12:00:00,dr. Budi
+1299,Poli KB,POLI-136,"Drs. Kartika Novitasari, S.Sos",4925646096625225,done,2025-03-14 18:00:00,dr. Dina
+1300,Poli Gigi,POLI-460,Irfan Januar,4175666008103245,done,2025-03-30 09:00:00,dr. Andi
+1301,Poli Umum,POLI-502,Silvia Rahimah,2096213868105501,done,2025-03-03 08:00:00,dr. Andi
+1302,Poli Lansia,POLI-329,Warji Nuraini,2111389618071216,done,2025-05-09 12:00:00,dr. Eka
+1303,Poli Umum,POLI-432,Jelita Hakim,4713284225354079,serving,2025-04-14 10:00:00,dr. Dina
+1304,Poli Gigi,POLI-167,"Ir. Victoria Usamah, S.E.I",0616234416107451,done,2025-01-27 13:00:00,dr. Budi
+1305,Poli Lansia,POLI-439,Jamalia Saptono,9818260592113849,done,2025-01-13 13:00:00,dr. Andi
+1306,Poli Gizi,POLI-710,Dt. Wasis Prasetya,7303419974142681,waiting,2025-04-30 18:00:00,dr. Andi
+1307,Poli KIA,POLI-708,Ilyas Winarno,3627808437404502,done,2025-04-27 10:00:00,dr. Budi
+1308,Poli Lansia,POLI-192,Cahyo Mandala,6760930188707738,waiting,2025-05-25 15:00:00,dr. Dina
+1309,Poli Lansia,POLI-883,Tirta Lestari,1709156936666818,done,2025-01-04 18:00:00,dr. Budi
+1310,Poli Gigi,POLI-513,"R. Dodo Nurdiyanti, S.T.",7412054990259338,waiting,2025-03-07 09:00:00,dr. Fajar
+1311,Poli Umum,POLI-742,Yani Sihotang,2279103517724601,done,2025-01-29 11:00:00,dr. Budi
+1312,Poli KIA,POLI-364,Julia Maheswara,1259863185805941,done,2025-04-08 16:00:00,dr. Eka
+1313,Poli KIA,POLI-999,"Galih Prasetya, S.E.",3796506803291102,waiting,2025-01-13 15:00:00,dr. Dina
+1314,Poli KB,POLI-825,Nabila Narpati,4122417434240929,waiting,2025-02-01 09:00:00,dr. Citra
+1315,Poli KIA,POLI-579,"Tgk. Tina Prayoga, S.IP",4018936897857823,done,2025-03-15 12:00:00,dr. Fajar
+1316,Poli Lansia,POLI-405,Rosman Anggraini,2161042204087615,done,2025-01-08 08:00:00,dr. Citra
+1317,Poli KB,POLI-958,Putri Suryono,2547557381673154,waiting,2025-05-17 10:00:00,dr. Fajar
+1318,Poli Lansia,POLI-749,"Cut Ophelia Prakasa, S.Kom",0316081129723006,done,2025-02-11 10:00:00,dr. Dina
+1319,Poli Lansia,POLI-269,"Agnes Nugroho, M.M.",7493257949463772,done,2025-05-13 15:00:00,dr. Fajar
+1320,Poli Gizi,POLI-096,Tami Wibisono,0813803838431739,done,2025-04-12 14:00:00,dr. Eka
+1321,Poli KIA,POLI-657,Sutan Prabowo Maryati,5472680551313388,done,2025-05-13 15:00:00,dr. Fajar
+1322,Poli Umum,POLI-208,Ir. Alika Budiman,9213678148370887,serving,2025-03-15 13:00:00,dr. Eka
+1323,Poli KIA,POLI-260,Dr. Tania Fujiati,9328407341059113,done,2025-03-08 16:00:00,dr. Budi
+1324,Poli Lansia,POLI-194,Kayla Tamba,6055159907671430,done,2025-02-13 10:00:00,dr. Budi
+1325,Poli Gigi,POLI-050,Cagak Nugroho,7529274192346195,serving,2025-05-10 12:00:00,dr. Fajar
+1326,Poli Umum,POLI-551,Mursinin Napitupulu,9585977898624732,done,2025-01-29 14:00:00,dr. Fajar
+1327,Poli KB,POLI-823,KH. Cawuk Palastri,1087288247188644,done,2025-05-13 18:00:00,dr. Citra
+1328,Poli Umum,POLI-442,Dr. Warji Puspasari,8696142576374178,done,2025-04-19 08:00:00,dr. Fajar
+1329,Poli Gizi,POLI-459,"Tgk. Marsudi Budiman, S.Sos",9377847272776978,serving,2025-02-16 16:00:00,dr. Andi
+1330,Poli KIA,POLI-261,Ellis Andriani,7636312527156505,serving,2025-01-08 12:00:00,dr. Dina
+1331,Poli Umum,POLI-318,"Dr. Elma Simanjuntak, S.Pt",0747625577356947,done,2025-03-04 14:00:00,dr. Eka
+1332,Poli KB,POLI-696,Dr. Irwan Mansur,8364056125194101,serving,2025-03-08 12:00:00,dr. Eka
+1333,Poli Lansia,POLI-195,Kezia Aryani,1172956129826699,serving,2025-03-28 08:00:00,dr. Fajar
+1334,Poli Umum,POLI-489,"Cici Rahayu, S.E.",6392231315351404,done,2025-02-26 17:00:00,dr. Citra
+1335,Poli Gizi,POLI-720,"Cut Siska Hidayanto, S.IP",8140461597055924,done,2025-04-26 09:00:00,dr. Eka
+1336,Poli Lansia,POLI-872,Rahmi Pranowo,7980837200922155,done,2025-04-06 11:00:00,dr. Dina
+1337,Poli KIA,POLI-359,Liman Lestari,6110404336588614,done,2025-03-06 08:00:00,dr. Fajar
+1338,Poli Umum,POLI-843,"Bakiadi Putra, S.I.Kom",1116701418297662,done,2025-01-11 16:00:00,dr. Fajar
+1339,Poli Lansia,POLI-156,"Hasna Yuliarti, S.T.",4662663337486031,waiting,2025-04-16 18:00:00,dr. Budi
+1340,Poli KB,POLI-144,Gabriella Lailasari,6785301463749082,serving,2025-01-21 14:00:00,dr. Dina
+1341,Poli Lansia,POLI-794,Kamila Suryatmi,0042565905149645,done,2025-05-03 10:00:00,dr. Eka
+1342,Poli KB,POLI-213,Novi Mardhiyah,1791043371069642,done,2025-01-31 09:00:00,dr. Fajar
+1343,Poli Umum,POLI-619,Soleh Adriansyah,0096189152368636,done,2025-03-20 11:00:00,dr. Dina
+1344,Poli KB,POLI-411,"Soleh Purnawati, S.H.",1080709171710055,waiting,2025-02-17 09:00:00,dr. Dina
+1345,Poli Lansia,POLI-491,Leo Hakim,5518475985762260,serving,2025-04-05 09:00:00,dr. Citra
+1346,Poli Lansia,POLI-886,Elvin Pudjiastuti,1220034050039286,done,2025-03-13 17:00:00,dr. Dina
+1347,Poli Gigi,POLI-495,Endra Yolanda,5900834164845869,done,2025-05-28 18:00:00,dr. Citra
+1348,Poli KIA,POLI-393,Hj. Eka Saputra,7388528631518370,done,2025-02-02 17:00:00,dr. Citra
+1349,Poli Umum,POLI-133,Septi Winarno,9593277477612814,done,2025-01-26 18:00:00,dr. Budi
+1350,Poli Umum,POLI-328,Salman Hidayat,4274179445738498,done,2025-03-17 09:00:00,dr. Dina
+1351,Poli Gizi,POLI-591,Purwanto Rajata,1661815061494391,done,2025-03-26 16:00:00,dr. Eka
+1352,Poli Gigi,POLI-344,"dr. Padmi Sirait, S.Pd",8563060430952080,done,2025-02-17 17:00:00,dr. Eka
+1353,Poli KB,POLI-112,dr. Cinthia Pratiwi,8374387237959621,done,2025-03-12 15:00:00,dr. Dina
+1354,Poli KIA,POLI-782,"Puspa Irawan, M.Ak",7183677407870622,done,2025-01-20 08:00:00,dr. Andi
+1355,Poli Umum,POLI-669,Narji Simbolon,5253213898436845,done,2025-05-16 10:00:00,dr. Budi
+1356,Poli Lansia,POLI-361,"Cut Eli Waskita, M.TI.",4472748973583070,done,2025-03-05 14:00:00,dr. Andi
+1357,Poli Umum,POLI-933,Vino Hutapea,2085103997266603,serving,2025-02-04 09:00:00,dr. Budi
+1358,Poli Gizi,POLI-053,"Ismail Novitasari, S.Ked",0501617216105750,done,2025-03-18 08:00:00,dr. Eka
+1359,Poli KIA,POLI-255,H. Caturangga Yolanda,6221404055313170,done,2025-03-30 17:00:00,dr. Citra
+1360,Poli KB,POLI-260,Dr. Gabriella Nuraini,5745631887247153,done,2025-02-13 13:00:00,dr. Dina
+1361,Poli KB,POLI-644,Reksa Rahayu,8372024930175470,serving,2025-01-10 09:00:00,dr. Andi
+1362,Poli KB,POLI-735,Banawa Rajasa,1290346201867251,serving,2025-04-29 10:00:00,dr. Andi
+1363,Poli KIA,POLI-678,"Rahmat Hardiansyah, S.T.",6613706754221043,waiting,2025-02-23 15:00:00,dr. Andi
+1364,Poli Umum,POLI-096,Heru Winarsih,9219050110612382,done,2025-04-24 11:00:00,dr. Dina
+1365,Poli KIA,POLI-951,Slamet Prakasa,7252857203876230,done,2025-02-17 16:00:00,dr. Budi
+1366,Poli KIA,POLI-685,"Parman Santoso, S.Ked",4500668514151326,waiting,2025-01-30 11:00:00,dr. Citra
+1367,Poli Umum,POLI-447,"Zamira Prabowo, S.Sos",4146916389880120,done,2025-05-12 13:00:00,dr. Budi
+1368,Poli KB,POLI-974,Cut Faizah Sitorus,0132474953451279,serving,2025-03-15 16:00:00,dr. Fajar
+1369,Poli Gizi,POLI-728,Xanana Hariyah,5332521956855191,waiting,2025-04-19 11:00:00,dr. Eka
+1370,Poli Lansia,POLI-141,"Hamima Nuraini, S.Psi",6501075034681197,waiting,2025-04-24 09:00:00,dr. Dina
+1371,Poli Gizi,POLI-362,"Jasmin Purwanti, M.M.",8925766913060022,done,2025-04-01 16:00:00,dr. Andi
+1372,Poli KB,POLI-408,T. Aditya Mandala,9374900753554571,done,2025-03-12 11:00:00,dr. Andi
+1373,Poli Lansia,POLI-232,"Dr. Samiah Najmudin, S.T.",2234069277994677,waiting,2025-03-04 13:00:00,dr. Fajar
+1374,Poli KB,POLI-915,R. Tari Melani,5874418792779048,done,2025-01-29 15:00:00,dr. Eka
+1375,Poli KIA,POLI-914,Tasnim Setiawan,4101522469240336,done,2025-02-02 18:00:00,dr. Citra
+1376,Poli KB,POLI-804,Daryani Utama,5632239235540109,waiting,2025-01-20 08:00:00,dr. Fajar
+1377,Poli Gizi,POLI-450,Kusuma Pratama,5850231719250735,done,2025-02-28 18:00:00,dr. Fajar
+1378,Poli KB,POLI-468,Lurhur Wibisono,5043970925112304,serving,2025-01-10 15:00:00,dr. Dina
+1379,Poli Gizi,POLI-535,Nilam Lailasari,0591714566828419,done,2025-02-02 13:00:00,dr. Dina
+1380,Poli Lansia,POLI-604,"Wani Kusmawati, M.Kom.",9174537844511639,done,2025-01-08 13:00:00,dr. Fajar
+1381,Poli Gizi,POLI-150,Garan Melani,2699935713634964,done,2025-05-03 13:00:00,dr. Dina
+1382,Poli KB,POLI-868,Wage Prasasta,9807969432018365,done,2025-03-17 16:00:00,dr. Fajar
+1383,Poli Umum,POLI-848,Ulya Marpaung,1119110891901052,done,2025-03-31 09:00:00,dr. Dina
+1384,Poli KB,POLI-497,"R.A. Febi Napitupulu, S.I.Kom",1240045755977135,done,2025-05-26 13:00:00,dr. Budi
+1385,Poli KB,POLI-062,Dodo Adriansyah,2198573643968924,waiting,2025-01-17 13:00:00,dr. Dina
+1386,Poli Gizi,POLI-964,Puti Ophelia Halimah,1847487567901460,waiting,2025-04-26 08:00:00,dr. Dina
+1387,Poli Lansia,POLI-228,Karma Budiman,4514190463606064,done,2025-04-27 15:00:00,dr. Andi
+1388,Poli Gigi,POLI-845,Sari Agustina,2479806359501768,done,2025-04-06 16:00:00,dr. Fajar
+1389,Poli KB,POLI-182,Hj. Juli Narpati,6274485647320034,waiting,2025-02-22 08:00:00,dr. Dina
+1390,Poli Umum,POLI-713,Oni Handayani,6135037636983355,done,2025-02-01 18:00:00,dr. Andi
+1391,Poli KB,POLI-850,Martana Napitupulu,6245501198465035,done,2025-05-06 14:00:00,dr. Budi
+1392,Poli Umum,POLI-680,"R.M. Gada Yolanda, S.E.",9632554715687955,done,2025-02-16 11:00:00,dr. Dina
+1393,Poli Gizi,POLI-746,"Karen Prasetyo, S.E.",5226451857089480,waiting,2025-03-07 10:00:00,dr. Fajar
+1394,Poli KB,POLI-999,"Tgk. Daryani Wibisono, S.Kom",1570207726212760,serving,2025-01-12 18:00:00,dr. Dina
+1395,Poli Gizi,POLI-812,Nova Susanti,8300126037871582,done,2025-03-16 16:00:00,dr. Andi
+1396,Poli Gizi,POLI-115,"Bella Dongoran, M.Kom.",9256663669429112,serving,2025-04-08 08:00:00,dr. Eka
+1397,Poli KB,POLI-549,Rendy Habibi,6984246865301044,done,2025-02-18 10:00:00,dr. Citra
+1398,Poli Gizi,POLI-038,Ir. Jaswadi Wasita,6617126932493847,waiting,2025-03-16 08:00:00,dr. Budi
+1399,Poli Lansia,POLI-823,"dr. Elvina Dabukke, M.M.",4753824590683066,done,2025-04-21 12:00:00,dr. Eka
+1400,Poli KIA,POLI-071,Drs. Gaman Wastuti,0394394522926124,waiting,2025-05-27 14:00:00,dr. Eka
+1401,Poli Gigi,POLI-354,Dr. Keisha Hasanah,4399291315504309,done,2025-01-01 14:00:00,dr. Andi
+1402,Poli KIA,POLI-417,Kamila Ardianto,2858207919374518,done,2025-05-01 10:00:00,dr. Budi
+1403,Poli Gizi,POLI-225,"Rangga Hasanah, M.Pd",3375978776758034,done,2025-03-31 14:00:00,dr. Fajar
+1404,Poli KIA,POLI-672,"dr. Janet Rajata, M.Kom.",4921311660332163,waiting,2025-02-23 11:00:00,dr. Citra
+1405,Poli Gizi,POLI-176,Dr. Winda Kurniawan,6523710990621352,serving,2025-03-09 15:00:00,dr. Eka
+1406,Poli KB,POLI-975,Maida Adriansyah,3983423795579160,done,2025-02-07 17:00:00,dr. Eka
+1407,Poli Gigi,POLI-364,Devi Pangestu,4688333674079370,done,2025-05-06 11:00:00,dr. Dina
+1408,Poli Gizi,POLI-608,"Kawaya Yolanda, M.Kom.",2437713383164254,serving,2025-01-08 17:00:00,dr. Andi
+1409,Poli Gizi,POLI-912,Ir. Rosman Setiawan,4450051770115419,done,2025-01-08 13:00:00,dr. Dina
+1410,Poli KB,POLI-397,Ir. Alambana Gunarto,3298482628447171,done,2025-03-03 11:00:00,dr. Citra
+1411,Poli Gigi,POLI-275,"R.M. Jasmani Prasasta, S.I.Kom",0612712075914705,done,2025-02-19 13:00:00,dr. Dina
+1412,Poli Gizi,POLI-277,Bella Wacana,4188474196877133,done,2025-02-09 11:00:00,dr. Andi
+1413,Poli KIA,POLI-809,"R. Irwan Ardianto, M.Ak",4196103909650109,waiting,2025-02-12 10:00:00,dr. Andi
+1414,Poli Umum,POLI-043,"Tgk. Rina Lestari, S.Sos",7225396123868679,done,2025-02-19 11:00:00,dr. Eka
+1415,Poli Lansia,POLI-747,Usman Wijaya,6682215517137866,done,2025-03-04 14:00:00,dr. Dina
+1416,Poli Gigi,POLI-120,Hari Januar,1700356397173440,done,2025-01-14 14:00:00,dr. Eka
+1417,Poli Gigi,POLI-319,Jagapati Dabukke,2753853093805975,done,2025-03-11 13:00:00,dr. Dina
+1418,Poli Gigi,POLI-185,Damar Gunarto,5958101376436523,done,2025-04-15 08:00:00,dr. Budi
+1419,Poli Lansia,POLI-628,Oliva Kuswandari,9747352628863736,waiting,2025-05-11 12:00:00,dr. Budi
+1420,Poli Gizi,POLI-193,Hardi Wastuti,1775206876099946,done,2025-04-13 18:00:00,dr. Dina
+1421,Poli Lansia,POLI-141,Almira Siregar,6660075476469051,done,2025-03-08 16:00:00,dr. Andi
+1422,Poli Gizi,POLI-292,Asmianto Pudjiastuti,9693736939184554,serving,2025-05-15 13:00:00,dr. Fajar
+1423,Poli Umum,POLI-726,Kusuma Prasasta,6708990358862911,done,2025-04-07 14:00:00,dr. Eka
+1424,Poli KIA,POLI-294,Talia Halimah,0224686608250125,done,2025-02-11 09:00:00,dr. Dina
+1425,Poli Gigi,POLI-422,Genta Safitri,6311969565058503,serving,2025-03-06 13:00:00,dr. Andi
+1426,Poli KIA,POLI-787,"Cut Zelda Winarsih, S.E.I",7267082691568817,done,2025-02-08 08:00:00,dr. Andi
+1427,Poli Gigi,POLI-737,"Rahayu Budiman, S.H.",7287595379463323,done,2025-02-08 15:00:00,dr. Andi
+1428,Poli Gizi,POLI-440,Prasetyo Mahendra,2468863095148980,waiting,2025-03-06 12:00:00,dr. Eka
+1429,Poli Lansia,POLI-671,"Cut Dina Riyanti, S.Sos",6805144716540634,serving,2025-03-05 13:00:00,dr. Eka
+1430,Poli Gizi,POLI-583,Wasis Yuliarti,2569528211344081,waiting,2025-05-26 18:00:00,dr. Budi
+1431,Poli Umum,POLI-705,Paiman Saefullah,8154622370378738,waiting,2025-01-09 10:00:00,dr. Dina
+1432,Poli Gigi,POLI-290,"Fitria Kusmawati, M.Pd",9878633393803828,done,2025-02-26 11:00:00,dr. Eka
+1433,Poli KB,POLI-877,"Lulut Usamah, S.I.Kom",6525746077559452,done,2025-04-30 09:00:00,dr. Eka
+1434,Poli Lansia,POLI-507,Syahrini Pangestu,9587480737809367,done,2025-05-16 16:00:00,dr. Andi
+1435,Poli Gizi,POLI-268,"dr. Mustika Namaga, S.Sos",1136114022189279,done,2025-03-28 18:00:00,dr. Citra
+1436,Poli Gizi,POLI-353,Sutan Raden Latupono,9686551405339846,done,2025-01-16 11:00:00,dr. Andi
+1437,Poli KIA,POLI-953,"Nova Damanik, M.Ak",9982647157998966,waiting,2025-01-16 08:00:00,dr. Andi
+1438,Poli KIA,POLI-679,Endra Wacana,0144419938768136,waiting,2025-02-11 13:00:00,dr. Budi
+1439,Poli KB,POLI-052,Sidiq Mansur,0391680344891746,done,2025-03-10 13:00:00,dr. Citra
+1440,Poli Lansia,POLI-115,Gasti Waskita,3838475103645775,done,2025-01-16 08:00:00,dr. Citra
+1441,Poli KB,POLI-539,Eka Maryati,2786069901597433,serving,2025-05-15 12:00:00,dr. Citra
+1442,Poli Gizi,POLI-029,Martana Dongoran,7638359912638461,done,2025-05-10 16:00:00,dr. Andi
+1443,Poli Lansia,POLI-373,Ika Marbun,4726507832500581,done,2025-03-31 13:00:00,dr. Citra
+1444,Poli Umum,POLI-348,Keisha Palastri,8322847885735355,waiting,2025-05-26 16:00:00,dr. Andi
+1445,Poli Umum,POLI-623,Darimin Sihombing,8918025133362711,done,2025-01-07 10:00:00,dr. Fajar
+1446,Poli KIA,POLI-824,"Samiah Agustina, S.E.I",0839289325515693,waiting,2025-02-11 15:00:00,dr. Dina
+1447,Poli KIA,POLI-835,"Kunthara Namaga, S.Farm",0042678543128606,done,2025-05-31 14:00:00,dr. Budi
+1448,Poli KB,POLI-904,Kenari Nugroho,9132495258224285,waiting,2025-03-03 09:00:00,dr. Andi
+1449,Poli Gigi,POLI-002,Queen Prayoga,7032396554577565,done,2025-01-09 08:00:00,dr. Budi
+1450,Poli Umum,POLI-708,"Puti Tira Simanjuntak, S.Kom",5767071535206169,done,2025-01-18 17:00:00,dr. Dina
+1451,Poli Gizi,POLI-737,"Rachel Mulyani, M.Farm",1805923746512679,done,2025-01-04 12:00:00,dr. Citra
+1452,Poli Lansia,POLI-276,"Amelia Samosir, S.Farm",7413966861150799,done,2025-01-03 13:00:00,dr. Fajar
+1453,Poli KB,POLI-535,T. Kamal Nainggolan,2711512637121385,done,2025-01-01 15:00:00,dr. Citra
+1454,Poli Gigi,POLI-747,Oskar Putra,2733928267452825,serving,2025-05-17 10:00:00,dr. Fajar
+1455,Poli KB,POLI-032,Endah Suryono,0637935668425135,done,2025-05-23 16:00:00,dr. Dina
+1456,Poli Lansia,POLI-629,Koko Rajasa,3644634231514763,serving,2025-04-22 16:00:00,dr. Andi
+1457,Poli Gigi,POLI-124,Enteng Dongoran,8211328607918231,done,2025-03-19 15:00:00,dr. Fajar
+1458,Poli Umum,POLI-546,Panca Mandala,3210516708288501,waiting,2025-03-14 16:00:00,dr. Budi
+1459,Poli KB,POLI-464,Cut Karen Najmudin,6926844191033954,serving,2025-05-07 13:00:00,dr. Dina
+1460,Poli Gizi,POLI-578,Tgk. Najib Yulianti,2646228166539725,waiting,2025-01-05 17:00:00,dr. Budi
+1461,Poli Umum,POLI-708,Olivia Wijaya,5678628180145363,done,2025-04-02 17:00:00,dr. Andi
+1462,Poli KIA,POLI-366,"Surya Fujiati, S.I.Kom",5190176873438321,done,2025-01-04 13:00:00,dr. Fajar
+1463,Poli KB,POLI-083,Bajragin Ramadan,8063209344443658,done,2025-02-26 13:00:00,dr. Dina
+1464,Poli Lansia,POLI-964,Jaiman Situmorang,3865020443533975,done,2025-04-16 17:00:00,dr. Eka
+1465,Poli Lansia,POLI-103,Cakrawala Prakasa,4678349907640577,done,2025-04-07 11:00:00,dr. Dina
+1466,Poli KIA,POLI-710,"Dt. Setya Mahendra, S.Kom",2559969779670038,done,2025-02-11 11:00:00,dr. Fajar
+1467,Poli Lansia,POLI-614,Calista Pangestu,5876149518091014,done,2025-03-24 18:00:00,dr. Citra
+1468,Poli KIA,POLI-528,Bala Safitri,9826345990023558,done,2025-01-19 16:00:00,dr. Eka
+1469,Poli Gigi,POLI-496,Daniswara Dabukke,9816911413071700,done,2025-02-26 15:00:00,dr. Dina
+1470,Poli KIA,POLI-811,Gamblang Lailasari,0328777149450299,done,2025-02-01 10:00:00,dr. Fajar
+1471,Poli KIA,POLI-462,Ghani Permata,6621452781316840,done,2025-04-15 17:00:00,dr. Fajar
+1472,Poli Gigi,POLI-161,Galuh Mangunsong,8777814982997200,serving,2025-04-17 14:00:00,dr. Andi
+1473,Poli KIA,POLI-901,Kasusra Sinaga,8519221443608798,done,2025-03-24 09:00:00,dr. Fajar
+1474,Poli Umum,POLI-354,R.M. Kanda Purnawati,7600648771708784,waiting,2025-05-29 12:00:00,dr. Dina
+1475,Poli Gigi,POLI-115,"Rachel Kusmawati, M.Pd",3082126607423311,done,2025-02-28 16:00:00,dr. Eka
+1476,Poli Gizi,POLI-014,"Farah Melani, S.Ked",3958906351854249,done,2025-04-29 08:00:00,dr. Eka
+1477,Poli Gigi,POLI-794,Damu Nashiruddin,1736923280656997,done,2025-02-19 15:00:00,dr. Dina
+1478,Poli KIA,POLI-982,Oni Safitri,6150402288367201,serving,2025-03-08 15:00:00,dr. Eka
+1479,Poli Gizi,POLI-757,"Puji Hutasoit, M.Farm",8589593555534268,done,2025-02-17 15:00:00,dr. Andi
+1480,Poli Umum,POLI-268,"R.A. Yani Kusmawati, S.Psi",1903333017302742,done,2025-01-19 15:00:00,dr. Budi
+1481,Poli Lansia,POLI-430,Wisnu Zulaika,1379275410611916,done,2025-03-14 14:00:00,dr. Andi
+1482,Poli Lansia,POLI-408,Cut Hani Najmudin,5587576208074791,done,2025-03-19 09:00:00,dr. Eka
+1483,Poli KB,POLI-851,Fathonah Nashiruddin,4786317498424801,done,2025-02-03 11:00:00,dr. Andi
+1484,Poli Gizi,POLI-574,"Cinthia Hidayat, S.Pt",4482987811931488,waiting,2025-05-01 13:00:00,dr. Budi
+1485,Poli KIA,POLI-324,Chelsea Wahyudin,9854180863711131,done,2025-02-25 08:00:00,dr. Eka
+1486,Poli KIA,POLI-174,Dartono Winarsih,3943753156374835,done,2025-02-09 14:00:00,dr. Dina
+1487,Poli KIA,POLI-375,Elma Kuswoyo,4073099557598040,waiting,2025-03-07 14:00:00,dr. Andi
+1488,Poli KB,POLI-574,Balamantri Wasita,8021182015777883,done,2025-03-19 10:00:00,dr. Dina
+1489,Poli Lansia,POLI-794,Joko Rahmawati,9336394704816220,done,2025-02-15 18:00:00,dr. Citra
+1490,Poli Gigi,POLI-877,Dr. Eli Rajasa,8394777484002307,done,2025-03-11 10:00:00,dr. Citra
+1491,Poli Lansia,POLI-010,Dr. Yani Santoso,8542147717920759,done,2025-05-27 17:00:00,dr. Fajar
+1492,Poli Gigi,POLI-881,Harto Lailasari,3743080523842085,done,2025-04-20 17:00:00,dr. Dina
+1493,Poli Gigi,POLI-475,Kenzie Purnawati,0758877844664958,done,2025-03-17 11:00:00,dr. Budi
+1494,Poli Gigi,POLI-063,Ajeng Jailani,0423301376417857,serving,2025-01-02 15:00:00,dr. Andi
+1495,Poli KB,POLI-479,Dartono Hutagalung,3009825553779291,done,2025-02-10 16:00:00,dr. Citra
+1496,Poli KIA,POLI-430,Dinda Pradipta,9095134745354076,waiting,2025-02-25 08:00:00,dr. Dina
+1497,Poli Gizi,POLI-805,Eva Wibisono,4696783938336614,waiting,2025-05-22 08:00:00,dr. Fajar
+1498,Poli KB,POLI-850,Adiarja Santoso,3409308350972337,done,2025-01-25 11:00:00,dr. Citra
+1499,Poli Umum,POLI-063,Dt. Jono Saputra,6923550915725095,serving,2025-04-23 09:00:00,dr. Citra
+1500,Poli Lansia,POLI-020,R.A. Ajeng Prasetya,6491906544115017,done,2025-02-18 12:00:00,dr. Fajar
+1501,Poli Gizi,POLI-650,Luwes Wastuti,6938009124548592,waiting,2025-05-27 10:00:00,dr. Fajar
+1502,Poli Gizi,POLI-170,"Puti Genta Nugroho, S.Sos",1336582127243933,done,2025-02-14 11:00:00,dr. Budi
+1503,Poli KB,POLI-666,Hasna Usada,0012980031335146,done,2025-04-03 10:00:00,dr. Dina
+1504,Poli Umum,POLI-368,"Galang Hastuti, S.E.I",9910756940485397,serving,2025-05-08 10:00:00,dr. Citra
+1505,Poli KB,POLI-430,"Puti Ani Nababan, M.TI.",9986474244223549,done,2025-01-20 18:00:00,dr. Citra
+1506,Poli Gigi,POLI-975,"Marsito Dongoran, M.Pd",7279684609920926,done,2025-01-22 10:00:00,dr. Andi
+1507,Poli KB,POLI-043,Kania Wibowo,1149998565478493,done,2025-01-05 11:00:00,dr. Dina
+1508,Poli KIA,POLI-323,Usyi Prasasta,9040361048399671,done,2025-01-13 15:00:00,dr. Andi
+1509,Poli Gizi,POLI-447,Zulaikha Situmorang,0946285478129165,done,2025-02-26 11:00:00,dr. Budi
+1510,Poli KB,POLI-392,Ganda Pudjiastuti,2597924649294131,done,2025-01-10 09:00:00,dr. Budi
+1511,Poli Gigi,POLI-779,H. Surya Kusmawati,8565613178044849,done,2025-03-29 17:00:00,dr. Citra
+1512,Poli Gizi,POLI-484,"Sutan Warsita Pradipta, S.Ked",7096480246490754,waiting,2025-01-12 14:00:00,dr. Budi
+1513,Poli Gigi,POLI-465,Hj. Titin Adriansyah,1048943256686928,done,2025-02-09 16:00:00,dr. Andi
+1514,Poli Lansia,POLI-466,Ciaobella Santoso,3602631889490156,done,2025-01-17 08:00:00,dr. Budi
+1515,Poli Gizi,POLI-379,Puti Sadina Nashiruddin,7445485882026155,done,2025-05-29 11:00:00,dr. Andi
+1516,Poli Gizi,POLI-759,"Tgk. Yulia Mulyani, S.E.",2024105330995456,done,2025-03-21 16:00:00,dr. Andi
+1517,Poli KIA,POLI-523,Jayeng Utama,2445483150999909,serving,2025-01-12 18:00:00,dr. Eka
+1518,Poli Umum,POLI-543,Cager Prasetyo,0216089555620854,done,2025-02-01 10:00:00,dr. Dina
+1519,Poli Umum,POLI-571,Digdaya Zulaika,8028233063288760,done,2025-01-19 12:00:00,dr. Andi
+1520,Poli Gizi,POLI-604,drg. Diah Hutapea,8872865091807196,done,2025-05-28 08:00:00,dr. Dina
+1521,Poli KIA,POLI-011,"Daryani Sinaga, S.H.",0273240879005161,done,2025-04-03 17:00:00,dr. Dina
+1522,Poli Gizi,POLI-343,"Diana Firgantoro, S.IP",0380402008644786,done,2025-03-27 12:00:00,dr. Eka
+1523,Poli Lansia,POLI-076,"Bala Aryani, S.H.",2529550189237112,done,2025-01-19 12:00:00,dr. Fajar
+1524,Poli Gizi,POLI-839,Pia Pertiwi,0828743375076345,serving,2025-05-11 12:00:00,dr. Citra
+1525,Poli Gizi,POLI-560,Vino Hardiansyah,8419851272743601,done,2025-03-24 12:00:00,dr. Dina
+1526,Poli Lansia,POLI-996,Ghani Nugroho,4102979183115234,done,2025-04-04 10:00:00,dr. Eka
+1527,Poli Gizi,POLI-724,Marwata Hutagalung,9288543399492859,done,2025-04-03 14:00:00,dr. Citra
+1528,Poli Umum,POLI-748,Bella Nugroho,3683103201374265,done,2025-03-05 09:00:00,dr. Fajar
+1529,Poli Lansia,POLI-404,"Cut Lidya Tarihoran, S.E.",4087531004835076,done,2025-01-23 15:00:00,dr. Dina
+1530,Poli Lansia,POLI-889,R.M. Waluyo Budiyanto,4438227735375624,waiting,2025-05-31 17:00:00,dr. Dina
+1531,Poli KB,POLI-166,Dadap Sihotang,9815593783991008,done,2025-04-05 17:00:00,dr. Citra
+1532,Poli KIA,POLI-585,"R.A. Vanya Narpati, S.Farm",7205919271773180,done,2025-01-12 12:00:00,dr. Dina
+1533,Poli KB,POLI-123,Wulan Latupono,4742937275121595,done,2025-01-02 16:00:00,dr. Eka
+1534,Poli Lansia,POLI-644,"R. Talia Mangunsong, S.E.",7653348253176632,waiting,2025-02-18 11:00:00,dr. Andi
+1535,Poli Umum,POLI-946,dr. Sidiq Siregar,2164417701752121,done,2025-05-08 12:00:00,dr. Fajar
+1536,Poli Lansia,POLI-059,"R.A. Carla Sihombing, M.M.",6147394615120410,done,2025-05-15 17:00:00,dr. Citra
+1537,Poli KIA,POLI-094,Mulya Lailasari,5921677095336482,waiting,2025-04-01 10:00:00,dr. Budi
+1538,Poli KIA,POLI-815,"Nova Halimah, M.TI.",4398969567466124,done,2025-03-03 14:00:00,dr. Citra
+1539,Poli Gizi,POLI-317,"T. Harsaya Ramadan, M.Pd",7782921396352080,done,2025-03-28 17:00:00,dr. Fajar
+1540,Poli Umum,POLI-541,Juli Lailasari,2457876280427013,done,2025-02-14 10:00:00,dr. Fajar
+1541,Poli Gigi,POLI-014,Sutan Danu Mayasari,3424915027445926,done,2025-04-24 09:00:00,dr. Andi
+1542,Poli Gigi,POLI-033,"Wardaya Winarno, M.TI.",6974622029749491,serving,2025-04-23 16:00:00,dr. Eka
+1543,Poli Gizi,POLI-198,Hana Saragih,6662160669742491,serving,2025-05-15 17:00:00,dr. Eka
+1544,Poli Umum,POLI-960,Karja Kurniawan,7749442068477777,done,2025-03-02 13:00:00,dr. Fajar
+1545,Poli Gigi,POLI-240,Dt. Karsana Waluyo,1344420560567060,done,2025-03-29 12:00:00,dr. Andi
+1546,Poli Lansia,POLI-355,Zulfa Habibi,4913479834666671,done,2025-01-16 12:00:00,dr. Dina
+1547,Poli KIA,POLI-078,Sabrina Mahendra,3342934541445622,waiting,2025-01-01 09:00:00,dr. Citra
+1548,Poli KIA,POLI-911,"Galih Saptono, S.IP",1444638583062342,waiting,2025-04-27 11:00:00,dr. Andi
+1549,Poli Lansia,POLI-447,Dodo Kuswoyo,4572505591547591,done,2025-02-19 09:00:00,dr. Eka
+1550,Poli Umum,POLI-716,Nabila Lazuardi,4598736243058807,waiting,2025-02-16 18:00:00,dr. Citra
+1551,Poli KIA,POLI-796,Kanda Nainggolan,2203847464657951,waiting,2025-03-22 13:00:00,dr. Andi
+1552,Poli KIA,POLI-461,Hj. Irma Yuliarti,1029592899374230,serving,2025-03-09 16:00:00,dr. Dina
+1553,Poli KB,POLI-538,Putri Wijaya,7267741945985800,waiting,2025-01-09 09:00:00,dr. Andi
+1554,Poli Gigi,POLI-906,"Drs. Karman Susanti, S.Pd",9029489841095793,serving,2025-04-29 10:00:00,dr. Citra
+1555,Poli Lansia,POLI-853,H. Ridwan Sitorus,2005674696591409,done,2025-03-03 09:00:00,dr. Dina
+1556,Poli KB,POLI-016,Yuni Pertiwi,9969864552664139,waiting,2025-01-20 12:00:00,dr. Eka
+1557,Poli Umum,POLI-905,drg. Aisyah Ardianto,0383973731467687,done,2025-05-22 13:00:00,dr. Citra
+1558,Poli KB,POLI-240,Legawa Purwanti,5351362355069798,waiting,2025-02-19 13:00:00,dr. Andi
+1559,Poli Umum,POLI-830,"Nurul Kuswoyo, M.Farm",9942398260020992,done,2025-04-22 08:00:00,dr. Dina
+1560,Poli KB,POLI-023,Lamar Nashiruddin,5445815382327482,done,2025-01-26 15:00:00,dr. Citra
+1561,Poli Gizi,POLI-656,Lantar Winarsih,9631385903420299,waiting,2025-01-27 09:00:00,dr. Citra
+1562,Poli Umum,POLI-035,Drs. Elma Suartini,2196640114415174,waiting,2025-05-25 08:00:00,dr. Eka
+1563,Poli Gizi,POLI-066,Damu Utama,0165181554732873,done,2025-02-19 11:00:00,dr. Dina
+1564,Poli Umum,POLI-344,Tgk. Queen Safitri,2042877044507582,done,2025-04-20 13:00:00,dr. Eka
+1565,Poli Umum,POLI-218,"Rini Pratiwi, M.Farm",9412259720745854,done,2025-03-28 17:00:00,dr. Dina
+1566,Poli KB,POLI-359,Harsanto Salahudin,2866604627604658,waiting,2025-01-30 14:00:00,dr. Fajar
+1567,Poli KB,POLI-944,"Genta Anggriawan, S.E.I",9291666786282126,serving,2025-01-02 16:00:00,dr. Budi
+1568,Poli Umum,POLI-069,Praba Kusmawati,7715429881129180,serving,2025-02-06 12:00:00,dr. Eka
+1569,Poli KIA,POLI-196,"Mujur Suryono, S.Pt",0754555805084469,waiting,2025-03-10 09:00:00,dr. Eka
+1570,Poli Lansia,POLI-072,"Lembah Putra, M.Farm",5159940844665228,done,2025-01-28 13:00:00,dr. Fajar
+1571,Poli Gigi,POLI-241,Diah Hartati,7538430259669034,done,2025-01-06 09:00:00,dr. Andi
+1572,Poli Lansia,POLI-709,Kairav Lazuardi,0971820562200592,done,2025-05-03 18:00:00,dr. Budi
+1573,Poli Lansia,POLI-919,Rini Sinaga,8038184280756736,waiting,2025-02-04 15:00:00,dr. Budi
+1574,Poli Gizi,POLI-389,Eva Siregar,3184413952649001,done,2025-04-15 14:00:00,dr. Eka
+1575,Poli KB,POLI-495,Hairyanto Hartati,1047150216186874,done,2025-03-04 15:00:00,dr. Dina
+1576,Poli KIA,POLI-285,Zelaya Sitompul,5947597162997043,waiting,2025-02-16 10:00:00,dr. Dina
+1577,Poli Umum,POLI-608,T. Jamil Oktaviani,5619782822893925,done,2025-02-08 13:00:00,dr. Eka
+1578,Poli Gizi,POLI-662,"Puti Laksita, S.Farm",8150443629323200,done,2025-03-18 15:00:00,dr. Dina
+1579,Poli Gigi,POLI-911,Agus Fujiati,4680737219093430,waiting,2025-02-03 13:00:00,dr. Fajar
+1580,Poli Gizi,POLI-568,"Kacung Suryatmi, S.IP",6332611242147782,waiting,2025-05-23 14:00:00,dr. Andi
+1581,Poli KIA,POLI-636,"R. Wadi Laksmiwati, S.I.Kom",7073452000674550,serving,2025-02-22 10:00:00,dr. Andi
+1582,Poli KIA,POLI-920,"Puti Putri Firmansyah, S.Kom",4226403017103203,done,2025-01-24 09:00:00,dr. Eka
+1583,Poli Gigi,POLI-679,Ir. Kunthara Gunawan,0802443466693197,done,2025-04-26 18:00:00,dr. Fajar
+1584,Poli Gizi,POLI-864,Anita Mandala,3600063408032878,done,2025-05-30 13:00:00,dr. Andi
+1585,Poli KIA,POLI-118,"Tari Maulana, S.E.",4588560146635666,done,2025-01-06 16:00:00,dr. Dina
+1586,Poli Gizi,POLI-501,Aslijan Nainggolan,4714468299537653,done,2025-03-24 10:00:00,dr. Budi
+1587,Poli Lansia,POLI-834,"Tania Suwarno, S.Sos",3091908448022400,waiting,2025-01-18 14:00:00,dr. Andi
+1588,Poli KIA,POLI-182,Drs. Victoria Safitri,1512280148593836,done,2025-03-17 09:00:00,dr. Budi
+1589,Poli Gizi,POLI-635,"Dr. Maida Gunawan, S.E.I",6750213569936055,done,2025-05-25 10:00:00,dr. Budi
+1590,Poli Lansia,POLI-040,"Tasnim Prayoga, M.Kom.",2710738371243015,done,2025-02-06 15:00:00,dr. Citra
+1591,Poli KIA,POLI-263,"Teguh Purwanti, S.Sos",0213651339835710,done,2025-02-19 14:00:00,dr. Eka
+1592,Poli Gizi,POLI-660,"Julia Yulianti, M.Ak",5056901191825931,done,2025-01-09 11:00:00,dr. Eka
+1593,Poli Gigi,POLI-701,Taufik Zulaika,4043484989888008,done,2025-03-04 10:00:00,dr. Andi
+1594,Poli KB,POLI-320,Elvina Hidayat,1058438034350920,waiting,2025-03-19 09:00:00,dr. Fajar
+1595,Poli Umum,POLI-782,Cengkir Nainggolan,3024383804439857,done,2025-05-16 16:00:00,dr. Budi
+1596,Poli Gigi,POLI-632,Farah Nababan,5020032783819190,done,2025-04-29 09:00:00,dr. Dina
+1597,Poli Lansia,POLI-453,Hartaka Maulana,1299642506340822,done,2025-02-25 13:00:00,dr. Budi
+1598,Poli Gigi,POLI-889,Mursinin Iswahyudi,2776041445909203,waiting,2025-05-29 14:00:00,dr. Dina
+1599,Poli Gigi,POLI-930,"Drs. Lintang Pradipta, S.I.Kom",7478361455845420,serving,2025-02-08 18:00:00,dr. Andi
+1600,Poli KB,POLI-924,"Ibun Sihombing, S.Sos",1726768449998810,serving,2025-02-23 09:00:00,dr. Eka
+1601,Poli Gizi,POLI-027,"Bakiono Nasyiah, M.M.",6476394108706431,done,2025-01-14 15:00:00,dr. Fajar
+1602,Poli Umum,POLI-430,Cagak Pradipta,5044756334838383,done,2025-04-03 18:00:00,dr. Dina
+1603,Poli KIA,POLI-441,Drs. Ciaobella Pudjiastuti,2010350138304782,done,2025-05-13 10:00:00,dr. Fajar
+1604,Poli Lansia,POLI-694,Bancar Widodo,3661973569266344,waiting,2025-03-08 16:00:00,dr. Budi
+1605,Poli Lansia,POLI-893,"Elisa Nasyiah, S.Gz",5144964643402556,done,2025-01-10 08:00:00,dr. Eka
+1606,Poli KB,POLI-326,Zizi Mahendra,6216263256417765,done,2025-05-15 08:00:00,dr. Eka
+1607,Poli Umum,POLI-508,"Dt. Jatmiko Kusmawati, S.E.",0364851936421385,done,2025-03-21 12:00:00,dr. Citra
+1608,Poli Gigi,POLI-368,Zulaikha Jailani,5541055112701488,done,2025-01-10 16:00:00,dr. Fajar
+1609,Poli KIA,POLI-673,Ika Prastuti,3748970944985718,waiting,2025-01-24 10:00:00,dr. Citra
+1610,Poli Gizi,POLI-984,Restu Purwanti,5246553148831466,done,2025-05-18 14:00:00,dr. Budi
+1611,Poli KB,POLI-087,"Dr. Tirtayasa Ramadan, S.IP",5225050663663608,waiting,2025-02-27 14:00:00,dr. Eka
+1612,Poli KIA,POLI-614,Asmadi Natsir,2690671306486163,done,2025-01-27 10:00:00,dr. Fajar
+1613,Poli KIA,POLI-622,"Tgk. Ega Pradana, S.Pd",5970717069715996,waiting,2025-04-25 09:00:00,dr. Eka
+1614,Poli KB,POLI-274,"KH. Emas Sinaga, S.T.",6232620202460790,done,2025-03-23 16:00:00,dr. Fajar
+1615,Poli Gizi,POLI-698,Sadina Mansur,9043282585943948,done,2025-02-07 12:00:00,dr. Dina
+1616,Poli Lansia,POLI-516,Prabu Saputra,4100988925533794,done,2025-02-14 16:00:00,dr. Andi
+1617,Poli Gigi,POLI-741,"Drs. Yuni Prastuti, S.Farm",3509299832013830,waiting,2025-05-05 10:00:00,dr. Citra
+1618,Poli Gizi,POLI-378,Ani Pradana,9519527093112995,done,2025-03-08 12:00:00,dr. Fajar
+1619,Poli Umum,POLI-275,Olivia Dabukke,0438484508543203,done,2025-01-17 09:00:00,dr. Fajar
+1620,Poli KB,POLI-225,Empluk Astuti,7369447576869761,serving,2025-02-19 18:00:00,dr. Citra
+1621,Poli Gizi,POLI-849,Tirtayasa Iswahyudi,6425352314701457,done,2025-03-27 12:00:00,dr. Budi
+1622,Poli Umum,POLI-949,"Ani Melani, S.I.Kom",8592541535885738,done,2025-04-20 16:00:00,dr. Dina
+1623,Poli KIA,POLI-137,Sabri Handayani,6489464595836914,done,2025-01-19 14:00:00,dr. Eka
+1624,Poli KIA,POLI-689,"Kenzie Suartini, S.E.I",1340359289339150,done,2025-01-29 13:00:00,dr. Andi
+1625,Poli KB,POLI-654,Tugiman Hidayanto,7111414966650974,done,2025-02-07 09:00:00,dr. Fajar
+1626,Poli KIA,POLI-854,Vinsen Uwais,9770596196557182,done,2025-05-20 08:00:00,dr. Andi
+1627,Poli Gizi,POLI-075,"Ir. Rahman Haryanto, S.Sos",1973854043897690,serving,2025-01-05 16:00:00,dr. Eka
+1628,Poli Lansia,POLI-906,Zalindra Purnawati,7132221365284477,done,2025-02-01 18:00:00,dr. Andi
+1629,Poli KIA,POLI-974,Usyi Suartini,5692616432150320,done,2025-05-31 13:00:00,dr. Andi
+1630,Poli KIA,POLI-147,"R.M. Tirtayasa Zulaika, M.Ak",0987277454049705,done,2025-03-19 15:00:00,dr. Eka
+1631,Poli KB,POLI-912,Putu Agustina,8906776837999667,done,2025-04-18 09:00:00,dr. Citra
+1632,Poli Gizi,POLI-388,Satya Lailasari,7608127288613724,done,2025-02-05 10:00:00,dr. Eka
+1633,Poli Lansia,POLI-767,"Baktiono Puspita, M.Pd",5205490625959670,done,2025-02-11 08:00:00,dr. Eka
+1634,Poli KIA,POLI-536,Waluyo Kurniawan,5223884740699395,done,2025-01-06 08:00:00,dr. Fajar
+1635,Poli KB,POLI-011,"Tedi Melani, S.I.Kom",1440196102445787,serving,2025-02-15 17:00:00,dr. Andi
+1636,Poli Gigi,POLI-950,R.M. Kemba Puspasari,7391686238204864,waiting,2025-01-11 11:00:00,dr. Fajar
+1637,Poli KIA,POLI-159,"Joko Wacana, S.I.Kom",3801518970262094,serving,2025-04-28 15:00:00,dr. Andi
+1638,Poli KIA,POLI-424,"Adikara Sihotang, M.Ak",8035398181231653,done,2025-03-26 13:00:00,dr. Andi
+1639,Poli Gigi,POLI-976,Nilam Astuti,3655980182778425,waiting,2025-05-18 10:00:00,dr. Eka
+1640,Poli Lansia,POLI-199,Dr. Kamila Tampubolon,7287392336812532,done,2025-04-06 08:00:00,dr. Eka
+1641,Poli KB,POLI-053,"dr. Vera Puspasari, M.TI.",8464876060795182,waiting,2025-03-11 13:00:00,dr. Citra
+1642,Poli KB,POLI-145,Nabila Nurdiyanti,6738713562896238,done,2025-01-11 14:00:00,dr. Fajar
+1643,Poli Gigi,POLI-411,Dinda Oktaviani,9398868880382570,done,2025-03-26 12:00:00,dr. Citra
+1644,Poli KB,POLI-382,"Ir. Dewi Anggriawan, S.Gz",2132628707233566,done,2025-05-10 17:00:00,dr. Dina
+1645,Poli KIA,POLI-814,Ade Namaga,3282631847538303,done,2025-05-03 15:00:00,dr. Budi
+1646,Poli Gizi,POLI-916,"Dt. Prasetyo Gunarto, S.Psi",9692650663356410,waiting,2025-01-07 13:00:00,dr. Budi
+1647,Poli KIA,POLI-091,"R. Galur Mansur, S.Gz",4004909739887123,done,2025-05-24 17:00:00,dr. Eka
+1648,Poli Gigi,POLI-663,Maimunah Kurniawan,6785408031368133,done,2025-04-19 11:00:00,dr. Dina
+1649,Poli Gigi,POLI-499,"R. Salwa Puspasari, M.Pd",4815779172184244,done,2025-01-20 10:00:00,dr. Fajar
+1650,Poli KB,POLI-065,dr. Uchita Rahayu,2296805967310839,done,2025-01-27 16:00:00,dr. Andi
+1651,Poli Umum,POLI-772,Galang Sinaga,6201283160583184,serving,2025-01-01 18:00:00,dr. Fajar
+1652,Poli Lansia,POLI-377,R.M. Prasetyo Maheswara,5781694806311432,serving,2025-01-31 16:00:00,dr. Dina
+1653,Poli KB,POLI-631,Ibrani Najmudin,6641476872059247,done,2025-05-09 15:00:00,dr. Dina
+1654,Poli KB,POLI-095,"Tgk. Dodo Rahimah, M.M.",0537719408081896,done,2025-05-13 16:00:00,dr. Budi
+1655,Poli Gigi,POLI-885,"Rina Haryanti, M.Pd",8180348813755597,done,2025-03-29 11:00:00,dr. Andi
+1656,Poli Umum,POLI-734,Jarwadi Yulianti,8132836499530453,done,2025-05-07 17:00:00,dr. Budi
+1657,Poli Gigi,POLI-476,Yono Najmudin,1001097762190722,done,2025-02-12 09:00:00,dr. Fajar
+1658,Poli Umum,POLI-288,drg. Vega Yulianti,1737429429992904,waiting,2025-04-14 14:00:00,dr. Fajar
+1659,Poli KB,POLI-649,Carla Mahendra,0950683938333458,done,2025-05-13 16:00:00,dr. Eka
+1660,Poli Gigi,POLI-127,"Dt. Caraka Gunarto, S.Kom",8554976870878845,done,2025-01-11 10:00:00,dr. Fajar
+1661,Poli Umum,POLI-789,Pranata Habibi,0532895080538288,done,2025-02-21 17:00:00,dr. Budi
+1662,Poli Gizi,POLI-374,"Queen Kusumo, S.H.",2506005889879552,done,2025-04-01 17:00:00,dr. Dina
+1663,Poli KB,POLI-740,Rahmat Suryatmi,2346370341957009,done,2025-03-17 14:00:00,dr. Budi
+1664,Poli Umum,POLI-739,Dr. Lintang Zulaika,8556763118171234,done,2025-02-08 12:00:00,dr. Citra
+1665,Poli Gigi,POLI-770,Drs. Puji Simbolon,9917606863609192,done,2025-03-23 18:00:00,dr. Citra
+1666,Poli Gigi,POLI-558,"Cut Vivi Firgantoro, M.Kom.",0013261987715451,serving,2025-01-09 09:00:00,dr. Andi
+1667,Poli KIA,POLI-691,"Tedi Hardiansyah, S.H.",8910961120151487,waiting,2025-04-01 13:00:00,dr. Dina
+1668,Poli Umum,POLI-108,"Jayadi Astuti, M.Farm",2517149381483198,done,2025-02-13 12:00:00,dr. Dina
+1669,Poli KB,POLI-492,Uda Maryati,0266529935509487,done,2025-02-27 14:00:00,dr. Fajar
+1670,Poli KB,POLI-557,"Dt. Aris Santoso, M.Pd",2569980830525524,done,2025-05-09 10:00:00,dr. Fajar
+1671,Poli KIA,POLI-745,"Tari Lailasari, S.Psi",3761296375786173,done,2025-05-22 10:00:00,dr. Fajar
+1672,Poli Umum,POLI-644,Empluk Mayasari,1425813218868427,serving,2025-05-09 08:00:00,dr. Andi
+1673,Poli Umum,POLI-985,Bagus Utami,2253651421589329,done,2025-05-03 14:00:00,dr. Citra
+1674,Poli Gizi,POLI-875,Setya Padmasari,2072876344243930,waiting,2025-04-07 10:00:00,dr. Andi
+1675,Poli Gizi,POLI-636,Diah Nababan,9032481075184967,done,2025-02-28 16:00:00,dr. Fajar
+1676,Poli Umum,POLI-871,Mursinin Puspita,3040257487299895,done,2025-03-31 12:00:00,dr. Eka
+1677,Poli Gigi,POLI-683,Ayu Maheswara,1810986545368657,done,2025-05-25 17:00:00,dr. Budi
+1678,Poli KIA,POLI-586,"R.A. Mila Nainggolan, S.Pd",3179389554124377,done,2025-02-05 11:00:00,dr. Andi
+1679,Poli Lansia,POLI-789,Maras Hastuti,2008556010835136,done,2025-04-07 16:00:00,dr. Andi
+1680,Poli KIA,POLI-150,Uli Narpati,1350234033392587,waiting,2025-04-26 08:00:00,dr. Andi
+1681,Poli Lansia,POLI-437,"R. Eli Wacana, S.Pt",4480289494074698,done,2025-02-18 14:00:00,dr. Dina
+1682,Poli Gigi,POLI-647,Drs. Rini Jailani,6849556784122993,serving,2025-04-27 09:00:00,dr. Budi
+1683,Poli Lansia,POLI-309,Ade Hidayat,1865844734898261,done,2025-01-17 10:00:00,dr. Eka
+1684,Poli Lansia,POLI-612,"drg. Jayadi Sinaga, M.Kom.",1557534323583472,done,2025-01-13 09:00:00,dr. Fajar
+1685,Poli Umum,POLI-550,"Tgk. Winda Hartati, S.H.",0808737808708751,done,2025-02-07 18:00:00,dr. Budi
+1686,Poli Gigi,POLI-882,Nugraha Novitasari,4613104404663518,done,2025-04-07 15:00:00,dr. Fajar
+1687,Poli Umum,POLI-050,"Mulya Purnawati, S.H.",7997811132470014,done,2025-04-14 14:00:00,dr. Andi
+1688,Poli KB,POLI-259,Shania Mulyani,4333509668391735,done,2025-02-14 09:00:00,dr. Citra
+1689,Poli KIA,POLI-541,Kanda Nainggolan,4608965682226790,serving,2025-05-19 09:00:00,dr. Andi
+1690,Poli Umum,POLI-105,drg. Danang Hartati,1902465585990136,waiting,2025-01-18 16:00:00,dr. Dina
+1691,Poli Gigi,POLI-750,Ir. Kani Mustofa,2768689510201873,done,2025-03-21 09:00:00,dr. Dina
+1692,Poli Gizi,POLI-397,Hamima Winarno,4528760681099406,serving,2025-01-05 10:00:00,dr. Budi
+1693,Poli KIA,POLI-262,Ir. Febi Damanik,0331810096053927,done,2025-02-09 09:00:00,dr. Eka
+1694,Poli Umum,POLI-005,Dadap Permadi,5878602557642118,done,2025-03-19 10:00:00,dr. Eka
+1695,Poli Gigi,POLI-002,"Indah Manullang, S.H.",7171334869991867,done,2025-02-09 18:00:00,dr. Citra
+1696,Poli KIA,POLI-716,Martaka Lestari,4722078856921736,waiting,2025-05-30 11:00:00,dr. Andi
+1697,Poli Umum,POLI-300,"Dt. Cengkir Anggriawan, S.Farm",8532609100934530,done,2025-04-13 10:00:00,dr. Citra
+1698,Poli KIA,POLI-693,Bagya Lazuardi,2075720995662353,done,2025-01-09 11:00:00,dr. Andi
+1699,Poli Umum,POLI-066,"Langgeng Prakasa, S.E.",1544013337782103,done,2025-01-06 18:00:00,dr. Andi
+1700,Poli KB,POLI-240,"Hj. Novi Saputra, S.E.",6563773402997162,serving,2025-04-03 18:00:00,dr. Budi
+1701,Poli KB,POLI-627,Rahmi Susanti,5510784638341659,done,2025-02-07 16:00:00,dr. Budi
+1702,Poli Lansia,POLI-410,Ir. Kamidin Siregar,6107589749962395,done,2025-02-18 12:00:00,dr. Citra
+1703,Poli Umum,POLI-607,Patricia Megantara,3187679822311908,done,2025-02-01 09:00:00,dr. Budi
+1704,Poli Gizi,POLI-846,Tgk. Opan Anggraini,0561636147543948,done,2025-02-07 17:00:00,dr. Fajar
+1705,Poli Lansia,POLI-329,Jaga Budiman,5618093430075191,done,2025-02-11 13:00:00,dr. Fajar
+1706,Poli Gizi,POLI-618,"Hasta Lazuardi, S.H.",4603368154862329,done,2025-05-11 09:00:00,dr. Citra
+1707,Poli Gizi,POLI-571,Icha Permadi,5337022423880366,done,2025-04-18 09:00:00,dr. Dina
+1708,Poli Gizi,POLI-134,"T. Naradi Laksita, S.Ked",4512681707986062,waiting,2025-05-03 08:00:00,dr. Eka
+1709,Poli Lansia,POLI-418,"H. Balangga Pratiwi, S.Ked",2637800934855921,done,2025-05-11 09:00:00,dr. Eka
+1710,Poli Umum,POLI-006,Gara Padmasari,6090553065875408,done,2025-04-29 13:00:00,dr. Dina
+1711,Poli Gigi,POLI-643,Cut Puput Hassanah,6856037194202391,waiting,2025-05-06 16:00:00,dr. Citra
+1712,Poli Lansia,POLI-013,Makara Hutapea,2579121793097695,serving,2025-04-10 13:00:00,dr. Andi
+1713,Poli KB,POLI-457,Paulin Maryadi,2906965791356048,serving,2025-02-12 15:00:00,dr. Fajar
+1714,Poli KB,POLI-822,"Drs. Harjo Sihotang, M.Kom.",5865925708501022,done,2025-05-03 09:00:00,dr. Eka
+1715,Poli KB,POLI-208,Edison Mayasari,1765917188720190,done,2025-04-03 14:00:00,dr. Citra
+1716,Poli Lansia,POLI-258,"Irsad Marpaung, M.M.",9465982672119805,serving,2025-03-05 13:00:00,dr. Eka
+1717,Poli KB,POLI-799,Lurhur Adriansyah,2559993115201453,done,2025-01-26 15:00:00,dr. Eka
+1718,Poli KIA,POLI-707,Ana Andriani,0685835780812342,done,2025-02-26 17:00:00,dr. Budi
+1719,Poli Gizi,POLI-261,R. Kasiran Astuti,7381304055848620,done,2025-03-10 13:00:00,dr. Andi
+1720,Poli Gigi,POLI-323,Samiah Sihotang,3517534287833738,done,2025-04-29 11:00:00,dr. Fajar
+1721,Poli Gizi,POLI-893,Harjasa Agustina,6085834810446694,done,2025-03-28 08:00:00,dr. Eka
+1722,Poli Gizi,POLI-799,Suci Hakim,8663796829609275,done,2025-03-14 14:00:00,dr. Dina
+1723,Poli KIA,POLI-958,Eko Samosir,0490150449963819,done,2025-04-03 11:00:00,dr. Dina
+1724,Poli Lansia,POLI-068,T. Usman Siregar,7361358335731820,done,2025-03-10 18:00:00,dr. Dina
+1725,Poli KIA,POLI-868,Purwadi Sirait,0399380728576702,done,2025-02-22 11:00:00,dr. Citra
+1726,Poli Umum,POLI-685,"Dt. Darmaji Hasanah, S.Farm",5236798759984013,done,2025-05-01 08:00:00,dr. Citra
+1727,Poli Lansia,POLI-859,Patricia Mandala,2145679894538602,serving,2025-01-16 16:00:00,dr. Citra
+1728,Poli Umum,POLI-113,"Dr. Yuliana Suryatmi, S.Pd",5029363647312632,done,2025-05-24 14:00:00,dr. Eka
+1729,Poli KB,POLI-486,"Kayla Utami, S.T.",1087015561036880,waiting,2025-05-09 10:00:00,dr. Budi
+1730,Poli Lansia,POLI-758,Makara Putra,4372927707987744,done,2025-05-01 10:00:00,dr. Fajar
+1731,Poli Gizi,POLI-215,R.A. Novi Nababan,1066675426950377,done,2025-03-14 14:00:00,dr. Citra
+1732,Poli KB,POLI-281,Maya Setiawan,7440703405927340,done,2025-01-19 08:00:00,dr. Eka
+1733,Poli Umum,POLI-901,Tira Permadi,6205179744118103,waiting,2025-01-29 13:00:00,dr. Fajar
+1734,Poli Gizi,POLI-791,Clara Yuniar,8065242617613102,done,2025-04-09 18:00:00,dr. Andi
+1735,Poli Gigi,POLI-493,Elvina Mahendra,8288139755154929,waiting,2025-04-24 11:00:00,dr. Citra
+1736,Poli Umum,POLI-371,Catur Tampubolon,3955284817954008,waiting,2025-01-05 17:00:00,dr. Andi
+1737,Poli Gigi,POLI-374,Jayeng Januar,7259087690726441,done,2025-04-25 18:00:00,dr. Citra
+1738,Poli Gizi,POLI-300,Maryanto Utami,5213568036706710,done,2025-05-13 18:00:00,dr. Citra
+1739,Poli Umum,POLI-972,Hadi Uyainah,4391645757440072,done,2025-01-29 17:00:00,dr. Andi
+1740,Poli Umum,POLI-114,Aslijan Nasyidah,5112796990277641,done,2025-02-09 18:00:00,dr. Fajar
+1741,Poli Lansia,POLI-437,Danang Suartini,3931716740290135,serving,2025-03-04 11:00:00,dr. Fajar
+1742,Poli Umum,POLI-332,Timbul Usamah,6643286595795101,done,2025-04-18 10:00:00,dr. Dina
+1743,Poli Gigi,POLI-338,Zahra Wasita,0209849178462974,done,2025-03-16 17:00:00,dr. Fajar
+1744,Poli Umum,POLI-884,Purwadi Napitupulu,5609212454241909,done,2025-03-06 12:00:00,dr. Citra
+1745,Poli Umum,POLI-394,Bakijan Fujiati,1448431862411437,done,2025-03-20 16:00:00,dr. Budi
+1746,Poli KB,POLI-592,"Jabal Samosir, S.Farm",5015503600209951,done,2025-01-15 11:00:00,dr. Fajar
+1747,Poli Gizi,POLI-554,Putri Sirait,0183017898360856,waiting,2025-02-14 11:00:00,dr. Citra
+1748,Poli Lansia,POLI-444,Prabawa Tamba,0736981730854713,done,2025-02-04 14:00:00,dr. Fajar
+1749,Poli Lansia,POLI-500,Hardana Hartati,9594599811366767,done,2025-02-08 17:00:00,dr. Andi
+1750,Poli KIA,POLI-355,Ira Dabukke,2390429579846629,done,2025-01-05 09:00:00,dr. Fajar
+1751,Poli Umum,POLI-503,Drs. Farhunnisa Haryanti,9452216255720472,done,2025-01-27 12:00:00,dr. Fajar
+1752,Poli Lansia,POLI-837,Sarah Lazuardi,4692724285904083,waiting,2025-05-17 12:00:00,dr. Andi
+1753,Poli Gizi,POLI-066,Heryanto Yuniar,2921502351539573,done,2025-03-09 11:00:00,dr. Andi
+1754,Poli Lansia,POLI-509,KH. Ajiman Halimah,4921740315649937,waiting,2025-04-21 14:00:00,dr. Andi
+1755,Poli KIA,POLI-139,Tgk. Puji Prakasa,4322988614601774,done,2025-05-28 17:00:00,dr. Fajar
+1756,Poli KIA,POLI-586,Laksana Laksita,8697334822389707,serving,2025-05-29 18:00:00,dr. Andi
+1757,Poli Gizi,POLI-997,R.A. Mutia Gunarto,5192123011659959,done,2025-02-08 17:00:00,dr. Fajar
+1758,Poli KIA,POLI-781,Himawan Pratiwi,3202128569204960,done,2025-03-11 16:00:00,dr. Citra
+1759,Poli Umum,POLI-864,"Harja Haryanto, S.H.",7900321066967959,done,2025-04-20 09:00:00,dr. Dina
+1760,Poli KB,POLI-292,Agus Wasita,7412972782727322,done,2025-01-28 08:00:00,dr. Dina
+1761,Poli Gizi,POLI-283,Drs. Diah Andriani,4754703316046533,waiting,2025-03-24 15:00:00,dr. Budi
+1762,Poli Gizi,POLI-727,Ilsa Ardianto,5853383831163718,done,2025-01-27 12:00:00,dr. Fajar
+1763,Poli KIA,POLI-227,"Farhunnisa Waluyo, S.Kom",4867009387364594,done,2025-03-23 17:00:00,dr. Andi
+1764,Poli KIA,POLI-442,Gatra Wijayanti,9239259281735602,serving,2025-04-30 12:00:00,dr. Budi
+1765,Poli Umum,POLI-239,Ibrani Kurniawan,5738128100991429,waiting,2025-05-22 08:00:00,dr. Fajar
+1766,Poli Lansia,POLI-815,Puti Salwa Agustina,8242537373581240,done,2025-01-30 18:00:00,dr. Citra
+1767,Poli Gizi,POLI-841,"KH. Hendra Maheswara, S.Ked",4785646749582354,done,2025-02-25 08:00:00,dr. Citra
+1768,Poli Gizi,POLI-666,Ika Tampubolon,2635573106691819,waiting,2025-01-29 10:00:00,dr. Citra
+1769,Poli KIA,POLI-613,Nova Firmansyah,7453334555482362,waiting,2025-05-11 17:00:00,dr. Citra
+1770,Poli Gizi,POLI-918,"dr. Hasta Siregar, M.Ak",5918406340518158,done,2025-03-21 14:00:00,dr. Dina
+1771,Poli Gizi,POLI-339,Amalia Prasetya,2451563817587220,done,2025-01-24 17:00:00,dr. Fajar
+1772,Poli KIA,POLI-130,Mala Prabowo,7128910317444219,waiting,2025-04-28 10:00:00,dr. Citra
+1773,Poli KB,POLI-537,Ami Salahudin,0876869885348054,done,2025-02-26 14:00:00,dr. Eka
+1774,Poli Umum,POLI-681,Betania Prakasa,7992722837925305,waiting,2025-05-31 14:00:00,dr. Budi
+1775,Poli Gizi,POLI-147,Tami Melani,3511720791187417,serving,2025-03-29 14:00:00,dr. Dina
+1776,Poli Gigi,POLI-410,"Cornelia Novitasari, M.Farm",1290655458108852,done,2025-03-01 18:00:00,dr. Budi
+1777,Poli Gizi,POLI-242,"H. Mahfud Maheswara, M.Farm",8711114784234798,serving,2025-03-21 18:00:00,dr. Citra
+1778,Poli Umum,POLI-276,Tgk. Agnes Melani,6660148815765900,done,2025-02-11 13:00:00,dr. Dina
+1779,Poli Lansia,POLI-956,"Balidin Nasyidah, S.E.I",7195591461032628,done,2025-04-07 17:00:00,dr. Eka
+1780,Poli KB,POLI-561,Pangeran Pratiwi,3327575992502016,done,2025-03-02 17:00:00,dr. Dina
+1781,Poli Lansia,POLI-514,Bancar Winarno,6147173106489228,done,2025-01-13 13:00:00,dr. Budi
+1782,Poli Gigi,POLI-917,"Indah Laksmiwati, S.Gz",2280833598488631,waiting,2025-05-15 18:00:00,dr. Andi
+1783,Poli KB,POLI-208,Cahyo Napitupulu,8975344589398644,done,2025-03-25 13:00:00,dr. Eka
+1784,Poli KIA,POLI-085,Agnes Pertiwi,1207275082854601,done,2025-01-15 12:00:00,dr. Budi
+1785,Poli Lansia,POLI-494,Natalia Kusmawati,6055374876864609,done,2025-05-30 08:00:00,dr. Andi
+1786,Poli Lansia,POLI-970,Diah Pratama,7571575329163012,done,2025-02-21 18:00:00,dr. Dina
+1787,Poli KB,POLI-877,"Dt. Jaka Wahyudin, S.Farm",4314001132688361,done,2025-01-08 09:00:00,dr. Budi
+1788,Poli Gigi,POLI-732,Kiandra Kuswoyo,0258685222460422,waiting,2025-05-17 16:00:00,dr. Fajar
+1789,Poli Gigi,POLI-298,Marsito Halimah,4282549851548864,waiting,2025-02-18 09:00:00,dr. Andi
+1790,Poli KIA,POLI-569,Pangeran Hassanah,3896775719246652,done,2025-03-11 15:00:00,dr. Dina
+1791,Poli Gigi,POLI-129,Hairyanto Firmansyah,2641554110816367,done,2025-04-13 18:00:00,dr. Dina
+1792,Poli KB,POLI-499,"Sutan Cahyadi Saefullah, S.Pt",6204567255213178,done,2025-04-22 14:00:00,dr. Citra
+1793,Poli Umum,POLI-919,"Tgk. Mahdi Hakim, S.Psi",7832432873918188,done,2025-02-19 13:00:00,dr. Citra
+1794,Poli Umum,POLI-655,"Dirja Kusmawati, M.Farm",7140740496908069,waiting,2025-04-12 09:00:00,dr. Budi
+1795,Poli Umum,POLI-784,"Ir. Respati Purwanti, M.Ak",5906275320046754,done,2025-05-23 18:00:00,dr. Citra
+1796,Poli KB,POLI-478,Pranata Novitasari,7574418172537155,waiting,2025-05-23 15:00:00,dr. Citra
+1797,Poli KIA,POLI-796,Hj. Dian Mulyani,0165090643361168,done,2025-04-27 13:00:00,dr. Eka
+1798,Poli Lansia,POLI-777,"Lasmanto Budiman, S.T.",9721995197412014,done,2025-02-05 14:00:00,dr. Eka
+1799,Poli Umum,POLI-085,"dr. Jinawi Halim, S.E.I",7401058618416044,done,2025-01-13 16:00:00,dr. Citra
+1800,Poli Gigi,POLI-156,Uchita Kusmawati,5969341335692909,done,2025-05-17 17:00:00,dr. Dina
+1801,Poli Umum,POLI-698,Nilam Handayani,7567818257706096,waiting,2025-03-14 09:00:00,dr. Citra
+1802,Poli KIA,POLI-394,"Sutan Muhammad Yuliarti, S.I.Kom",6244415143623658,done,2025-05-20 10:00:00,dr. Budi
+1803,Poli Umum,POLI-487,Diana Utama,2454626554855696,done,2025-03-01 16:00:00,dr. Citra
+1804,Poli KB,POLI-943,Hj. Jamalia Hutapea,9863128981963900,done,2025-03-05 17:00:00,dr. Eka
+1805,Poli KIA,POLI-955,"Cut Siti Yuniar, M.Kom.",5200748988594398,done,2025-05-22 11:00:00,dr. Andi
+1806,Poli KB,POLI-744,Almira Pradana,1252048317801468,waiting,2025-01-07 12:00:00,dr. Fajar
+1807,Poli Lansia,POLI-430,"Yuni Ardianto, M.Kom.",8838920066525569,waiting,2025-02-13 15:00:00,dr. Fajar
+1808,Poli KB,POLI-780,Laila Riyanti,7728259697625137,done,2025-03-24 13:00:00,dr. Budi
+1809,Poli Gizi,POLI-961,Empluk Najmudin,2520189760961719,serving,2025-01-12 13:00:00,dr. Fajar
+1810,Poli Umum,POLI-966,"drg. Prakosa Rajata, S.E.",5167587063178399,done,2025-03-31 12:00:00,dr. Budi
+1811,Poli KB,POLI-304,Harto Yulianti,7817356363428846,done,2025-02-06 15:00:00,dr. Dina
+1812,Poli Gigi,POLI-945,"Tgk. Budi Hariyah, S.Kom",6589869485561717,done,2025-05-30 11:00:00,dr. Citra
+1813,Poli Umum,POLI-644,"dr. Victoria Suryatmi, S.E.",6333994272733310,done,2025-03-28 09:00:00,dr. Andi
+1814,Poli Gizi,POLI-814,Shania Pranowo,6080235230407510,done,2025-04-03 12:00:00,dr. Fajar
+1815,Poli Umum,POLI-160,Yance Sitorus,9408313945109524,waiting,2025-03-07 09:00:00,dr. Citra
+1816,Poli Lansia,POLI-305,Dewi Suryono,8608550661985489,waiting,2025-01-22 09:00:00,dr. Andi
+1817,Poli Gigi,POLI-990,Garang Suwarno,1935604085764597,done,2025-05-05 11:00:00,dr. Dina
+1818,Poli Gigi,POLI-684,Aisyah Astuti,2517194638948626,done,2025-03-12 17:00:00,dr. Budi
+1819,Poli Lansia,POLI-725,Hendri Pratama,9101379838188838,done,2025-02-28 14:00:00,dr. Fajar
+1820,Poli KB,POLI-641,Puti Siregar,5470201897000203,done,2025-01-21 17:00:00,dr. Fajar
+1821,Poli KB,POLI-284,Karimah Anggraini,3565045082045428,done,2025-03-11 10:00:00,dr. Andi
+1822,Poli KIA,POLI-794,Tina Wacana,6399080154172259,done,2025-02-26 10:00:00,dr. Eka
+1823,Poli KB,POLI-220,Ikin Ardianto,8862918854951282,done,2025-02-16 15:00:00,dr. Budi
+1824,Poli Lansia,POLI-997,"Aurora Natsir, S.Sos",6889379879439318,done,2025-02-21 09:00:00,dr. Citra
+1825,Poli Umum,POLI-230,Prima Gunarto,5913517761669896,waiting,2025-02-15 13:00:00,dr. Dina
+1826,Poli KIA,POLI-072,Mahmud Ramadan,5085685889781223,waiting,2025-02-15 16:00:00,dr. Budi
+1827,Poli Gizi,POLI-112,Dalimin Mansur,5315675449362885,done,2025-03-27 12:00:00,dr. Citra
+1828,Poli Umum,POLI-708,KH. Cahyadi Setiawan,2602943853222352,done,2025-04-06 14:00:00,dr. Dina
+1829,Poli KIA,POLI-044,Parman Sinaga,7410003905656201,done,2025-02-27 11:00:00,dr. Citra
+1830,Poli Gizi,POLI-793,"Cut Farah Hassanah, S.E.",7845817305277634,waiting,2025-01-27 08:00:00,dr. Fajar
+1831,Poli KB,POLI-709,"Dr. Rusman Prasasta, S.E.I",2167495495681068,waiting,2025-05-01 10:00:00,dr. Dina
+1832,Poli Gigi,POLI-497,"H. Balamantri Ardianto, M.Kom.",2134930637901291,done,2025-03-20 15:00:00,dr. Andi
+1833,Poli KIA,POLI-154,Marsito Manullang,9978182119486567,waiting,2025-03-29 16:00:00,dr. Andi
+1834,Poli Gigi,POLI-569,"Tgk. Estiono Mandasari, S.E.I",8003093310747393,waiting,2025-03-11 09:00:00,dr. Eka
+1835,Poli Gizi,POLI-560,Himawan Mandasari,6957723547135178,done,2025-02-01 12:00:00,dr. Fajar
+1836,Poli KB,POLI-733,Prayitna Hassanah,0884482226802619,serving,2025-04-12 10:00:00,dr. Dina
+1837,Poli Gigi,POLI-774,"Hani Santoso, S.Ked",0438645337604257,waiting,2025-01-06 10:00:00,dr. Citra
+1838,Poli Gizi,POLI-923,"dr. Kenari Safitri, S.E.",3628406392986942,serving,2025-02-27 14:00:00,dr. Andi
+1839,Poli KIA,POLI-017,"Dewi Prakasa, S.Gz",5733285973418243,done,2025-05-19 09:00:00,dr. Andi
+1840,Poli Lansia,POLI-206,Umi Winarno,6704374472355828,done,2025-04-22 12:00:00,dr. Dina
+1841,Poli Lansia,POLI-273,"Ir. Vanesa Mangunsong, S.Kom",6849041214971710,done,2025-03-01 16:00:00,dr. Andi
+1842,Poli Umum,POLI-053,Kala Pranowo,1486976755173300,done,2025-05-02 11:00:00,dr. Fajar
+1843,Poli KB,POLI-620,Maida Rahayu,2344494721814165,waiting,2025-01-29 10:00:00,dr. Andi
+1844,Poli Lansia,POLI-661,R. Malika Hutagalung,6205059405134309,done,2025-01-03 13:00:00,dr. Citra
+1845,Poli Umum,POLI-262,Jane Mahendra,4410561154504070,done,2025-04-22 13:00:00,dr. Fajar
+1846,Poli KB,POLI-808,"Cemeti Wijayanti, S.Gz",7381387849924298,done,2025-02-02 09:00:00,dr. Eka
+1847,Poli KIA,POLI-403,Hj. Kamaria Hutapea,3051548495674836,done,2025-03-30 15:00:00,dr. Budi
+1848,Poli KIA,POLI-831,Luluh Hutapea,5099832450532812,serving,2025-01-08 12:00:00,dr. Fajar
+1849,Poli KB,POLI-777,"R. Kani Hartati, S.E.I",2836620366364561,done,2025-01-12 09:00:00,dr. Andi
+1850,Poli Lansia,POLI-084,Qori Simbolon,3506623712055819,done,2025-02-19 11:00:00,dr. Citra
+1851,Poli Gigi,POLI-133,Edi Damanik,5591917811848539,done,2025-03-21 14:00:00,dr. Budi
+1852,Poli KB,POLI-746,Ivan Winarsih,9892825003450990,serving,2025-04-22 13:00:00,dr. Dina
+1853,Poli Gigi,POLI-601,"Jessica Andriani, S.I.Kom",3503995148024808,done,2025-02-23 10:00:00,dr. Eka
+1854,Poli Gigi,POLI-534,Ira Puspasari,3825585030489215,done,2025-03-19 10:00:00,dr. Eka
+1855,Poli KB,POLI-969,Putri Rahayu,9458989840740078,done,2025-02-12 18:00:00,dr. Eka
+1856,Poli KB,POLI-904,Ratna Laksita,6136603350555633,serving,2025-02-05 09:00:00,dr. Budi
+1857,Poli Lansia,POLI-492,Diana Melani,2871458692156248,done,2025-04-06 13:00:00,dr. Budi
+1858,Poli Umum,POLI-915,"Drajat Hidayat, S.E.",7051317790513632,serving,2025-03-03 12:00:00,dr. Budi
+1859,Poli Gigi,POLI-665,"Azalea Firmansyah, S.IP",6896372055646038,done,2025-02-17 14:00:00,dr. Budi
+1860,Poli Lansia,POLI-835,Surya Pradana,2466509438042777,serving,2025-04-25 15:00:00,dr. Citra
+1861,Poli KIA,POLI-595,"Jessica Sinaga, M.Farm",9012554999756853,done,2025-01-22 17:00:00,dr. Eka
+1862,Poli Umum,POLI-381,Wisnu Firmansyah,8257610865224966,done,2025-02-27 13:00:00,dr. Budi
+1863,Poli Gigi,POLI-665,"Amalia Pudjiastuti, S.Pt",2465758675281080,serving,2025-04-27 15:00:00,dr. Dina
+1864,Poli KIA,POLI-486,Sakura Sihombing,5771697998795874,done,2025-01-29 17:00:00,dr. Dina
+1865,Poli Gizi,POLI-849,Tiara Sihombing,2651265304464008,done,2025-01-11 14:00:00,dr. Fajar
+1866,Poli KIA,POLI-594,Ophelia Hidayat,1982045634438361,done,2025-02-19 16:00:00,dr. Budi
+1867,Poli KIA,POLI-713,Mahesa Waluyo,0381390506666711,serving,2025-02-18 14:00:00,dr. Andi
+1868,Poli KB,POLI-057,Kasiyah Utami,0186943636925254,waiting,2025-04-10 12:00:00,dr. Budi
+1869,Poli Lansia,POLI-713,Yulia Napitupulu,7074075780465748,done,2025-05-13 18:00:00,dr. Fajar
+1870,Poli Gigi,POLI-478,Cahyono Lestari,5731656483686134,done,2025-03-05 08:00:00,dr. Andi
+1871,Poli KIA,POLI-308,dr. Najwa Prasetya,6850347485589673,done,2025-03-17 15:00:00,dr. Dina
+1872,Poli KIA,POLI-878,Bakiman Purwanti,1744752929567681,waiting,2025-04-11 11:00:00,dr. Andi
+1873,Poli KB,POLI-421,Lembah Anggraini,7331533606688332,waiting,2025-03-27 13:00:00,dr. Eka
+1874,Poli Umum,POLI-354,Emas Suryono,4153888780005795,serving,2025-05-30 17:00:00,dr. Fajar
+1875,Poli KB,POLI-351,Virman Saefullah,4137237161003182,serving,2025-04-01 17:00:00,dr. Eka
+1876,Poli Umum,POLI-021,Utama Sihotang,1440974067538777,serving,2025-01-03 12:00:00,dr. Citra
+1877,Poli KIA,POLI-309,Bambang Anggraini,5773458962739946,waiting,2025-02-20 10:00:00,dr. Fajar
+1878,Poli Gigi,POLI-037,Drs. Harjasa Mandasari,5077822027591242,done,2025-01-06 16:00:00,dr. Andi
+1879,Poli KB,POLI-324,"Tugiman Susanti, M.TI.",3964578829476779,waiting,2025-05-23 16:00:00,dr. Andi
+1880,Poli Umum,POLI-795,Aslijan Uwais,1580566967101112,done,2025-04-18 11:00:00,dr. Budi
+1881,Poli Gizi,POLI-435,Indah Nurdiyanti,1771300237250055,done,2025-02-20 09:00:00,dr. Budi
+1882,Poli Umum,POLI-902,"Bahuraksa Pratiwi, M.Farm",5878200074575087,done,2025-02-21 10:00:00,dr. Andi
+1883,Poli Lansia,POLI-447,"Kemal Wibowo, S.Ked",8360452418689042,done,2025-05-25 10:00:00,dr. Dina
+1884,Poli Umum,POLI-733,"Ganjaran Rahayu, S.Gz",8550029416415689,done,2025-01-14 16:00:00,dr. Dina
+1885,Poli Gizi,POLI-068,Farah Mardhiyah,8298975361744414,done,2025-01-30 15:00:00,dr. Fajar
+1886,Poli KB,POLI-506,Tasdik Putra,2464539372704896,done,2025-05-07 15:00:00,dr. Fajar
+1887,Poli Lansia,POLI-414,Ir. Ibrahim Maryadi,9832779101109616,done,2025-01-04 12:00:00,dr. Andi
+1888,Poli Umum,POLI-540,Victoria Rajasa,8115585205173301,done,2025-05-28 17:00:00,dr. Andi
+1889,Poli Lansia,POLI-001,"Dr. Empluk Hardiansyah, S.E.I",7575575800102734,waiting,2025-05-19 17:00:00,dr. Dina
+1890,Poli KIA,POLI-883,Rina Yuniar,0928739385865994,done,2025-03-04 18:00:00,dr. Budi
+1891,Poli Gigi,POLI-556,T. Hartaka Utami,1520944000586046,done,2025-03-05 15:00:00,dr. Eka
+1892,Poli KIA,POLI-623,Cindy Pradipta,9054442889979121,done,2025-03-07 15:00:00,dr. Dina
+1893,Poli Gizi,POLI-540,"Gawati Oktaviani, M.TI.",3812522536966228,done,2025-04-01 11:00:00,dr. Andi
+1894,Poli KB,POLI-451,Hasta Adriansyah,4513254417112802,waiting,2025-02-27 08:00:00,dr. Fajar
+1895,Poli Lansia,POLI-044,"Siska Sirait, S.Farm",1256967001306409,done,2025-02-13 18:00:00,dr. Budi
+1896,Poli KB,POLI-208,Ibun Pratiwi,5479717485570848,waiting,2025-05-30 16:00:00,dr. Citra
+1897,Poli KIA,POLI-575,Dt. Bakiadi Nasyidah,5213028660898180,done,2025-02-27 12:00:00,dr. Andi
+1898,Poli KB,POLI-156,R. Dalima Mandasari,7188365353758810,done,2025-03-18 08:00:00,dr. Fajar
+1899,Poli KIA,POLI-659,Dr. Kamaria Lazuardi,2552094199773489,done,2025-01-14 13:00:00,dr. Budi
+1900,Poli KB,POLI-183,"Tgk. Putri Iswahyudi, S.I.Kom",2711848111717711,waiting,2025-04-11 12:00:00,dr. Andi
+1901,Poli Umum,POLI-390,"Novi Yulianti, S.E.I",8198376149095348,done,2025-05-30 09:00:00,dr. Andi
+1902,Poli KIA,POLI-921,Aurora Prasetyo,1216173723307045,serving,2025-05-12 18:00:00,dr. Citra
+1903,Poli KB,POLI-527,"Dr. Rahayu Saptono, S.Pt",6082673624930041,done,2025-04-27 14:00:00,dr. Citra
+1904,Poli Lansia,POLI-159,dr. Harsaya Natsir,4831590261775849,done,2025-03-20 14:00:00,dr. Citra
+1905,Poli Gizi,POLI-270,"R. Hana Najmudin, M.Farm",3084286301606256,done,2025-01-11 09:00:00,dr. Dina
+1906,Poli KIA,POLI-311,Tania Maulana,9229054098390043,done,2025-04-15 09:00:00,dr. Citra
+1907,Poli KIA,POLI-131,"Carub Wacana, S.Psi",4215818347030254,done,2025-01-05 18:00:00,dr. Fajar
+1908,Poli Gigi,POLI-116,Shakila Haryanto,2536309414849291,waiting,2025-04-17 13:00:00,dr. Fajar
+1909,Poli KB,POLI-540,Farhunnisa Hutasoit,8761007406507302,serving,2025-03-18 14:00:00,dr. Budi
+1910,Poli Gigi,POLI-021,Baktiono Sihombing,3329442424227893,done,2025-01-04 09:00:00,dr. Dina
+1911,Poli Lansia,POLI-492,"Galak Maryati, S.Kom",0746157664065909,done,2025-05-02 17:00:00,dr. Citra
+1912,Poli Umum,POLI-761,"Hendra Kusumo, M.M.",2292950495365757,done,2025-02-01 12:00:00,dr. Dina
+1913,Poli Lansia,POLI-981,Betania Anggriawan,0003846308793615,done,2025-05-11 16:00:00,dr. Budi
+1914,Poli Lansia,POLI-470,Ratna Suartini,9968483769506978,done,2025-04-01 11:00:00,dr. Eka
+1915,Poli KB,POLI-142,Shania Wastuti,8973029550222958,done,2025-03-19 17:00:00,dr. Fajar
+1916,Poli KB,POLI-088,Restu Widiastuti,1232413783803439,done,2025-02-20 10:00:00,dr. Eka
+1917,Poli Lansia,POLI-306,Bagya Wibowo,7846394269330579,done,2025-05-26 10:00:00,dr. Budi
+1918,Poli Gizi,POLI-355,"R.A. Ratih Pangestu, S.H.",4000212601192725,waiting,2025-02-25 13:00:00,dr. Citra
+1919,Poli KIA,POLI-695,Restu Saragih,3350538183308560,done,2025-01-21 13:00:00,dr. Budi
+1920,Poli KIA,POLI-458,Niyaga Santoso,8023852517667912,serving,2025-05-07 10:00:00,dr. Dina
+1921,Poli KIA,POLI-980,Clara Hutagalung,2586701402156620,done,2025-04-10 16:00:00,dr. Eka
+1922,Poli Lansia,POLI-913,Drs. Natalia Suryono,2584181223026847,done,2025-04-23 17:00:00,dr. Eka
+1923,Poli Lansia,POLI-766,Oni Oktaviani,1898109646359203,done,2025-01-28 15:00:00,dr. Fajar
+1924,Poli Lansia,POLI-197,Puti Ana Halim,9969327397412939,waiting,2025-04-11 17:00:00,dr. Dina
+1925,Poli KB,POLI-223,"Tgk. Yulia Prastuti, S.I.Kom",3834431719629956,done,2025-01-09 16:00:00,dr. Citra
+1926,Poli KIA,POLI-575,"Mutia Saefullah, S.Psi",4518759677071031,waiting,2025-03-11 09:00:00,dr. Fajar
+1927,Poli Gizi,POLI-031,Zulaikha Rahmawati,3213034095179843,done,2025-03-20 17:00:00,dr. Citra
+1928,Poli Gizi,POLI-345,"dr. Sari Sihombing, S.E.I",8439578107788276,done,2025-02-18 09:00:00,dr. Fajar
+1929,Poli KIA,POLI-982,Cemeti Nugroho,8002764027532339,done,2025-04-26 18:00:00,dr. Andi
+1930,Poli Gigi,POLI-531,Bakianto Narpati,5154083120669255,done,2025-03-24 11:00:00,dr. Citra
+1931,Poli KIA,POLI-954,Siska Utami,0707598504481112,done,2025-01-26 17:00:00,dr. Andi
+1932,Poli Lansia,POLI-638,Ella Zulkarnain,2096853732858187,done,2025-01-03 10:00:00,dr. Dina
+1933,Poli Gizi,POLI-840,Salsabila Firgantoro,9573027751906389,done,2025-01-04 12:00:00,dr. Andi
+1934,Poli KIA,POLI-589,Prayogo Pradipta,6428646838729450,waiting,2025-01-20 11:00:00,dr. Andi
+1935,Poli Gizi,POLI-188,Lurhur Adriansyah,1029355123472180,done,2025-04-06 17:00:00,dr. Eka
+1936,Poli KIA,POLI-070,Upik Pratiwi,7093941711449921,done,2025-01-09 15:00:00,dr. Eka
+1937,Poli Gigi,POLI-817,"Mahesa Gunawan, S.T.",8179429582417012,done,2025-01-17 12:00:00,dr. Dina
+1938,Poli KB,POLI-535,Elisa Saptono,0533067847582698,done,2025-04-05 16:00:00,dr. Budi
+1939,Poli Gigi,POLI-026,"Dr. Harjasa Hastuti, S.Sos",1987637926490180,done,2025-02-07 08:00:00,dr. Dina
+1940,Poli Gizi,POLI-057,Rahayu Handayani,3671049480354800,done,2025-01-12 17:00:00,dr. Eka
+1941,Poli Gizi,POLI-603,Calista Hassanah,1230448763648347,waiting,2025-03-07 09:00:00,dr. Fajar
+1942,Poli KB,POLI-521,Galur Nashiruddin,5314043125931811,done,2025-04-28 11:00:00,dr. Budi
+1943,Poli KB,POLI-039,Cut Fitria Gunawan,5025026208469190,done,2025-01-25 12:00:00,dr. Eka
+1944,Poli KB,POLI-438,Drs. Empluk Rahmawati,3728659148591752,waiting,2025-05-17 13:00:00,dr. Fajar
+1945,Poli Gizi,POLI-052,"R.A. Mila Mandasari, S.T.",5757444379494830,done,2025-05-24 17:00:00,dr. Fajar
+1946,Poli Gigi,POLI-086,Ayu Sudiati,5483025297650059,done,2025-03-10 13:00:00,dr. Fajar
+1947,Poli KIA,POLI-797,Bakda Anggriawan,5518343550607500,waiting,2025-04-26 13:00:00,dr. Budi
+1948,Poli Gigi,POLI-159,Zizi Riyanti,0931647742031490,done,2025-02-07 16:00:00,dr. Citra
+1949,Poli Lansia,POLI-798,"Umay Mangunsong, M.Farm",8594312223863665,done,2025-05-07 10:00:00,dr. Fajar
+1950,Poli KIA,POLI-112,Dian Zulaika,5546719020288831,waiting,2025-02-26 16:00:00,dr. Andi
+1951,Poli Umum,POLI-642,Hartaka Sihotang,4809966516106731,serving,2025-04-30 12:00:00,dr. Budi
+1952,Poli KIA,POLI-628,Vanya Wijaya,2550136989562713,done,2025-01-26 08:00:00,dr. Citra
+1953,Poli KIA,POLI-809,Anastasia Hidayanto,1546338310822691,waiting,2025-03-10 18:00:00,dr. Eka
+1954,Poli KB,POLI-496,Jamal Permadi,9854736750317482,done,2025-02-01 09:00:00,dr. Dina
+1955,Poli Gizi,POLI-199,"Cornelia Mahendra, S.Psi",2031392579993374,done,2025-01-19 09:00:00,dr. Eka
+1956,Poli Umum,POLI-708,Radit Salahudin,2013538469616493,waiting,2025-02-25 12:00:00,dr. Andi
+1957,Poli Gizi,POLI-324,"Prayogo Nugroho, S.E.",8315415114537630,waiting,2025-05-13 11:00:00,dr. Andi
+1958,Poli KB,POLI-491,"Wani Laksita, S.E.",9220698363767499,serving,2025-04-18 17:00:00,dr. Andi
+1959,Poli KB,POLI-880,"Cindy Yuniar, S.Pd",3271992577387235,done,2025-01-08 15:00:00,dr. Budi
+1960,Poli KIA,POLI-560,Harsaya Iswahyudi,8944757348575058,done,2025-01-22 11:00:00,dr. Fajar
+1961,Poli KIA,POLI-744,"Rizki Palastri, S.Kom",4481635812831677,done,2025-05-22 12:00:00,dr. Citra
+1962,Poli KIA,POLI-270,Widya Nashiruddin,6987572170504435,done,2025-01-25 17:00:00,dr. Eka
+1963,Poli KB,POLI-749,"Melinda Pangestu, M.Pd",3857439966176962,done,2025-04-17 09:00:00,dr. Dina
+1964,Poli Gizi,POLI-880,Sutan Adiarja Saptono,3364565079326053,done,2025-05-18 09:00:00,dr. Budi
+1965,Poli KIA,POLI-322,Ayu Kusumo,9999638193778887,done,2025-05-05 14:00:00,dr. Fajar
+1966,Poli Umum,POLI-386,"Cut Belinda Mansur, S.E.",3140370506387990,waiting,2025-02-26 11:00:00,dr. Andi
+1967,Poli KB,POLI-720,Hj. Nadine Saefullah,7894186813034521,done,2025-02-25 18:00:00,dr. Fajar
+1968,Poli Lansia,POLI-225,Jaga Winarsih,0911740047355267,done,2025-04-21 16:00:00,dr. Eka
+1969,Poli Umum,POLI-401,Vega Budiman,0660855797472770,waiting,2025-04-27 10:00:00,dr. Eka
+1970,Poli Lansia,POLI-468,"KH. Jati Latupono, S.Gz",0378608851413612,serving,2025-03-26 15:00:00,dr. Dina
+1971,Poli KB,POLI-224,Cut Alika Prakasa,7008881726643001,serving,2025-01-29 09:00:00,dr. Citra
+1972,Poli Lansia,POLI-061,"Garang Mardhiyah, S.Ked",9846568026282954,done,2025-01-21 18:00:00,dr. Dina
+1973,Poli KB,POLI-732,Juli Pertiwi,1614057895366477,done,2025-05-25 08:00:00,dr. Dina
+1974,Poli Lansia,POLI-847,Purwa Nuraini,7169996749455635,done,2025-02-07 10:00:00,dr. Dina
+1975,Poli Gigi,POLI-264,Diah Sinaga,3603084045257048,done,2025-01-13 13:00:00,dr. Fajar
+1976,Poli Lansia,POLI-054,Salimah Wacana,0058912242432257,serving,2025-02-09 13:00:00,dr. Andi
+1977,Poli KB,POLI-783,"Argono Permata, S.H.",8545677342313559,done,2025-04-19 15:00:00,dr. Fajar
+1978,Poli Lansia,POLI-122,"Ir. Saiful Padmasari, S.Pd",1764689783415573,done,2025-05-06 13:00:00,dr. Citra
+1979,Poli Umum,POLI-896,Aurora Anggraini,7155519174641344,waiting,2025-02-21 18:00:00,dr. Eka
+1980,Poli Umum,POLI-464,"Cut Zizi Wulandari, M.Pd",1099476638804702,waiting,2025-04-11 18:00:00,dr. Citra
+1981,Poli Gigi,POLI-470,"Dinda Tamba, M.Pd",1782000715348707,serving,2025-03-19 09:00:00,dr. Fajar
+1982,Poli Gizi,POLI-341,Gatot Anggraini,2932315315967413,done,2025-03-20 10:00:00,dr. Fajar
+1983,Poli Umum,POLI-263,Dr. Artawan Purwanti,0933975098126380,done,2025-03-06 18:00:00,dr. Citra
+1984,Poli Gizi,POLI-565,Dimaz Sihotang,4189598930861330,done,2025-02-25 13:00:00,dr. Eka
+1985,Poli Umum,POLI-560,Opan Pradipta,5313042084234022,done,2025-03-24 15:00:00,dr. Eka
+1986,Poli Gigi,POLI-028,Clara Gunawan,3074701808137365,done,2025-05-11 09:00:00,dr. Eka
+1987,Poli KB,POLI-810,Purwanto Napitupulu,0054803516551779,done,2025-01-02 18:00:00,dr. Citra
+1988,Poli Lansia,POLI-551,R. Caturangga Kusmawati,8768409741824359,done,2025-04-27 12:00:00,dr. Eka
+1989,Poli KB,POLI-984,Danuja Namaga,6031347116781594,waiting,2025-04-22 15:00:00,dr. Citra
+1990,Poli Gizi,POLI-127,Tgk. Bakianto Kusmawati,1946904676298013,waiting,2025-02-04 08:00:00,dr. Andi
+1991,Poli Umum,POLI-676,Jasmani Natsir,9252366176339558,waiting,2025-03-23 08:00:00,dr. Andi
+1992,Poli Lansia,POLI-035,Rama Riyanti,2679439267815823,serving,2025-05-18 17:00:00,dr. Andi
+1993,Poli Umum,POLI-919,Keisha Oktaviani,2113841540742098,serving,2025-05-31 10:00:00,dr. Dina
+1994,Poli KIA,POLI-861,Elisa Damanik,7784677204984773,waiting,2025-04-12 15:00:00,dr. Citra
+1995,Poli Lansia,POLI-245,"Malika Sinaga, M.Farm",6914790162155819,done,2025-01-29 14:00:00,dr. Budi
+1996,Poli KB,POLI-717,"Ir. Sakura Ramadan, M.Pd",4027793057076445,done,2025-02-28 15:00:00,dr. Fajar
+1997,Poli Gigi,POLI-326,Naradi Mustofa,9581111579740352,done,2025-05-06 15:00:00,dr. Andi
+1998,Poli KIA,POLI-485,Liman Natsir,9632161004994778,done,2025-03-24 10:00:00,dr. Fajar
+1999,Poli Lansia,POLI-270,Tania Waskita,8906039328005357,waiting,2025-01-08 10:00:00,dr. Fajar
+2000,Poli Gizi,POLI-901,Raisa Permata,4856524661710507,done,2025-01-14 15:00:00,dr. Fajar

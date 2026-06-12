@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AntriCare - Sistem Antrian Online Puskesmas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <nav class="navbar">
+        <div class="logo">
+            <img src="images/logo.png" alt="Logo AntriCare" class="logo-img">
+            <span>AntriCare</span>
+        </div>
+        <ul class="nav-links">
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="about.html">ABOUT US</a></li>
+            <li class="dropdown">
+                <a href="javascript:void(0);" class="dropbtn">POLI &#9662;</a>
+                <div class="dropdown-content" id="poliDropdown">
+                    <a href="poli.html#umum">UMUM</a>
+                    <a href="poli.html#gigi">MULUT DAN GIGI</a>
+                    <a href="poli.html#kia">KANDUNGAN DAN ANAK</a>
+                    <a href="poli.html#kb">KELUARGA BERENCANA</a>
+                    <a href="poli.html#gizi">POLI GIZI</a>
+                    <a href="poli.html#lansia">LANSIA</a>
+                </div>
+            </li>
+             <li><a href="daftar-antrian.php">ANTRIAN</a></li>
+            <li><a href="jadwal.php">JADWAL</a></li>
+            <li><a href="profil.php">PROFIL</a></li>
+        </ul>
+
+        <div class="nav-buttons" id="nav-auth">
+            <a href="login.html" class="btn btn-login">LOG IN</a>
+        </div>
+    </nav>
+</header>
+
+ <main>
+        <section id="poli" class="poli-section poli-listing-page">
+            <h2>Layanan Poli yang Tersedia</h2>
+            <div class="poli-cards">
+
+        <div class="card" id="umum">
+                    <img src="images/poli-umum.png" alt="Poli Umum Icon">
+                    <h3>Poli Umum</h3>
+                    <p>Melayani pemeriksaan kesehatan dasar untuk semua pasien. Menangani penyakit ringan sedang, memberikan obat, serta rujukan bila perlu.</p>
+                    <h3>Layanan Utama:</h3>
+                <p>1.Konsultasi kesehatan dan diagnosis penyakit umum.</p>
+                    <p>2. Penanganan demam, flu, batuk, dan infeksi ringan lainnya.</p>
+                    <p>3. Pemeriksaan tekanan darah dan gula darah.</p>
+                    <p>4. Pemberian resep obat sesuai diagnosis.</p>
+                    <p>5. Surat keterangan sehat dan rujukan medis.</p>
+            <div class="nav-buttons">  
+      <a href="antrian.php" class="btn btn-primary">Ambil Antrian Poli</a>
+    </div>
+    </div>
+                      
+        <div class="card" id="gigi">
+                    <img src="images/Poli Gigi.png" alt="Poli Gigi Icon">
+                    <h3>Poli Gigi dan Mulut</h3>
+                    <p>Melayani pemeriksaan dan perawatan untuk menjaga kesehatan gigi dan mulut. </p>
+                    <h3>Layanan Utama:</h3>
+                    <p>1. Pemeriksaan dan konsultasi gigi.</p>
+                    <p>2. Pembersihan karang gigi (Scaling).</p>
+                    <p>3. Penambalan gigi.</p>
+                    <p>4. Pencabutan gigi.</p>
+                    <p>5. Penyuluhan kesehatan gigi.</p>
+            <div class="nav-buttons">  
+      <a href="antrian.php" class="btn btn-primary">Ambil Antrian Poli</a>
+    </div>
+</div>
+
+        <div class="card" id="kb">
+                    <img src="images/KB.png" alt="Poli KB Icon">
+                    <h3>Poli Keluarga Berencana</h3>
+                    <p>Membantu keluarga dalam merencanakan kehamilan yang sehat serta mengatur jarak kelahiran untuk meningkatkan kualitas kesehatan ibu dan anak.</p>
+                    <h3>Layanan Utama:</h3>
+                    <p>1. Konsultasi perencanaan kehamilan.</p>
+                    <p>2. Layanan untuk menunda atau menjarangkan kelahiran.</p>
+                    <p>3. Peningkatan kualitas kesehatan ibu dan anak.</p>
+            <div class="nav-buttons">  
+      <a href="antrian.php" class="btn btn-primary">Ambil Antrian Poli</a>
+    </div>
+                </div>
+
+        <div class="card" id="lansia">
+                    <img src="images/lansia.png" alt="Poli lansia Icon">
+                    <h3>Poli Lansia</h3>
+                    <p>Menyediakan layanan kesehatan yang dikhususkan bagi pasien lanjut usia, berfokus pada pemeriksaan rutin dan pengelolaan penyakit kronis. </p>
+                    <h3>Layanan Utama:</h3>
+                <p>1. Pemeriksaan kesehatan rutin untuk lansia.</p>
+                    <p>2. Pemantauan penyakit kronis seperti hipertensi dan diabetes.</p>
+                    <p>3. Pemberian obat sesuai kebutuhan.</p>
+                    <p>4. Edukasi mengenai gaya hidup sehat untuk lansia.</p>
+            <div class="nav-buttons">  
+      <a href="antrian.php" class="btn btn-primary">Ambil Antrian Poli</a>
+    </div>
+                </div>
+
+        <div class="card" id="Gizi">
+                    <img src="images/Gizi.png" alt="Poli Gizi Icon">
+                    <h3>Poli Gizi</h3>
+                    <p>Memberi pelayanan yang berfokus pada asuhan gizi terstandar yang berkelanjutan, mulai dari pengkajian hingga evaluasi.</p>
+                    <h3>Layanan Utama:</h3>
+                <p>1. Konsultasi gizi</p>
+                    <p>2. Edukasi gizi</p>
+                    <p>3. Terapi nutrisi</p>
+           <div class="nav-buttons">  
+      <a href="antrian.php" class="btn btn-primary">Ambil Antrian Poli</a>
+    </div>
+                </div>
+
+        <div class="card" id="kia">
+                    <img src="images/KIA.png" alt="Poli KIA Icon">
+                    <h3>Poli Kandungan Ibu dan Anak (KIA)</h3>
+                    <p>Melayani pemeriksaan kesehatan yang berfokus pada ibu dan anak, mulai dari masa kehamilan hingga tumbuh kembang anak prasekolah.</p>
+                    <h3>Layanan Utama:</h3>
+                    <p>1. Pemeriksaan Kehamilan (ANC)</p>
+                    <p>2. Pemeriksaan Nifas</p>
+                    <p>3. Pemeriksaan Anak</p>
+                    <p>4. Pemeriksaan skrining untuk deteksi dini kanker serviks (Tes IVA).</p>
+                    <p>5. Imunisasi</p>
+            <div class="nav-buttons">  
+      <a href="antrian.php" class="btn btn-primary">Ambil Antrian Poli</a>
+    </div>
+                </div>
+    </div>
+    </div>
+</div>
+
+</section>
+ <footer id="contact">
+        <div class="footer-container">
+            <div class="footer-col" id="about">
+                <h3>About Antri Care</h3>
+                <p>Layanan antrian online yang memudahkan pasien puskesmas mendapatkan nomor antrian secara cepat, praktis, dan tanpa menunggu lama.</p>
+            </div>
+           
+            <div class="footer-col">
+                <h3>Contact</h3>
+                <p>Jl. Isekai No. 24, Surabaya</p>
+                <p>AntriCare.com</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>Antricare© 2024 by Kelompok 6</p>
+        </div>
+    </footer>
+     <script src="script.js"></script>
+   
+    </body>
+</html>

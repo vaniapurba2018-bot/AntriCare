@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up - AntriCare</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="form-page">
+<header>
+    <nav class="navbar">
+        <div class="logo">
+            <img src="images/logo.png" alt="Logo AntriCare" class="logo-img">
+            <span>AntriCare</span>
+        </div>
+        <ul class="nav-links">
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="about.html">ABOUT US</a></li>
+            <li class="dropdown">
+                <a href="javascript:void(0);" class="dropbtn">POLI &#9662;</a>
+                <div class="dropdown-content" id="poliDropdown">
+                    <a href="poli.html#umum">UMUM</a>
+                    <a href="poli.html#gigi">MULUT DAN GIGI</a>
+                    <a href="poli.html#kia">KANDUNGAN DAN ANAK</a>
+                    <a href="poli.html#kb">KELUARGA BERENCANA</a>
+                    <a href="poli.html#gizi">POLI GIZI</a>
+                    <a href="poli.html#lansia">LANSIA</a>
+                </div>
+            </li>
+             <li><a href="daftar-antrian.php">ANTRIAN</a></li>
+            <li><a href="jadwal.php">JADWAL</a></li>
+            <li><a href="profil.php">PROFIL</a></li>
+        </ul>
+
+        <div class="nav-buttons" id="nav-auth">
+            <a href="login.html" class="btn btn-login">LOG IN</a>
+        </div>
+    </nav>
+</header>
+
+<main class="form-container">
+    <div class="form-box">
+        <h2>Sign Up</h2>
+        <p>Fill out the form below to sign up for AntriCare.<br>Already signed up? Then just <a href="login.html">Log In</a>.</p>
+
+        <form id="signupForm">
+            <div class="input-group">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="input-group">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div class="input-group">
+                <label for="password">Password</label>
+                <div class="password-wrapper">
+                    <input type="password" id="password" name="password" required>
+                    <span class="toggle-password"></span>
+                </div>
+            </div>
+            <div class="checkbox-group">
+                <input type="checkbox" id="terms" name="terms" required>
+                <label for="terms">I agree with AntriCare's Privacy Policy and Terms Conditions</label>
+            </div>
+            <button type="submit" class="btn btn-primary btn-full">
+                <span class="btn-text">SIGN UP</span>
+                <span class="spinner" style="display: none;"></span>
+            </button>
+        </form>
+    </div>
+</main>
+<script src="script.js"></script>
+</body>
+</html>

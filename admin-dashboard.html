@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard Panel</title>
+    <link rel="stylesheet" href="dashboard-style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <div class="dashboard-container">
+        <aside class="filter-sidebar">
+            <h3><i class="filter-icon">⏳</i> Filter & Slicers</h3>
+            <div class="filter-group">
+                <label for="filter-date">Rentang Tanggal</label>
+                <input type="date" id="filter-date-start">
+                <input type="date" id="filter-date-end">
+            </div>
+            <div class="filter-group">
+                <label for="filter-city">Kota</label>
+                <select id="filter-city">
+                    <option value="all">Semua Kota</option>
+                    <option value="jakarta">Jakarta</option>
+                    <option value="surabaya">Surabaya</option>
+                    <option value="bandung">Bandung</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="filter-status">Status</label>
+                <select id="filter-status">
+                    <option value="all">Semua Status</option>
+                    <option value="aktif">Aktif</option>
+                    <option value="menunggu">Menunggu</option>
+                </select>
+            </div>
+            <button class="btn-apply">Terapkan Filter</button>
+        </aside>
+
+        <main class="main-content">
+            <header class="dashboard-header">
+                <h2>Analisis Performa Sistem (Admin Panel)</h2>
+            </header>
+
+            <section class="kpi-grid">
+                <div class="kpi-card">
+                    <span class="kpi-title">Total Pengguna</span>
+                    <span class="kpi-value">1.234 <small>orang</small></span>
+                </div>
+                <div class="kpi-card">
+                    <span class="kpi-title">Transaksi (Hari Ini)</span>
+                    <span class="kpi-value">Rp 50M</span>
+                </div>
+                <div class="kpi-card">
+                    <span class="kpi-title">Rata-rata Rating</span>
+                    <span class="kpi-value">4,8 <small>/ 5</small></span>
+                </div>
+                <div class="kpi-card">
+                    <span class="kpi-title">Konversi (Visit → Aksi)</span>
+                    <span class="kpi-value">23%</span>
+                </div>
+            </section>
+
+            <section class="visuals-grid">
+                <div class="chart-card large">
+                    <h3>Tren Pendaftar Mingguan</h3>
+                    <canvas id="trendChart"></canvas>
+                </div>
+
+                <div class="chart-card">
+                    <h3>Pendaftar per Kota</h3>
+                    <canvas id="cityChart"></canvas>
+                </div>
+
+                <div class="chart-card">
+                    <h3>Persebaran Pengguna (Indonesia)</h3>
+                    <div class="map-placeholder">
+                        <div class="map-overlay-info">Peta Kepadatan Geografis</div>
+                        <div class="indonesia-map-mock">
+                            <span class="hotspot jkt" style="opacity: 0.9;"></span>
+                            <span class="hotspot sby" style="opacity: 0.7;"></span>
+                            <span class="hotspot bdg" style="opacity: 0.5;"></span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="table-section">
+                <h3>Data Detail Pendaftar Terbaru</h3>
+                <div class="table-responsive">
+                    <table class="detail-table">
+                        <thead>
+                            <tr>
+                                <th>Nama</th>
+                                <th>Email</th>
+                                <th>Tanggal Daftar</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Andi</td>
+                                <td>andi@b.com</td>
+                                <td>1 Juni 2026</td>
+                                <td><span class="status-badge active">Aktif</span></td>
+                            </tr>
+                            <tr>
+                                <td>Budi</td>
+                                <td>budi@c.com</td>
+                                <td>2 Juni 2026</td>
+                                <td><span class="status-badge pending">Menunggu</span></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="dashboard-script.js"></script>
+</body>
+</html>
